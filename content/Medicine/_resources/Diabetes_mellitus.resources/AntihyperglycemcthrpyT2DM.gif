@@ -1,0 +1,178 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://onesearch.library.utoronto.ca/sites/default/files/utl-favicon_0.png" type="image/png" />
+<meta name="description" content="The University of Toronto Libraries system is the largest academic library in Canada and consists of 44 libraries located on three university campuses: St. George, Mississauga and Scarborough." />
+<meta property="og:type" content="university" />
+<meta property="og:url" content="https://library.utoronto.ca" />
+<meta property="og:title" content="University of Toronto Libraries" />
+<meta property="og:description" content="The University of Toronto Libraries system is the largest academic library in Canada and consists of 44 libraries located on three university campuses: St. George, Mississauga and Scarborough." />
+<meta property="og:image:secure_url" content="https://onesearch.library.utoronto.ca/sites/default/files/morrison1.jpg" />
+<meta property="og:image:alt" content="Morrison pavilion Gerstein" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="uoftlibraries" />
+<meta name="twitter:title" content="University of Toronto Libraries" />
+<meta name="twitter:description" content="The University of Toronto Libraries system is the largest academic library in Canada and consists of 44 libraries located on three university campuses: St. George, Mississauga and Scarborough." />
+<title>my.access &mdash; University of Toronto Libraries</title>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://content.library.utoronto.ca/common/rwd/css/main.min.css" type="text/css">
+  <script src="https://content.library.utoronto.ca/common/bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body>
+<header role="header">
+  <div class="header-wrapper">
+    <a href="https://onesearch.library.utoronto.ca"><img class="logo" src="/images/UTL-correct-white-logo.png" alt="utl home" class="logo img-responsive" border="0" alt="UTL home"/></a>
+  </div>
+</header>
+
+<nav role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="research-main navbar-item"><a href="https://onesearch.library.utoronto.ca/research">Research</a></li>
+        <li class="services-main navbar-item"><a href="https://onesearch.library.utoronto.ca/services">Services</a></li>
+        <li class="visit-main navbar-item"><a href="https://onesearch.library.utoronto.ca/visit">Visit</a></li>
+        <li class="ask-main navbar-item"><a href="https://onesearch.library.utoronto.ca/ask">Ask</a></li>
+        <li class="about-main navbar-item"><a href="https://onesearch.library.utoronto.ca/about">About</a></li>
+        <li class="myaccount-main navbar-item"><a href="https://librarysearch.library.utoronto.ca/discovery/account?vid=01UTORONTO_INST:UTORONTO&section=overview&lang=en">My account</a></li>
+        <li class="uoft-main navbar-item dropdown"><a href="https://utoronto.ca">U of T</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container">
+<style>
+h1 {
+    padding-top:2.5%;
+    padding-bottom:5px;
+    border-bottom:1px solid lightblue;
+}
+
+h2 {
+    padding-bottom:0px;
+    margin:0;
+    font-size:1.5em;
+    padding-top:15px;
+}
+
+p {
+    font-size:1.1em;
+    line-height:1.8em;
+    max-width:800px;
+}
+
+p a {
+    font-weight:bold;
+}
+
+</style>
+
+<h1>Connect to UpToDate using your UTORid</h1>
+
+<p><a href="https://www.uptodate.com/home"><b>UpToDate</b></a> is a licensed resource available to <b>students</b> through the University of Toronto Libraries.</p>
+
+<p><strong><a href='/utorauth/?url=https://uptodate.com' class="loginButton">Login to UpToDate with your UTORid</a></strong>
+
+<p><b>UpToDate</b> allows for individual account creation after login. Please refer to <b>UpToDate's</b> <a href="https://www.uptodate.com/home/privacy-policy">privacy policy</a>.</p>
+
+<h2>Trouble accessing UpToDate?</h2>
+<p>Email <a href="mailto:ask.gerstein@utoronto.ca">ask.gerstein@utoronto.ca</a> with your name and UTORid so that we can assist you.
+
+<h2>Obtain your UTORid</h2>
+<p>For assistance with determining or obtaining your UTORid, please contact us at <a href='mailto:reader.reg@utoronto.ca'>reader.reg@utoronto.ca.</a> If you are eligible to obtain a UTORid, library staff will provide you with activation instructions.</p>
+
+<h2>Reset your UTORid Password</h2>
+<p>If you know your UTORid but you have forgotten your password, please contact the <a href='mailto:help.desk@utoronto.ca'>Information Commons Help Desk</a> for assistance:</p>
+<p><a href='https://library.utoronto.ca/ic-help-desk-knowledge-base'>https://library.utoronto.ca/ic-help-desk-knowledge-base</a>
+<br>416-978-HELP (4357)
+<br>E-mail <a href='mailto:help.desk@utoronto.ca'>help.desk@utoronto.ca</a></p>
+<p>Information Commons staff will assist you with resetting your UTORid password, after which you can use it to access licensed e-resources from off-campus.</p>
+</div>
+<div id="footer">
+    <div class="row">
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-box">
+            <h3>Library links</h3>
+            <ul class="footer-menu">
+                <li><a href="https://onesearch.library.utoronto.ca"> Library Home </a>
+                </li>
+                <li><a href="https://onesearch.library.utoronto.ca/"> Search </a>
+                </li>
+                <li><a href="https://librarysearch.library.utoronto.ca/discovery/account?vid=01UTORONTO_INST:UTORONTO&section=fines&lang=en">Renew items and pay fines</a>
+                </li>
+                <li><a href="https://onesearch.library.utoronto.ca/library-hours"> Library hours </a>
+                </li>
+                <li><a href="https://onesearch.library.utoronto.ca/ask/"> Ask </a>
+                </li>
+                <li><a href="https://onesearch.library.utoronto.ca/sitemap">Site map</a>
+                </li>
+                <li><a href="https://q.utoronto.ca/">Quercus</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-box">
+            <h3>Libraries</h3>
+            <ul class="footer-menu">
+                <li><a href="https://onesearch.library.utoronto.ca/library-info/ROBARTS">Robarts</a>
+                </li>
+                <li><a href="https://gerstein.library.utoronto.ca/">Gerstein</a>
+                </li>
+                <li><a href="https://oise.library.utoronto.ca/">OISE</a>
+                </li>
+                <li><a href="https://engineering.library.utoronto.ca/">Engineering</a>
+                </li>
+                <li><a href="https://library.utm.utoronto.ca/">UT Mississauga Library</a>
+                </li>
+                <li><a href="https://utsc.library.utoronto.ca/">UT Scarborough Library</a>
+                </li>
+                <li><a href="https://www.utoronto.ca/welcome.html/">Information Commons</a>
+                </li>
+                <li><a href="https://onesearch.library.utoronto.ca/libraries">All libraries</a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-box">
+
+            <h3>Contact</h3>
+            <p><a href="https://onesearch.library.utoronto.ca/">University of Toronto Libraries</a>
+                <br />130 St. George St.,Toronto, ON, M5S 1A5
+                <br /><a href="https://onesearch.library.utoronto.ca/question-form">Get Library Help</a>
+                <br />416-978-8450
+                <br /><a href="http://maps.google.ca/maps?f=q&source=s_q&hl=en&geocode=&q=130+St+George+St,+Toronto,+ON&sll=43.662749,-79.395962&sspn=0.012962,0.018454&ie=UTF8&z=17&iwloc=addr"> Map</a>
+                <br />About <a href="https://onesearch.library.utoronto.ca/university-toronto-libraries-and-online-accessibility">web accessibility</a>. Tell us about a <a href="https://accessibilityhelp.library.utoronto.ca/" id="access-help">web accessibility problem</a>.
+                <br />About <a href="https://onesearch.library.utoronto.ca/online-privacy-data-collection/">online privacy and data collection</a>.</p>
+            <p><span style="line-height: 1.538em;">© </span><a href="http://www.utoronto.ca/" style="line-height: 1.538em;">University of Toronto</a><span style="line-height: 1.538em;">. All rights reserved. Terms and conditions.</span>
+            </p>
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-box">
+            <h3>Connect with us</h3>
+            <ul class="footer-menu">
+                <li>
+                    <a href="http://twitter.com/uoftlibraries"><img alt="Follow us on twitter" src="https://onesearch.library.utoronto.ca/sites/all/themes/UTL_bootstrap/img/mediaicons/twitter.png" width="35" />Twitter</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UC51D4EB9a8Egx-o6mCZodEQ"><img alt="Follow us on Youtube" src="https://onesearch.library.utoronto.ca/sites/all/themes/UTL_bootstrap/img/mediaicons/youtube.png" width="35" />YouTube</a>
+                </li>
+                <li>
+                    <a href="https://instagram.com/uoftlibraries/"><img alt="Follow us on Instagram" src="https://onesearch.library.utoronto.ca/sites/all/themes/UTL_bootstrap/img/mediaicons/instagram.png" width="35" />Instagram</a>
+                </li>
+                <li><a href="https://onesearch.library.utoronto.ca/social-media">more social media</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+</body>
+</html>
