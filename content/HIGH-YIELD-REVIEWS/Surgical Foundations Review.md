@@ -1,26 +1,16 @@
 ---
+date created: Friday, May 30th 2025, 1:22:24 pm
+date modified: Sunday, December 21st 2025, 4:43:30 pm
 ---
-# Royal College Surgical Foundations Study Guide
-
-## Table of Contents
-
-1. [Perioperative Care](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#perioperative-care)
-2. [Surgical Critical Care](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#surgical-critical-care)
-3. [Surgical Anatomy and Physiology](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#surgical-anatomy-and-physiology)
-4. [Surgical Pathology and Microbiology](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#surgical-pathology-and-microbiology)
-5. [Principles of Surgical Oncology](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#principles-of-surgical-oncology)
-6. [Trauma and ATLS](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#trauma-and-atls)
-7. [Ethics and Professionalism](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#ethics-and-professionalism)
-8. [Imaging and Diagnostic Studies](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#imaging-and-diagnostic-studies)
-9. [Wound Healing and Surgical Infections](https://claude.ai/chat/6308d966-89cf-4089-b9f4-80d5df308070#wound-healing-and-surgical-infections)
+## Royal College Surgical Foundations Study Guide
 
 * * *
 
-# 1\. PERIOPERATIVE CARE
+## 1\. PERIOPERATIVE CARE
 
-## PREOPERATIVE ASSESSMENT
+### PREOPERATIVE ASSESSMENT
 
-### History & Risk Stratification
+#### History & Risk Stratification
 
 **Key Components:**
 
@@ -48,7 +38,7 @@
 
 * Screen for **malignant hyperthermia** risk
 
-### Optimization of Comorbidities
+#### Optimization of Comorbidities
 
 **Cardiac Conditions**
 
@@ -83,7 +73,7 @@
 * Optimize blood pressure control
 * **Day-of-surgery consideration**: Hold ACE inhibitors/ARBs to prevent refractory hypotension
 
-### Medication Management
+#### Medication Management
 
 **Continue These Medications:**
 
@@ -119,7 +109,7 @@
 * Herbal supplements (stop ~2 weeks prior):
 	* Garlic, ginkgo, ginseng, St. John's Wort
 
-### Laboratory and Diagnostic Workup
+#### Laboratory and Diagnostic Workup
 
 **Order Tests Selectively Based On:**
 
@@ -138,7 +128,7 @@
 | **CXR** | Known cardiopulmonary disease or new symptoms |
 | **Type & Screen** | Major surgery requiring potential transfusion |
 
-### Informed Consent & Patient Safety
+#### Informed Consent & Patient Safety
 
 **Essential Elements of Consent:**
 
@@ -154,7 +144,7 @@
 * Use surgical safety checklist
 * Verify special needs (translator, religious considerations)
 
-### Fasting Guidelines and Prophylaxis
+#### Fasting Guidelines and Prophylaxis
 
 **NPO Guidelines:**
 
@@ -184,9 +174,9 @@
 
 * * *
 
-## INTRAOPERATIVE MANAGEMENT
+### INTRAOPERATIVE MANAGEMENT
 
-### Anesthesia and Monitoring
+#### Anesthesia and Monitoring
 
 **Standard ASA Monitors:**
 
@@ -202,7 +192,7 @@
 * **Central venous pressure**
 * **Urinary catheter**: Monitor output as perfusion proxy
 
-### Anesthetic Techniques
+#### Anesthetic Techniques
 
 **Options:**
 
@@ -217,24 +207,21 @@
 
 **Common Anesthetic Agents & Effects:**
 
-|     |     |
-| --- | --- |
-| Agent | Effects |
-| **Propofol** | Vasodilation, hypotension |
-| **Ketamine** | ↑HR, ↑BP (useful in shock) |
-| **Etomidate** | Minimal hemodynamic change, may depress adrenal function |
-| **Succinylcholine** | Fast-acting, ↑K+, malignant hyperthermia risk |
-| **Rocuronium** | Longer action, reversed with sugammadex |
+| Agent               | Effects                                                  |
+| ------------------- | -------------------------------------------------------- |
+| **Propofol**        | Vasodilation, hypotension                                |
+| **Ketamine**        | ↑HR, ↑BP (useful in shock)                               |
+| **Etomidate**       | Minimal hemodynamic change, may depress adrenal function |
+| **Succinylcholine** | Fast-acting, ↑K+, malignant hyperthermia risk            |
+| **Rocuronium**      | Longer action, reversed with sugammadex                  |
 
-### Intraoperative Considerations
+#### Intraoperative Considerations
 
 **Temperature Management:**
-
 * Prevent hypothermia (increases bleeding and infection risk)
 * Use warming blankets and fluid warmers
 
 **Patient Positioning:**
-
 * Pad pressure points
 * Avoid nerve injuries:
 	* Arms <90° at shoulder (brachial plexus)
@@ -246,7 +233,7 @@
 * Verify: Patient identity, procedure, site
 * Confirm: Antibiotics given, equipment available
 
-### Surgical Technique Principles (Halsted's)
+#### Surgical Technique Principles (Halsted's)
 
 1. **Gentle tissue handling**
 2. **Meticulous hemostasis**
@@ -256,10 +243,9 @@
 6. **Accurate tissue approximation**
 7. **Obliteration of dead space**
 
-### Fluid Management
+#### Fluid Management
 
 **Basic Guidelines:**
-
 * Maintenance: ~1-2 mL/kg/h crystalloid
 * Blood loss replacement:
 	* **3:1** ratio with crystalloid
@@ -267,13 +253,11 @@
 * Urine output target: ≥0.5 mL/kg/h
 
 **Transfusion Triggers:**
-
 * Acute loss >500 mL in small adult
 * Hemoglobin <7-8 g/dL (healthy patient)
 * Hemoglobin <8-10 g/dL (cardiac disease)
 
-### Critical Events Preparedness
-
+#### Critical Events Preparedness
 **Malignant Hyperthermia:**
 
 * **Signs**: ↑CO₂, muscle rigidity, fever, arrhythmias
@@ -289,9 +273,9 @@
 
 * * *
 
-## POSTOPERATIVE CARE
+### POSTOPERATIVE CARE
 
-### Immediate Post-Anesthesia (PACU)
+#### Immediate Post-Anesthesia (PACU)
 
 **Primary Concerns:**
 
@@ -309,38 +293,32 @@
 | **Pain** | IV opioids (PCA), multimodal analgesia |
 | **Sedation** | Lowest effective doses, naloxone if needed |
 
-### Standard Postoperative Orders (POST)
-
+#### Standard Postoperative Orders (POST)
 **P** - Pain management **O** - Oxygen/Out of bed **S** - Sedation/Fluids **T** - Thromboprophylaxis
 **O** - Observation/vitals **P** - Pathology (specimens) **E** - Elimination (catheter management) **R** - Respiratory care **A** - Activity **T** - Tests (labs, imaging) **I** - IV/Nutrition **V** - Ventilator care **E** - Education
 
-### Key Postoperative Management
+#### Key Postoperative Management
 
 **Vital Sign Monitoring:**
-
 * PACU: q15min
 * Ward (if stable): q4h
 
 **Fluid Management:**
-
 * Typical maintenance: D5/0.45% saline + 20 mEq KCl at 75-125 mL/h
 * Early oral intake encouraged (ERAS protocols)
 
 **Drain Management:**
-
 * Monitor output volume and character
 * Remove when output is low and serous
 
 **Activity:**
-
 * **Early mobilization** is crucial
 * Reduces DVT/PE risk
 * Improves pulmonary function
 * Speeds bowel function recovery
 
-### Common Postoperative Complications
-
-#### Fever (Classic Timeline - "5 W's")
+#### Common Postoperative Complications
+##### Fever (Classic Timeline - "5 W's")
 
 |     |     |     |
 | --- | --- | --- |
@@ -351,7 +329,7 @@
 | **7-10** | **Walk** (DVT/PE) | Doppler US or CTPA |
 | **Any time** | **Wonder drugs** | Review medications |
 
-#### Other Complications
+##### Other Complications
 
 **Bleeding:**
 
@@ -386,11 +364,11 @@
 
 * * *
 
-# 2\. SURGICAL CRITICAL CARE
+## 2\. SURGICAL CRITICAL CARE
 
-## TYPES OF SHOCK
+### TYPES OF SHOCK
 
-### 1\. Hypovolemic Shock
+#### 1\. Hypovolemic Shock
 
 **Cause:** Intravascular volume loss (hemorrhage, dehydration)
 **Classification of Hemorrhagic Shock:**
@@ -419,7 +397,7 @@
 * Urine output >0.5 mL/kg/hr
 * Clearing lactate
 
-### 2\. Cardiogenic Shock
+#### 2\. Cardiogenic Shock
 
 **Cause:** Pump failure (MI, cardiomyopathy)
 **Signs:**
@@ -438,7 +416,7 @@
 * Vasopressors if hypotensive
 * Consider mechanical support (IABP, ECMO)
 
-### 3\. Distributive Shock
+#### 3\. Distributive Shock
 
 **Types:**
 
@@ -458,7 +436,7 @@
 * **Neurogenic**: Fluids, pressors, atropine for bradycardia
 * **Anaphylactic**: IM epinephrine, fluids, antihistamines, steroids
 
-### 4\. Obstructive Shock
+#### 4\. Obstructive Shock
 
 **Causes:**
 
@@ -476,9 +454,9 @@
 | **Cardiac Tamponade** | Beck's triad (hypotension, JVD, muffled heart tones) | Pericardiocentesis |
 | **Massive PE** | Right heart failure, JVD | Thrombolytics or embolectomy |
 
-## SEPSIS AND SEPTIC SHOCK
+### SEPSIS AND SEPTIC SHOCK
 
-### Recognition
+#### Recognition
 
 **Definition:** Life-threatening organ dysfunction from dysregulated response to infection
 **Clinical Signs:**
@@ -490,7 +468,7 @@
 * ↑Lactate (>2 mmol/L)
 * Leukocytosis or leukopenia
 
-### Surviving Sepsis Campaign Bundle (First Hour)
+#### Surviving Sepsis Campaign Bundle (First Hour)
 
 1. **Obtain cultures** before antibiotics
 2. **Check lactate**
@@ -499,7 +477,7 @@
 	* Initial bolus: 30 mL/kg crystalloid
 	* For hypotension or lactate ≥4
 
-### Management Algorithm
+#### Management Algorithm
 
 **If Hypotension Persists After Fluids:**
 
@@ -521,28 +499,28 @@
 * **Glycemic control** <180 mg/dL
 * **DVT and stress ulcer prophylaxis**
 
-## ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS)
+### ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS)
 
-### Berlin Definition (PaO₂/FiO₂ on PEEP ≥5)
+#### Berlin Definition (PaO₂/FiO₂ on PEEP ≥5)
 
 * **Mild**: 201-300 mmHg
 * **Moderate**: 101-200 mmHg
 * **Severe**: ≤100 mmHg
 
-### Lung-Protective Ventilation Strategy
+#### Lung-Protective Ventilation Strategy
 
 * **Low tidal volumes**: ~6 mL/kg predicted body weight
 * **Plateau pressure**: <30 cm H₂O
 * **Adequate PEEP**
 * **Permissive hypercapnia** (tolerate if pH >7.2)
 
-### Additional Strategies for Severe ARDS
+#### Additional Strategies for Severe ARDS
 
 * **Prone positioning**
 * **Neuromuscular blockade**
 * **Consider ECMO** for refractory cases
 
-### Ventilator Weaning
+#### Ventilator Weaning
 
 **Daily Spontaneous Breathing Trial Criteria:**
 
@@ -556,9 +534,9 @@
 * RSBI = RR/TV(L)
 * RSBI <100 favorable for extubation
 
-## HEMODYNAMIC SUPPORT
+### HEMODYNAMIC SUPPORT
 
-### Vasoactive Medications
+#### Vasoactive Medications
 
 |     |     |     |
 | --- | --- | --- |
@@ -570,7 +548,7 @@
 | **Dobutamine** | β1  | Cardiogenic shock |
 | **Milrinone** | PDE-3 inhibitor | RV failure, pulm HTN |
 
-### Acute Kidney Injury (AKI)
+#### Acute Kidney Injury (AKI)
 
 **RRT Indications ("AEIOU"):**
 
@@ -580,23 +558,23 @@
 * **O**verload (volume)
 * **U**remic symptoms
 
-## ICU MANAGEMENT PRINCIPLES
+### ICU MANAGEMENT PRINCIPLES
 
-### Nutrition
+#### Nutrition
 
 * **Early enteral nutrition** (24-48h)
 * Target: 25-30 kcal/kg/day
 * Protein: 1.5-2 g/kg for surgical patients
 * TPN only if gut not functional >5-7 days
 
-### Sedation Goals
+#### Sedation Goals
 
 * Light sedation (RASS 0 to -2)
 * Daily sedation interruptions
 * Minimize benzodiazepines
 * Treat pain first
 
-### ICU Delirium Prevention
+#### ICU Delirium Prevention
 
 * Reorientation
 * Day-night cycling
@@ -606,11 +584,11 @@
 
 * * *
 
-# 3\. SURGICAL ANATOMY AND PHYSIOLOGY
+## 3\. SURGICAL ANATOMY AND PHYSIOLOGY
 
-## CARDIOVASCULAR SYSTEM
+### CARDIOVASCULAR SYSTEM
 
-### Key Physiologic Principles
+#### Key Physiologic Principles
 
 **Cardiac Output (CO) = HR × SV**
 
@@ -627,7 +605,7 @@
 * ↑Preload → ↑SV (to a point)
 * Guide fluid management
 
-### Surgical Anatomy Points
+#### Surgical Anatomy Points
 
 **Coronary Arteries:**
 
@@ -651,9 +629,9 @@
 	* Right: Around subclavian
 	* Left: Around ligamentum arteriosum
 
-## RESPIRATORY SYSTEM
+### RESPIRATORY SYSTEM
 
-### Physiology Basics
+#### Physiology Basics
 
 **Minute Ventilation = TV × RR**
 
@@ -672,7 +650,7 @@
 * Right shift (easier O₂ release): Acidosis, fever
 * Left shift: Alkalosis, hypothermia
 
-### Airway Anatomy
+#### Airway Anatomy
 
 **Critical Landmarks:**
 
@@ -688,9 +666,9 @@
 	* Line above nipple (5th ICS)
 * Insert above rib (neurovascular bundle runs below)
 
-## RENAL & FLUID/ELECTROLYTE
+### RENAL & FLUID/ELECTROLYTE
 
-### Fluid Compartments
+#### Fluid Compartments
 
 **Total Body Water = 60% body weight**
 
@@ -704,14 +682,14 @@
 * Only ~25% stays intravascular
 * Need large volumes for plasma expansion
 
-### Maintenance Fluids ("4-2-1 Rule")
+#### Maintenance Fluids ("4-2-1 Rule")
 
 * First 10 kg: 4 mL/kg/hr
 * Next 10 kg: 2 mL/kg/hr
 * Each kg >20: 1 mL/kg/hr
 * Example: 70 kg = 110 mL/hr
 
-### Electrolyte Management
+#### Electrolyte Management
 
 |     |     |     |
 | --- | --- | --- |
@@ -720,7 +698,7 @@
 | **Potassium** | 3.5-5.0 | Deficit ~100-200 mEq per 1 mEq/L low |
 | **Calcium** | 8.5-10.5 | Watch post-thyroid/parathyroid surgery |
 
-### Renal Anatomy
+#### Renal Anatomy
 
 **Hilum Organization: "VAU"**
 
@@ -734,9 +712,9 @@
 * Upper ureter: Renal artery supply
 * Lower ureter: Internal iliac supply
 
-## GASTROINTESTINAL SYSTEM
+### GASTROINTESTINAL SYSTEM
 
-### GI Motility
+#### GI Motility
 
 **Post-op Ileus Recovery Timeline:**
 
@@ -744,7 +722,7 @@
 * Stomach: 2-3 days
 * Colon: 3-5 days
 
-### Blood Supply
+#### Blood Supply
 
 **Arterial Supply:**
 
@@ -758,7 +736,7 @@
 * Marginal artery of Drummond (SMA-IMA)
 * Internal iliac to IMA via rectal arteries
 
-### Embryologic Conditions
+#### Embryologic Conditions
 
 **Malrotation:**
 
@@ -773,9 +751,9 @@
 * 2 inches long
 * 2 types of ectopic tissue
 
-## HIGH-YIELD ANATOMICAL STRUCTURES
+### HIGH-YIELD ANATOMICAL STRUCTURES
 
-### Inguinal Canal
+#### Inguinal Canal
 
 **Boundaries:**
 
@@ -788,7 +766,7 @@
 * **Direct**: Medial to inferior epigastric vessels
 * **Indirect**: Lateral to vessels (through deep ring)
 
-### Calot's Triangle (Cystohepatic)
+#### Calot's Triangle (Cystohepatic)
 
 **Borders:**
 
@@ -798,7 +776,7 @@
 
 **Contains:** Cystic artery (must identify for cholecystectomy)
 
-### Peritoneal Spaces
+#### Peritoneal Spaces
 
 **Dependent Areas:**
 
@@ -806,7 +784,7 @@
 * **Female pelvis**: Pouch of Douglas
 * Used for FAST exam fluid detection
 
-### Retroperitoneal Structures ("SAD PUCKER")
+#### Retroperitoneal Structures ("SAD PUCKER")
 
 * **S**uprarenal glands
 * **A**orta/IVC
@@ -820,11 +798,11 @@
 
 * * *
 
-# 4\. SURGICAL PATHOLOGY AND MICROBIOLOGY
+## 4\. SURGICAL PATHOLOGY AND MICROBIOLOGY
 
-## GENERAL PATHOLOGY
+### GENERAL PATHOLOGY
 
-### Inflammation Types
+#### Inflammation Types
 
 **Acute Inflammation:**
 
@@ -840,7 +818,7 @@
 	* **Caseating**: TB
 	* **Non-caseating**: Crohn's, sarcoid
 
-### Wound Healing Stages
+#### Wound Healing Stages
 
 1. **Inflammation** (0-3 days)
 2. **Proliferation** (3-21 days)
@@ -850,7 +828,7 @@
 	* Type III → Type I collagen
 	* Final strength ~80% of original
 
-### Neoplasia
+#### Neoplasia
 
 **Benign vs Malignant:**
 
@@ -874,9 +852,9 @@
 * **R1**: Microscopic residual
 * **R2**: Gross residual
 
-## SURGICAL MICROBIOLOGY
+### SURGICAL MICROBIOLOGY
 
-### Normal Flora by Site
+#### Normal Flora by Site
 
 |     |     |
 | --- | --- |
@@ -885,7 +863,7 @@
 | **Colon** | Bacteroides, E. coli, Enterococcus |
 | **Oropharynx** | Viridans strep, anaerobes |
 
-### Surgical Site Infections (SSI)
+#### Surgical Site Infections (SSI)
 
 **Classification:**
 
@@ -895,7 +873,7 @@
 
 **Timing:** Within 30 days (90 days if implant)
 
-### Wound Classification & Infection Risk
+#### Wound Classification & Infection Risk
 
 |     |     |     |
 | --- | --- | --- |
@@ -905,7 +883,7 @@
 | **Contaminated** | Major spillage | 15-30% |
 | **Dirty/Infected** | Existing infection | \>30% |
 
-### Common SSI Pathogens
+#### Common SSI Pathogens
 
 **Clean Surgery:**
 
@@ -918,7 +896,7 @@
 * Gram-negatives (E. coli, Klebsiella)
 * Anaerobes (Bacteroides)
 
-### Antibiotic Prophylaxis
+#### Antibiotic Prophylaxis
 
 **Timing:** Within 60 minutes of incision
 **Duration:** Usually stop within 24 hours
@@ -928,9 +906,9 @@
 * **Colorectal**: Cefazolin + metronidazole
 * **MRSA risk**: Add vancomycin
 
-### Special Infections
+#### Special Infections
 
-#### Necrotizing Soft Tissue Infections
+##### Necrotizing Soft Tissue Infections
 
 **Types:**
 
@@ -946,7 +924,7 @@
 	* Plus clindamycin (toxin inhibition)
 	* Plus vancomycin (MRSA coverage)
 
-#### Clostridial Infections
+##### Clostridial Infections
 
 **Gas Gangrene Features:**
 
@@ -962,7 +940,7 @@
 * High-dose penicillin + clindamycin
 * Consider hyperbaric oxygen
 
-### Prevention Strategies
+#### Prevention Strategies
 
 **Preoperative:**
 
@@ -985,11 +963,11 @@
 
 * * *
 
-# 5\. PRINCIPLES OF SURGICAL ONCOLOGY
+## 5\. PRINCIPLES OF SURGICAL ONCOLOGY
 
-## TUMOR BIOLOGY
+### TUMOR BIOLOGY
 
-### Hallmarks of Cancer
+#### Hallmarks of Cancer
 
 1. Uncontrolled proliferation
 2. Evading growth suppressors
@@ -998,7 +976,7 @@
 5. Sustained angiogenesis
 6. Evading immune destruction
 
-### Metastatic Patterns
+#### Metastatic Patterns
 
 **Carcinomas:** Lymphatic → hematogenous spread
 **Sarcomas:** Primarily hematogenous spread
@@ -1008,9 +986,9 @@
 * Lung → Brain, adrenals
 * Prostate → Bone
 
-## SURGICAL ONCOLOGY PRINCIPLES
+### SURGICAL ONCOLOGY PRINCIPLES
 
-### Margin Requirements by Cancer Type
+#### Margin Requirements by Cancer Type
 
 |     |     |
 | --- | --- |
@@ -1023,7 +1001,7 @@
 | **Melanoma >2mm** | 2 cm |
 | **Sarcoma** | 1-2 cm or intact fascial plane |
 
-### Lymph Node Management
+#### Lymph Node Management
 
 **Sentinel Node Biopsy Indications:**
 
@@ -1035,7 +1013,7 @@
 
 * Colon cancer: ≥12 nodes for staging
 
-### Multimodal Therapy
+#### Multimodal Therapy
 
 **Adjuvant Therapy:**
 
@@ -1053,9 +1031,9 @@
 	* Assesses treatment response
 	* May allow less extensive surgery
 
-## CANCER-SPECIFIC MANAGEMENT
+### CANCER-SPECIFIC MANAGEMENT
 
-### Breast Cancer
+#### Breast Cancer
 
 **Surgical Options:**
 
@@ -1068,7 +1046,7 @@
 * **HER2+**: Trastuzumab
 * **Triple-negative**: Chemotherapy
 
-### Colorectal Cancer
+#### Colorectal Cancer
 
 **Surgical Principles:**
 
@@ -1079,14 +1057,14 @@
 
 * Stage III (node+): FOLFOX chemotherapy
 
-### Lung Cancer
+#### Lung Cancer
 
 **Resectable Disease:**
 
 * Lobectomy + lymph node sampling
 * Stage III often gets neoadjuvant therapy
 
-### Melanoma
+#### Melanoma
 
 **Biopsy:** Full-thickness excisional
 **Management Based on Depth:**
@@ -1094,7 +1072,7 @@
 * Wide local excision with appropriate margins
 * Sentinel node biopsy if >1mm thick
 
-### Sarcoma
+#### Sarcoma
 
 **Principles:**
 
@@ -1102,7 +1080,7 @@
 * Often combined with radiation
 * Limb-sparing surgery preferred
 
-### Pancreatic Cancer
+#### Pancreatic Cancer
 
 **Resectable Disease:**
 
@@ -1110,9 +1088,9 @@
 * Distal pancreatectomy for tail
 * Nearly all get adjuvant chemotherapy
 
-## SPECIAL CONCEPTS
+### SPECIAL CONCEPTS
 
-### Tumor Markers
+#### Tumor Markers
 
 |     |     |     |
 | --- | --- | --- |
@@ -1123,7 +1101,7 @@
 | **AFP/β-hCG** | Testicular | Diagnosis/monitoring |
 | **PSA** | Prostate | Screening/surveillance |
 
-### Oncologic Emergencies
+#### Oncologic Emergencies
 
 **Surgical:**
 
@@ -1136,7 +1114,7 @@
 * SVC syndrome
 * Tumor lysis syndrome
 
-### Palliative Surgery
+#### Palliative Surgery
 
 **Indications:**
 
@@ -1148,11 +1126,11 @@
 
 * * *
 
-# 6\. TRAUMA AND ATLS
+## 6\. TRAUMA AND ATLS
 
-## PRIMARY SURVEY - ABCDE
+### PRIMARY SURVEY - ABCDE
 
-### A - Airway with C-spine Protection
+#### A - Airway with C-spine Protection
 
 **Assessment:**
 
@@ -1166,7 +1144,7 @@
 * Intubate with inline stabilization
 * **Cricothyrotomy** if can't intubate/ventilate
 
-### B - Breathing and Ventilation
+#### B - Breathing and Ventilation
 
 **Life-Threatening Chest Injuries:**
 
@@ -1179,7 +1157,7 @@
 | **Massive Hemothorax** | Shock + dull percussion | Chest tube, surgery if >1500mL or >200mL/hr |
 | **Cardiac Tamponade** | Beck's triad | Pericardiocentesis or thoracotomy |
 
-### C - Circulation with Hemorrhage Control
+#### C - Circulation with Hemorrhage Control
 
 **Shock Classification:** (See Critical Care section for details)
 **Hemorrhage Sources ("On the floor and 4 more"):**
@@ -1203,7 +1181,7 @@
 * Apply pelvic binder
 * Consider IR embolization
 
-### D - Disability (Neurologic)
+#### D - Disability (Neurologic)
 
 **Quick Assessment:**
 
@@ -1220,7 +1198,7 @@
 	* Mannitol or hypertonic saline
 	* Prevent hypotension/hypoxia
 
-### E - Exposure/Environment
+#### E - Exposure/Environment
 
 **Actions:**
 
@@ -1228,9 +1206,9 @@
 * Log-roll to check back
 * **Prevent hypothermia** (warm blankets, fluids)
 
-## ADJUNCTS TO PRIMARY SURVEY
+### ADJUNCTS TO PRIMARY SURVEY
 
-### FAST Ultrasound Views
+#### FAST Ultrasound Views
 
 1. Pericardial
 2. Perihepatic (Morison's pouch)
@@ -1243,13 +1221,13 @@
 * Unstable → OR
 * Stable → CT for details
 
-### Initial X-rays
+#### Initial X-rays
 
 * AP chest
 * AP pelvis
 * Lateral C-spine (or CT spine)
 
-## SECONDARY SURVEY
+### SECONDARY SURVEY
 
 **Systematic head-to-toe exam after primary survey complete**
 **Key Points:**
@@ -1261,9 +1239,9 @@
 	* **L**ast meal
 	* **E**vents of injury
 
-## SPECIFIC INJURY MANAGEMENT
+### SPECIFIC INJURY MANAGEMENT
 
-### Head Injuries
+#### Head Injuries
 
 **Indications for Surgery:**
 
@@ -1278,7 +1256,7 @@
 * Hyperosmolar therapy
 * Target CO₂ 30-35 (temporary)
 
-### Abdominal Trauma
+#### Abdominal Trauma
 
 **Indications for Immediate Laparotomy:**
 
@@ -1292,7 +1270,7 @@
 * Serial exams and H/H monitoring
 * Angioembolization for active bleeding
 
-### Orthopedic Injuries
+#### Orthopedic Injuries
 
 **Open Fractures:**
 
@@ -1309,7 +1287,7 @@
 
 Treatment: **Emergent fasciotomy**
 
-## DAMAGE CONTROL SURGERY
+### DAMAGE CONTROL SURGERY
 
 **Principles:**
 
@@ -1325,16 +1303,16 @@ Treatment: **Emergent fasciotomy**
 2. Acidosis
 3. Coagulopathy
 
-## SPECIAL POPULATIONS
+### SPECIAL POPULATIONS
 
-### Pediatric Trauma
+#### Pediatric Trauma
 
 * Compensate longer before hypotension
 * Fluid bolus: 20 mL/kg
 * Blood: 10 mL/kg
 * Consider NAT if injury pattern suspicious
 
-### Geriatric Trauma
+#### Geriatric Trauma
 
 * "Normal" BP may be relative hypotension
 * High risk of head bleeds on anticoagulants
@@ -1342,11 +1320,11 @@ Treatment: **Emergent fasciotomy**
 
 * * *
 
-# 7\. ETHICS AND PROFESSIONALISM
+## 7\. ETHICS AND PROFESSIONALISM
 
-## FOUR PILLARS OF MEDICAL ETHICS
+### FOUR PILLARS OF MEDICAL ETHICS
 
-### 1\. Autonomy
+#### 1\. Autonomy
 
 **Definition:** Respect for patient's right to make decisions
 **Applications:**
@@ -1362,7 +1340,7 @@ Treatment: **Emergent fasciotomy**
 * Capacity assessment
 * Surrogate decision-makers
 
-### 2\. Beneficence
+#### 2\. Beneficence
 
 **Definition:** Act in patient's best interest
 **Applications:**
@@ -1371,7 +1349,7 @@ Treatment: **Emergent fasciotomy**
 * Advocate for patient welfare
 * Provide skilled care
 
-### 3\. Non-maleficence
+#### 3\. Non-maleficence
 
 **Definition:** "First, do no harm"
 **Applications:**
@@ -1380,7 +1358,7 @@ Treatment: **Emergent fasciotomy**
 * Disclose errors honestly
 * Avoid unnecessary procedures
 
-### 4\. Justice
+#### 4\. Justice
 
 **Definition:** Fair distribution of resources
 **Applications:**
@@ -1389,9 +1367,9 @@ Treatment: **Emergent fasciotomy**
 * Fair organ allocation
 * EMTALA compliance
 
-## INFORMED CONSENT
+### INFORMED CONSENT
 
-### Essential Elements
+#### Essential Elements
 
 1. **Capacity** to decide
 2. **Voluntary** decision
@@ -1402,7 +1380,7 @@ Treatment: **Emergent fasciotomy**
 	* Alternatives
 	* Consequences of refusing
 
-### Special Situations
+#### Special Situations
 
 **Emergency Exception:**
 
@@ -1419,9 +1397,9 @@ Treatment: **Emergent fasciotomy**
 	* Emancipated minors
 	* Specific conditions (STDs, contraception)
 
-## CAPACITY AND SURROGATES
+### CAPACITY AND SURROGATES
 
-### Assessing Capacity
+#### Assessing Capacity
 
 Patient must be able to:
 
@@ -1430,7 +1408,7 @@ Patient must be able to:
 3. Reason through options
 4. Communicate choice
 
-### Surrogate Decision-Making
+#### Surrogate Decision-Making
 
 **Hierarchy (if no designated proxy):**
 
@@ -1445,9 +1423,9 @@ Patient must be able to:
 * **Substituted judgment**: What patient would want
 * **Best interests**: If wishes unknown
 
-## PROFESSIONALISM
+### PROFESSIONALISM
 
-### Key Components
+#### Key Components
 
 **Competence:**
 
@@ -1473,7 +1451,7 @@ Patient must be able to:
 * Use interpreters
 * Accommodate religious practices
 
-### Error Disclosure
+#### Error Disclosure
 
 **Best Practices:**
 
@@ -1483,23 +1461,23 @@ Patient must be able to:
 4. Sincere apology
 5. Plan to prevent recurrence
 
-## CHALLENGING SCENARIOS
+### CHALLENGING SCENARIOS
 
-### End-of-Life Care
+#### End-of-Life Care
 
 * Respect advance directives
 * Discuss prognosis honestly
 * Transition to comfort care when appropriate
 * Don't abandon patient
 
-### Futile Care
+#### Futile Care
 
 * Can decline to offer non-beneficial treatment
 * Communicate reasoning compassionately
 * Offer alternatives
 * Consider ethics consultation
 
-### Resource Allocation
+#### Resource Allocation
 
 * Use evidence-based guidelines
 * Apply criteria consistently
@@ -1508,9 +1486,9 @@ Patient must be able to:
 
 * * *
 
-# 8\. IMAGING AND DIAGNOSTIC STUDIES
+## 8\. IMAGING AND DIAGNOSTIC STUDIES
 
-## IMAGING MODALITIES COMPARISON
+### IMAGING MODALITIES COMPARISON
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -1521,23 +1499,23 @@ Patient must be able to:
 | **MRI** | Brain/spine, soft tissue | Excellent contrast, no radiation | Slow, expensive, contraindications |
 | **Nuclear** | Function, metastases | Whole body screening | Poor anatomic detail |
 
-## X-RAY
+### X-RAY
 
-### Key Uses in Surgery
+#### Key Uses in Surgery
 
 * **CXR**: Pneumothorax, line placement
 * **AXR**: Obstruction, free air
 * **Skeletal**: Fractures
 
-### Reading Tips
+#### Reading Tips
 
 * Two views for localization
 * Look for free air on upright films
 * Check all edges and corners
 
-## ULTRASOUND
+### ULTRASOUND
 
-### FAST Exam Components
+#### FAST Exam Components
 
 1. Pericardial fluid
 2. Perihepatic (Morison's)
@@ -1545,7 +1523,7 @@ Patient must be able to:
 4. Pelvis
 5. Pneumothorax (eFAST)
 
-### Common Applications
+#### Common Applications
 
 **Abdominal:**
 
@@ -1563,9 +1541,9 @@ Patient must be able to:
 * Central line guidance
 * Abscess localization
 
-## CT SCAN
+### CT SCAN
 
-### Contrast Considerations
+#### Contrast Considerations
 
 **IV Contrast Risks:**
 
@@ -1578,7 +1556,7 @@ Patient must be able to:
 * Not used in trauma
 * Water-soluble if perforation suspected
 
-### Common Protocols
+#### Common Protocols
 
 **Trauma Pan-Scan:**
 
@@ -1597,16 +1575,16 @@ Patient must be able to:
 * CT pulmonary angiography
 * Timed for pulmonary arterial phase
 
-## MRI
+### MRI
 
-### Contraindications
+#### Contraindications
 
 * Non-MRI compatible pacemakers
 * Certain aneurysm clips
 * Cochlear implants
 * Metal in eyes
 
-### Key Surgical Uses
+#### Key Surgical Uses
 
 **Neuro:**
 
@@ -1625,15 +1603,15 @@ Patient must be able to:
 * Liver lesion characterization
 * Rectal cancer staging
 
-### Gadolinium Precautions
+#### Gadolinium Precautions
 
 * Risk of NSF if GFR <30
 * Use lowest dose needed
 * Consider alternatives
 
-## NUCLEAR MEDICINE
+### NUCLEAR MEDICINE
 
-### Common Studies
+#### Common Studies
 
 |     |     |     |
 | --- | --- | --- |
@@ -1644,74 +1622,74 @@ Patient must be able to:
 | **Sestamibi** | Parathyroid adenoma | Persistent uptake |
 | **Tagged RBC** | GI bleeding | Accumulation at bleed site |
 
-### PET Scan
+#### PET Scan
 
 * Uses FDG (glucose analog)
 * Shows metabolic activity
 * Combined with CT for localization
 * False positives: Inflammation
 
-## ENDOSCOPY
+### ENDOSCOPY
 
-### Upper Endoscopy (EGD)
+#### Upper Endoscopy (EGD)
 
 * Evaluates to 2nd portion duodenum
 * Can treat bleeding
 * Biopsy capability
 
-### Colonoscopy
+#### Colonoscopy
 
 * Screening and diagnostic
 * Polypectomy
 * Bleeding control
 
-### ERCP
+#### ERCP
 
 * Therapeutic for bile duct stones
 * Sphincterotomy
 * Stent placement
 * Risk: Pancreatitis
 
-## CHOOSING THE RIGHT STUDY
+### CHOOSING THE RIGHT STUDY
 
-### Acute Abdomen
+#### Acute Abdomen
 
 1. **RUQ pain**: US first
 2. **Appendicitis**: CT (US if pediatric/pregnant)
 3. **Obstruction**: CT with oral contrast
 4. **Free air**: Upright CXR or CT
 
-### Trauma
+#### Trauma
 
 1. **Unstable + FAST positive**: OR
 2. **Stable**: CT pan-scan
 3. **Isolated extremity**: X-ray first
 
-### Cancer Staging
+#### Cancer Staging
 
 * **Most solid tumors**: CT chest/abd/pelvis
 * **Add PET**: For FDG-avid tumors
 * **Add MRI**: Brain mets, liver detail
 
-### Vascular
+#### Vascular
 
 * **DVT**: Ultrasound
 * **PE**: CTPA
 * **AAA**: US for screening, CT for planning
 
-## RADIATION SAFETY
+### RADIATION SAFETY
 
-### ALARA Principle
+#### ALARA Principle
 
 "As Low As Reasonably Achievable"
 
-### Relative Radiation Doses
+#### Relative Radiation Doses
 
 * CXR: 0.1 mSv
 * CT abdomen: 8-10 mSv
 * CT trauma (whole body): ~20 mSv
 
-### Pregnancy Considerations
+#### Pregnancy Considerations
 
 * Always ask if possibly pregnant
 * Use US or MRI when possible
@@ -1720,18 +1698,18 @@ Patient must be able to:
 
 * * *
 
-# 9\. WOUND HEALING AND SURGICAL INFECTIONS
+## 9\. WOUND HEALING AND SURGICAL INFECTIONS
 
-## WOUND HEALING PHASES
+### WOUND HEALING PHASES
 
-### Phase 1: Hemostasis (Immediate)
+#### Phase 1: Hemostasis (Immediate)
 
 * Vasoconstriction → dilation
 * Platelet plug formation
 * Coagulation cascade
 * Fibrin clot scaffold
 
-### Phase 2: Inflammation (Days 0-4)
+#### Phase 2: Inflammation (Days 0-4)
 
 **Timeline:**
 
@@ -1744,7 +1722,7 @@ Patient must be able to:
 * **Macrophages**: Essential orchestrators
 	* Release growth factors (VEGF, FGF, TGF-β)
 
-### Phase 3: Proliferation (Days 4-14)
+#### Phase 3: Proliferation (Days 4-14)
 
 **Components:**
 
@@ -1756,7 +1734,7 @@ Patient must be able to:
 	* Secondary intention: ~1mm/day
 * **Contraction**: Myofibroblasts
 
-### Phase 4: Remodeling (Weeks to 1+ year)
+#### Phase 4: Remodeling (Weeks to 1+ year)
 
 * Type III → Type I collagen
 * Tensile strength timeline:
@@ -1764,9 +1742,9 @@ Patient must be able to:
 	* 2 months: 50%
 	* 6-12 months: 80% (maximum)
 
-## FACTORS AFFECTING HEALING
+### FACTORS AFFECTING HEALING
 
-### Local Factors
+#### Local Factors
 
 |     |     |     |
 | --- | --- | --- |
@@ -1777,7 +1755,7 @@ Patient must be able to:
 | **Mechanical stress** | Dehiscence risk | Immobilize, reduce tension |
 | **Radiation** | Endarteritis, fibrosis | Consider HBO therapy |
 
-### Systemic Factors
+#### Systemic Factors
 
 **Nutrition:**
 
@@ -1797,9 +1775,9 @@ Patient must be able to:
 * Elderly heal slower
 * Often have comorbidities
 
-## WOUND MANAGEMENT
+### WOUND MANAGEMENT
 
-### Closure Methods
+#### Closure Methods
 
 **Primary Intention:**
 
@@ -1818,7 +1796,7 @@ Patient must be able to:
 * Initially open
 * Close after 3-5 days if clean
 
-### Special Techniques
+#### Special Techniques
 
 **Negative Pressure (Wound VAC):**
 
@@ -1838,7 +1816,7 @@ Patient must be able to:
 * **STSG**: Large defects, needs granulation
 * **FTSG**: Small defects, better cosmesis
 
-### Chronic Wounds
+#### Chronic Wounds
 
 **Pressure Ulcers:**
 
@@ -1858,9 +1836,9 @@ Patient must be able to:
 * Compression therapy
 * Elevation
 
-## SURGICAL SITE INFECTIONS (SSI)
+### SURGICAL SITE INFECTIONS (SSI)
 
-### Classification by Depth
+#### Classification by Depth
 
 1. **Superficial Incisional**
 	* Skin/subcutaneous only
@@ -1872,7 +1850,7 @@ Patient must be able to:
 	* Any manipulated cavity
 	* Often needs drainage
 
-### Common Pathogens by Surgery Type
+#### Common Pathogens by Surgery Type
 
 |     |     |
 | --- | --- |
@@ -1882,7 +1860,7 @@ Patient must be able to:
 | **Prosthetic** | Coag-neg staph (biofilm) |
 | **Diabetic foot** | Polymicrobial + Pseudomonas |
 
-### SSI Prevention Bundle
+#### SSI Prevention Bundle
 
 **Preoperative:**
 
@@ -1904,9 +1882,9 @@ Patient must be able to:
 * Appropriate wound care
 * Monitor for signs of infection
 
-## NECROTIZING INFECTIONS
+### NECROTIZING INFECTIONS
 
-### Types and Treatment
+#### Types and Treatment
 
 **Type I (Polymicrobial):**
 
@@ -1934,7 +1912,7 @@ Patient must be able to:
 3. Serial debridements
 4. Consider HBO for Clostridial
 
-### Clinical Pearls
+#### Clinical Pearls
 
 **Warning Signs:**
 
@@ -1951,9 +1929,9 @@ Patient must be able to:
 * May require amputation
 * High mortality even with treatment
 
-## SPECIAL WOUND CONSIDERATIONS
+### SPECIAL WOUND CONSIDERATIONS
 
-### Bite Wounds
+#### Bite Wounds
 
 **Dog/Cat Bites:**
 
@@ -1968,7 +1946,7 @@ Patient must be able to:
 * Always treat if over joints
 * Never close primarily
 
-### Contaminated Wounds
+#### Contaminated Wounds
 
 **Management:**
 
@@ -1977,7 +1955,7 @@ Patient must be able to:
 * Consider delayed closure
 * Tetanus prophylaxis
 
-### Wound Complications
+#### Wound Complications
 
 **Dehiscence:**
 
@@ -1993,7 +1971,7 @@ Patient must be able to:
 	* Silicone sheets
 	* Pressure therapy
 
-### Key Healing Milestones
+#### Key Healing Milestones
 
 |     |     |
 | --- | --- |

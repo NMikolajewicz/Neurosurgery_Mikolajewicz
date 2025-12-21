@@ -15,7 +15,7 @@ tags:
   - metastatic-infection
   - s-aureus
 ---
-> [!summary] **GN vs GP Bacteremia — Quick Hits** _(see also [[Antibiotics]])_
+> [!summary] **GN vs GP Bacteremia — Quick Hits** _(see also [[Neurosurgery/Neurosurgery_Mikolajewicz/content/NSx  General/Antibiotics]])_
 > 
 > - **Sources:** **GN = urine/abdomen/VAP/HAP**; **GP = ports/skin** (think **S. aureus**).
 >     
