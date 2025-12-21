@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "nmikolajewicz.github.io/Neurosurgery_Mikolajewicz",
+    baseUrl: "https://nmikolajewicz.github.io/Neurosurgery_Mikolajewicz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
