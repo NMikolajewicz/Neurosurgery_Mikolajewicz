@@ -43,7 +43,7 @@ tags:
 see [[Hardy classification]]
 Anatomical classification for pituitary adenomas
 ## Knosp classification
-see  [[Knosp classification]]
+see  [[Neurosurgery/NSx  Oncology/Knosp classification]]
 Stratifies extent of cavernous sinus invasion
 ## Management by subtype
 - #prolactinoma (first-line medical): 

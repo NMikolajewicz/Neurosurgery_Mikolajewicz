@@ -18,7 +18,7 @@ tags:
   - HAP
   - CLABSI
 ---
-see also [[Bacteremia]]
+see also [[Neurosurgery/Neurosurgery_Mikolajewicz/content/NSx  General/Bacteremia]]
 ## Antimicrobial coverage (Bug → Drug)
 
 - **MSSA** → cefazolin or nafcillin/oxacillin; 

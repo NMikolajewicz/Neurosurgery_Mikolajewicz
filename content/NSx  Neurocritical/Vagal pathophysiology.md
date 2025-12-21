@@ -164,7 +164,7 @@ tags:
 ## See also (Obsidian links)
 
 - [[Spinal cord injury]] — neurogenic shock physiology, MAP targets, reflex bradycardia triggers
-- [[Intracranial pressure]] — Cushing physiology and emergency ICP management
+- [[Neurosurgery/NSx  Neurocritical/Intracranial pressure]] — Cushing physiology and emergency ICP management
 - [[Subarachnoid hemorrhage]] — dysautonomia, NSM, NPE
 - [[Posterior Fossa Surgery]] / [[Transsphenoidal Surgery]] — trigeminocardiac reflex readiness
 - [[Bulbar Dysfunction]] — CN IX/X palsy, aspiration risk, trach timing
