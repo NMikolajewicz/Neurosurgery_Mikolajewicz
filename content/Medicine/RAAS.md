@@ -29,6 +29,6 @@ Angiotensin II (ANG II)
 	* central increase in sympathetic tone
 	* peripheral increase in release of norepinephrine
 
-![[./_resources/RAAS.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/RAAS.resources/image.png]]
 
-![[./_resources/RAAS.resources/image.1.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/RAAS.resources/image.1.png]]

@@ -10,4 +10,4 @@ Amiodarone
 	* ventricular arrhythmias (such as [ventricular fibrillation](https://www.osmosis.org/learn/Ventricular_fibrillation))
 	* [ventricular tachycardia](https://www.osmosis.org/learn/Ventricular_tachycardia)
 
-![[./_resources/Antiarrhythmic_drugs.resources/IMG_2129.WEBP]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Antiarrhythmic_drugs.resources/IMG_2129.WEBP]]

@@ -97,8 +97,8 @@ Cholestatic
 
 * * *
 
-![[./_resources/Liver_enzymes.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Liver_enzymes.resources/image.png]]
 
-![[./_resources/Liver_enzymes.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Liver_enzymes.resources/image.2.png]]
 
-![[./_resources/Liver_enzymes.resources/image.1.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Liver_enzymes.resources/image.1.png]]

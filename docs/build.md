@@ -2,7 +2,7 @@
 title: "Building your Quartz"
 ---
 
-Once you've [[index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
+Once you've [[Neurosurgery/00_Neurosurgery_Mikolajewicz/docs/index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
 
 ```bash
 npx quartz build --serve

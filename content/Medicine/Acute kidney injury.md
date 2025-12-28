@@ -152,7 +152,7 @@ tags:
 
 * * *
 
-![[./_resources/Acute_kidney_injury.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_kidney_injury.resources/image.png]]
 
 ### AKI etiology frequencies
 
@@ -174,15 +174,15 @@ tags:
 * hematuria without recent UTI - glomerular disease/vasculitis
 * sterile pyuria - interstitial nephritis
 
-![[./_resources/Acute_kidney_injury.resources/image.3.png]]![[./_resources/Acute_kidney_injury.resources/image.1.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_kidney_injury.resources/image.3.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_kidney_injury.resources/image.1.png]]
 
-![[./_resources/Acute_kidney_injury.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_kidney_injury.resources/image.2.png]]
 
 Muddy brown cases (ATN)
-![[./_resources/Acute_kidney_injury.resources/image.4.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_kidney_injury.resources/image.4.png]]
 
 bland sediment (prerenal)
-![[./_resources/Acute_kidney_injury.resources/image.5.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_kidney_injury.resources/image.5.png]]
 
 WBC casts (AIN)
-![[./_resources/Acute_kidney_injury.resources/image.6.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_kidney_injury.resources/image.6.png]]

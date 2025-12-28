@@ -11,4 +11,4 @@ management of lower GI bleed
 * **if hemodynamically stable pt** **determine if high or low risk pt**
 	* **if high risk then colonoscopy, otherwise DRE**
 
-![[./_resources/GI_bleed.resources/Image 20231219 155406.jpeg]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/GI_bleed.resources/Image 20231219 155406.jpeg]]

@@ -41,4 +41,4 @@ Management
 	* severe (>170)
 		* D5W
 
-![[./_resources/Hypernatremia.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hypernatremia.resources/image.png]]

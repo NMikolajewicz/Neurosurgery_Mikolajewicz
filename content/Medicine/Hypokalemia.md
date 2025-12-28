@@ -32,4 +32,4 @@ Management
 * ==10 mEq of K will increase K by 0.1==
 * If K not increasing, check Mg
 
-![[./_resources/Hypokalemia.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hypokalemia.resources/image.png]]

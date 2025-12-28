@@ -8,4 +8,4 @@ Absorption atelectasis
 	* Lowest o2 concentration required
 	* PEEP
 
-![[./_resources/Atelectasis.resources/IMG_2128.WEBP]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atelectasis.resources/IMG_2128.WEBP]]

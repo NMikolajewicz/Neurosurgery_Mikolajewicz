@@ -114,4 +114,4 @@ Additional Notes
 	* also send antigen/antibody test
 		* negative antigen/antibody test with detectable HIV viral load suggests early HIV infection.
 
-![[./_resources/HIV.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/HIV.resources/image.png]]

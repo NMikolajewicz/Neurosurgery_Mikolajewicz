@@ -5,7 +5,7 @@ tags:
   - hematology
 
 ---
-![[./_resources/Hematological_Malignancies.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hematological_Malignancies.resources/image.png]]
 
 Myeloproliferative neoplasms (MPN)
 _uncontrolled division of one primary cell line_

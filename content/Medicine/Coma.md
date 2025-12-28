@@ -22,4 +22,4 @@ locked in syndrome
 
 * pontine syndrome
 
-![[./_resources/Coma.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Coma.resources/image.png]]

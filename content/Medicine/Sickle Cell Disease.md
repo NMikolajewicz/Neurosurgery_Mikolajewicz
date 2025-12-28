@@ -65,4 +65,4 @@ Complications:
 
 |     |     |
 | --- | --- |
-| Triggers:<br>![[./_resources/Sickle_Cell_Disease.resources/image.1.png]]<br>contrast dye is trigger | ![[./_resources/Sickle_Cell_Disease.resources/image.2.png]] |
+| Triggers:<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Sickle_Cell_Disease.resources/image.1.png]]<br>contrast dye is trigger | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Sickle_Cell_Disease.resources/image.2.png]] |

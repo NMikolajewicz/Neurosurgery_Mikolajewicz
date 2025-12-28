@@ -1,6 +1,6 @@
 ---
 ---
-See also [[liver enzymes]]
+See also [[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/Liver enzymes]]
 
 Workup
 
@@ -24,7 +24,7 @@ Workup
 * diagnosis paracentesis
 	* r/o SBP
 
-![[./_resources/Cirrhosis.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Cirrhosis.resources/image.png]]
 Vase - variceal, ascites, spontaneous bacteria ,
 
 Complications (==VASE==)

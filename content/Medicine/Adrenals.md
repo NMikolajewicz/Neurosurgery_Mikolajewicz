@@ -21,7 +21,7 @@ Physiology
 * medulla
 	* catecholamines
 
-![[./_resources/Adrenals.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Adrenals.resources/image.2.png]]
 
 * * *
 
@@ -132,7 +132,7 @@ Management
 
 * etiology dependent (primary vs. secondary)
 
-![[./_resources/Adrenals.resources/image.png]]![[./_resources/Adrenals.resources/image.1.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Adrenals.resources/image.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Adrenals.resources/image.1.png]]
 
 * * *
 
@@ -230,4 +230,4 @@ Management
 * * *
 
 Arrows indicated adrenals
-![[./_resources/Adrenals.resources/image.3.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Adrenals.resources/image.3.png]]

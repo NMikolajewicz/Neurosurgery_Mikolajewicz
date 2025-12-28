@@ -1,6 +1,6 @@
 ---
 ---
-![[./_resources/Primary_ovarian_insufficiency.resources/Image 20231113 085925.jpeg]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Primary_ovarian_insufficiency.resources/Image 20231113 085925.jpeg]]
 
 Autoimmune oophoritis
 
