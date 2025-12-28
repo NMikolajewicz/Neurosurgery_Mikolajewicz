@@ -78,8 +78,8 @@ CLL (chronic lymphoid leukemia)
 	* <65 y and available donor
 		* ==stem cell transplant==
 
-![[./_resources/Leukemia.resources/image.1.png]]![[./_resources/Leukemia.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Leukemia.resources/image.1.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Leukemia.resources/image.2.png]]
 
-![[./_resources/Leukemia.resources/image.3.png]]![[./_resources/Leukemia.resources/image.4.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Leukemia.resources/image.3.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Leukemia.resources/image.4.png]]
 
-![[./_resources/Leukemia.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Leukemia.resources/image.png]]

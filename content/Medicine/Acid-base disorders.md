@@ -128,6 +128,6 @@ respiratory acidosis
 	* CO2 not adequately removed by lungs
 	* kidneys retain/add HCO3; protons excreted as ammonia
 
-![[./_resources/Acid-base_disorders.resources/image.png]]![[./_resources/Acid-base_disorders.resources/image.3.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acid-base_disorders.resources/image.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acid-base_disorders.resources/image.3.png]]
 
-![[./_resources/Acid-base_disorders.resources/image.2.png]]![[./_resources/Acid-base_disorders.resources/image.4.png]]![[./_resources/Acid-base_disorders.resources/image.5.png]]![[./_resources/Acid-base_disorders.resources/image.6.png]]![[./_resources/Acid-base_disorders.resources/image.7.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acid-base_disorders.resources/image.2.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acid-base_disorders.resources/image.4.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acid-base_disorders.resources/image.5.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acid-base_disorders.resources/image.6.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acid-base_disorders.resources/image.7.png]]

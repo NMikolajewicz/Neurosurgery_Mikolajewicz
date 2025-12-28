@@ -18,7 +18,7 @@ tags:
 	* non-reversible obstruction (post-bronchodilator spirometry)
 	* FEV1/FVC < 0.70 +/- FEV1 < 80% predicted
 
-![[./_resources/COPD.resources/image.4.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/COPD.resources/image.4.png]]
 
 ### Classification
 
@@ -82,6 +82,6 @@ tags:
 	* or 
 	* ==moxifloxacin 400 mg PO or IV daily x7 days== * if allergic
 
-![[./_resources/COPD.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/COPD.resources/image.2.png]]
 
-![[./_resources/COPD.resources/image.1.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/COPD.resources/image.1.png]]

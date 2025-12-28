@@ -37,7 +37,7 @@ Management
 	* PTU + iodine (Lugol's solution) + propranolol
 	* consider glucocorticoids
 
-![[./_resources/Thyroid.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thyroid.resources/image.png]]
 
 * * *
 
@@ -135,4 +135,4 @@ Cold nodules
 * thyroid lymphoma
 	* risk: hashimoto
 
-![[./_resources/Thyroid.resources/image.1.png]]![[./_resources/Thyroid.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thyroid.resources/image.1.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thyroid.resources/image.2.png]]

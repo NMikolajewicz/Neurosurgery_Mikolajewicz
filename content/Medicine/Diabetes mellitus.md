@@ -6,7 +6,7 @@ tags:
   - endocrinology/DKA
   - endocrinology/insulin
 ---
-also see [[Insulin]]
+also see [[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/Insulin]]
 
 * * *
 
@@ -277,10 +277,10 @@ Management
 * consults: endocrinology
 * same as DKA
 
-![[./_resources/Diabetes_mellitus.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Diabetes_mellitus.resources/image.2.png]]
 
-![[./_resources/Diabetes_mellitus.resources/image.1.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Diabetes_mellitus.resources/image.1.png]]
 
-![[./_resources/Diabetes_mellitus.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Diabetes_mellitus.resources/image.png]]
 
-![[./_resources/Diabetes_mellitus.resources/Image 20231111 101052.jpeg]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Diabetes_mellitus.resources/Image 20231111 101052.jpeg]]

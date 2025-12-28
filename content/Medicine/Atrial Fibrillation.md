@@ -99,7 +99,7 @@ Warfarin
 
 |     |     |
 | --- | --- |
-| ![[./_resources/Atrial_Fibrillation.resources/image.2.png]] | ![[./_resources/Atrial_Fibrillation.resources/image.png]]![[./_resources/Atrial_Fibrillation.resources/image.11.png]] |
+| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.2.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.11.png]] |
 
 * * *
 
@@ -141,15 +141,15 @@ Goals of therapy
 
 |     |     |
 | --- | --- |
-| ![[./_resources/Atrial_Fibrillation.resources/image.3.png]]![[./_resources/Atrial_Fibrillation.resources/image.8.png]] | ![[./_resources/Atrial_Fibrillation.resources/image.6.png]]![[./_resources/Atrial_Fibrillation.resources/image.7.png]]![[./_resources/Atrial_Fibrillation.resources/image.4.png]] |
-| ![[./_resources/Atrial_Fibrillation.resources/image.9.png]] | ![[./_resources/Atrial_Fibrillation.resources/image.10.png]] |
+| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.3.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.8.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.6.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.7.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.4.png]] |
+| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.9.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.10.png]] |
 
 |     |     |
 | --- | --- |
 | **Epidemiology/Prognosis** |     |
-| ![[./_resources/Atrial_Fibrillation.resources/image.1.png]] | ![[./_resources/Atrial_Fibrillation.resources/image.5.png]] |
+| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.1.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/image.5.png]] |
 
-![[./_resources/Atrial_Fibrillation.resources/Image 20231104 092427.jpeg]]![[./_resources/Atrial_Fibrillation.resources/Image 20231104 092456.jpeg]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/Image 20231104 092427.jpeg]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Atrial_Fibrillation.resources/Image 20231104 092456.jpeg]]
 **Maze** **Procedure** is a surgery performed to treat **atrial fibrillation**. 
 
 _During the procedure, a number of incisions are made on the left and right atrium to form scar tissue, which does not conduct electricity and disrupts the path of abnormal electrical impulses._

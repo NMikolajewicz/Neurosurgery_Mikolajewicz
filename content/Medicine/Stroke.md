@@ -70,12 +70,12 @@ Management
 * Aneurysm
 	* clip within days or if <10 mm
 
-![[./_resources/Stroke.resources/image.7.png]]![[./_resources/Stroke.resources/Image 20231110 211938.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/image.7.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/Image 20231110 211938.png]]
 
 |     |     |
 | --- | --- |
 | Ischemic Strokes<br>[radiopaedia](https://radiopaedia.org/articles/ischaemic-stroke#:~:text=The%20goals%20of%20CT%20in,stroke%2C%20such%20as%20a%20tumor) |     |
-| left occipital infarct<br>![[./_resources/Stroke.resources/image.png]] | right pontine infarct<br>![[./_resources/Stroke.resources/image.1.png]] |
-| right MCA infarct<br><br>![[./_resources/Stroke.resources/image.2.png]] | loss of grey-white matter differentiation<br><br>![[./_resources/Stroke.resources/image.3.png]] |
-| acute subdural haematoma with extension along the tentorium cerebelli and falx.<br>![[./_resources/Stroke.resources/image.4.png]]![[./_resources/Stroke.resources/image.5.png]] |     |
-| left temporal infarct<br>loss of GWM differentiation<br>hyperdense MCA sign in M2 segment<br>![[./_resources/Stroke.resources/image.6.png]] |     |
+| left occipital infarct<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/image.png]] | right pontine infarct<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/image.1.png]] |
+| right MCA infarct<br><br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/image.2.png]] | loss of grey-white matter differentiation<br><br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/image.3.png]] |
+| acute subdural haematoma with extension along the tentorium cerebelli and falx.<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/image.4.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/image.5.png]] |     |
+| left temporal infarct<br>loss of GWM differentiation<br>hyperdense MCA sign in M2 segment<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Stroke.resources/image.6.png]] |     |

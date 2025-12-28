@@ -67,9 +67,9 @@ Triggers of acute exacerbation
 * new medications
 	* steroids, NSAIDS
 
-![[./_resources/Heart_failure.resources/image.3.png]]![[./_resources/Heart_failure.resources/image.4.png]]![[./_resources/Heart_failure.resources/image.5.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Heart_failure.resources/image.3.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Heart_failure.resources/image.4.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Heart_failure.resources/image.5.png]]
 Heart failure diagnosis
-![[./_resources/Heart_failure.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Heart_failure.resources/image.png]]
 
 Mechanisms of HF
 
@@ -86,7 +86,7 @@ Mechanisms of HF
 	* atrial myxoma, pulmonary vein stenosis
 * high-output heart failure
 
-![[./_resources/Heart_failure.resources/image.1.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Heart_failure.resources/image.1.png]]
 
 ACCF and NYHA classifications
 NYHA
@@ -96,7 +96,7 @@ NYHA
 * class III: activity limited by symptoms
 * class IV: symptoms at rest
 
-![[./_resources/Heart_failure.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Heart_failure.resources/image.2.png]]
 Differential Diagnosis:
 
 * dyspnea

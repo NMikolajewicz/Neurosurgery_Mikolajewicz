@@ -20,6 +20,6 @@ tags:
 	* side effects: hemorrhagic cystitis
 	* regimens: R-CHOP, BEACOPP
 
-![[./_resources/Chemotherapy.resources/image.png]]![[./_resources/Chemotherapy.resources/image.2.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Chemotherapy.resources/image.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Chemotherapy.resources/image.2.png]]
 
-![[./_resources/Chemotherapy.resources/image.1.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Chemotherapy.resources/image.1.png]]

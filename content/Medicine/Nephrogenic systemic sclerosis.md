@@ -3,7 +3,7 @@ tags:
   - systemic-sclerosis
   - renal/CKD
 ---
-see also [[scleroderma]]
+see also [[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/Scleroderma]]
 
 presentation
 

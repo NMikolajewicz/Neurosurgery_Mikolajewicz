@@ -673,7 +673,7 @@ Broad adult categories (WHO 2021 framework):
 
 ---
 
-### 6. [[Ependymoma]]
+### 6. [[Neurosurgery/Oncology/Ependymoma]]
 
 - **Heterogeneous** family of glial/neuroepithelial tumors with distinct **anatomic** and **molecular** subgroups.
 #### Anatomic and molecular groups
@@ -727,7 +727,7 @@ Broad adult categories (WHO 2021 framework):
 
 ---
 
-### 8. [[Meningioma]]
+### 8. [[Neurosurgery/Oncology/Meningioma]]
 
 - Tumors of the **arachnoid cap cells**, typically **dural-based**.
 - Often attached to dura; can involve skull and venous sinuses.
@@ -773,7 +773,7 @@ Broad adult categories (WHO 2021 framework):
 
 ---
 
-### 9. [[Medulloblastoma]]
+### 9. [[Neurosurgery/Oncology/Medulloblastoma]]
 
 - Arises in the **posterior fossa** (cerebellum).
 - **Prone to ==CSF dissemination**== along neuraxis.
@@ -1013,7 +1013,7 @@ Speaker: **Helen Shih**
     - **GTV**: T1 contrast-enhancing lesion ± resection cavity.
     - **CTV**: GTV + involved **T2/FLAIR abnormality**.
     - **PTV**: CTV + **1–1.5 cm margin** for setup and microscopic spread (institution-specific).
-- **Standard dose ([[Stupp Protocol]])**
+- **Standard dose ([[Neurosurgery/Oncology/Stupp Protocol]])**
     - **60 Gy in 30 fractions over 6 weeks** (2 Gy/fx).
     - Doses >60 Gy have **not shown added benefit** and increase toxicity.
 - **Concurrent chemotherapy**
@@ -1076,7 +1076,7 @@ Speaker: **Helen Shih**
 
 ---
 
-### 5. [[Brain metastases]]
+### 5. [[Neurosurgery/Oncology/Brain metastases]]
 
 Management is individualized by **number, size, location, histology, and prognosis**.
 ![[Pasted image 20251126194702.png|600]]
@@ -1125,7 +1125,7 @@ Management is individualized by **number, size, location, histology, and prognos
 
 ---
 
-### 6. [[Meningioma]]
+### 6. [[Neurosurgery/Oncology/Meningioma]]
 
 #### 6.1 General strategy
 

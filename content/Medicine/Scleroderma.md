@@ -6,7 +6,7 @@ tags:
   - rheumatology
 
 ---
-see also [[nephrogenic systemic sclerosis]]
+see also [[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/Nephrogenic systemic sclerosis]]
 
 Limited cutaneous systemic sclerosis (LCSS)
 
@@ -57,4 +57,4 @@ Other management
 * AVOID STEROIDS
 	* can precipitate scleroderma renal crisis
 
-![[./_resources/Scleroderma.resources/Image 20231111 091726.jpeg]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Scleroderma.resources/Image 20231111 091726.jpeg]]

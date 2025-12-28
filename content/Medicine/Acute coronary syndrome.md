@@ -51,6 +51,6 @@ Other:
 
 * **Reentrant ventricular arrhythmias (eg, ventricular fibrillation)** are the **most common cause of sudden cardiac arrest** in the immediate post-infarction period in patients with acute myocardial infarction.
 
-![[./_resources/Acute_coronary_syndrome.resources/Image 20231104 150800.jpeg]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_coronary_syndrome.resources/Image 20231104 150800.jpeg]]
 
-![[./_resources/Acute_coronary_syndrome.resources/Image 20231110 210817.jpeg]]![[./_resources/Acute_coronary_syndrome.resources/Image 20231110 210827.jpeg]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_coronary_syndrome.resources/Image 20231110 210817.jpeg]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Acute_coronary_syndrome.resources/Image 20231110 210827.jpeg]]

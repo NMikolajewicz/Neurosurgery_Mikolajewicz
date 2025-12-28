@@ -17,4 +17,4 @@ The sources of obligatory water output in normal adults are composed of the foll
 * Respiratory tract – 400 mL
 * Stool – 200 mL
 
-![[./_resources/Fluids.resources/image.png]]
+![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Fluids.resources/image.png]]
