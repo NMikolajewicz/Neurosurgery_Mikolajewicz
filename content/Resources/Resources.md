@@ -1,11 +1,11 @@
 ---
 ---
+Radiopedia
 <https://radiopaedia.org/>
-
 <https://radiopaedia.org/cases/teaching-head-ct-with-annotated-scrollable-images>
 
-Duke NSx notes - detailed
-<https://neurosurgery.duke.edu/education/residency/resident-guides-neurosurgical-care>
+Victor's Neurosurgery Notes:
+http://www.neurosurgeryresident.net/
 
-Surgical videos:
-<https://surgicalneurologyint.com/>
+Surgical videos (Hernesniemi):
+https://surgicalneurologyint.com/1001-hernesniemi-videos/
