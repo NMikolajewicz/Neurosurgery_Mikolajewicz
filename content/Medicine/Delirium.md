@@ -53,4 +53,4 @@ Non-pharmacological management
 	hydration
 	
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Delirium.resources/image.png]]
+![[./_resources/Delirium.resources/image.png]]

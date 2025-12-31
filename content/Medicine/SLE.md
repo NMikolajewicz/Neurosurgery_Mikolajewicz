@@ -61,7 +61,7 @@ Management
 	* AZA, MTX, MMF
 	* cyclophosphamide - lupus nephritis
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/SLE.resources/image.png]]
+![[./_resources/SLE.resources/image.png]]
 
 * * *
 

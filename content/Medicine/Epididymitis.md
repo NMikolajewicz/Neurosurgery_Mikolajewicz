@@ -1,6 +1,6 @@
 ---
 ---
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Epididymitis.resources/Image 20231124 153255.jpeg]]
+![[./_resources/Epididymitis.resources/Image 20231124 153255.jpeg]]
 management
 
 * Ceftriaxone IM 250 mg (1 dose)

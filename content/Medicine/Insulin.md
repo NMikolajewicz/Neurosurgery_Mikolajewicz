@@ -45,7 +45,7 @@ Insulin types
 	* glargine (lantus), detemir (levermir)
 	* inject once daily
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Insulin.resources/image.png]]
+![[./_resources/Insulin.resources/image.png]]
 Glucose conversion (CAD vs USA)
 
 * blood glucose expressed in different units in Canada and USA
@@ -54,4 +54,4 @@ Glucose conversion (CAD vs USA)
 * 1 mmol/L = 18 mg/dL glucose
 * 0.0555 mmol/L = 1 mg/dL glucose
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Insulin.resources/image.1.png]]
+![[./_resources/Insulin.resources/image.1.png]]

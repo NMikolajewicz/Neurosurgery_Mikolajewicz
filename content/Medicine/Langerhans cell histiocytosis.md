@@ -85,11 +85,11 @@ MRI
 	* STIR: hyperintense
 	* T1 C+ (Gd): often shows diffuse contrast enhancement
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.8.png]]
+![[./_resources/Langerhans_cell_histiocytosis.resources/image.8.png]]
 
 |     |     |
 | --- | --- |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.png]]<br>CT images show a midline hyperdense soft tissue mass focally eroding both the internal and the external frontal bone layers. The lesion has both an intracranial component which remains extra-dural and a extracranial subgaleal component. There is destruction of both inner and outer frontal bone tables. | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.1.png]]<br>MRI shows again the destruction of both inner and outer frontal bone tables in the midline region, where a soft tissue mass extends with a subgaleal component and intracranially abutting the dura. The lesion has a intermediate T1 signal with a moderate to marked central contrast-enhancement, there are also peripheral small cystic components with a fluid-fluid level inside. |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.2.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.3.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.4.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.5.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.6.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Langerhans_cell_histiocytosis.resources/image.7.png]] |
+| ![[./_resources/Langerhans_cell_histiocytosis.resources/image.png]]<br>CT images show a midline hyperdense soft tissue mass focally eroding both the internal and the external frontal bone layers. The lesion has both an intracranial component which remains extra-dural and a extracranial subgaleal component. There is destruction of both inner and outer frontal bone tables. | ![[./_resources/Langerhans_cell_histiocytosis.resources/image.1.png]]<br>MRI shows again the destruction of both inner and outer frontal bone tables in the midline region, where a soft tissue mass extends with a subgaleal component and intracranially abutting the dura. The lesion has a intermediate T1 signal with a moderate to marked central contrast-enhancement, there are also peripheral small cystic components with a fluid-fluid level inside. |
+| ![[./_resources/Langerhans_cell_histiocytosis.resources/image.2.png]] | ![[./_resources/Langerhans_cell_histiocytosis.resources/image.3.png]] |
+| ![[./_resources/Langerhans_cell_histiocytosis.resources/image.4.png]] | ![[./_resources/Langerhans_cell_histiocytosis.resources/image.5.png]] |
+| ![[./_resources/Langerhans_cell_histiocytosis.resources/image.6.png]] | ![[./_resources/Langerhans_cell_histiocytosis.resources/image.7.png]] |

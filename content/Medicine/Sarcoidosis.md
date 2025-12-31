@@ -61,9 +61,9 @@ Staging (lungs)
 |     |     |
 | --- | --- |
 | Clinical Images |     |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Sarcoidosis.resources/image.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Sarcoidosis.resources/image.1.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Sarcoidosis.resources/image.2.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Sarcoidosis.resources/image.3.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Sarcoidosis.resources/image.4.png]] |     |
+| ![[./_resources/Sarcoidosis.resources/image.png]] | ![[./_resources/Sarcoidosis.resources/image.1.png]] |
+| ![[./_resources/Sarcoidosis.resources/image.2.png]] | ![[./_resources/Sarcoidosis.resources/image.3.png]] |
+| ![[./_resources/Sarcoidosis.resources/image.4.png]] |     |
 
 Treatment
 
@@ -98,7 +98,7 @@ Natural History
 * negative prognostic predictors:
 	* blacks, lupus pernio, chronic uveitis, age > 40, chronic hypercalcemia, nephrocalcinosis, progressive pulmonary sarcoid, nasal mucosal involvement, cystic bone lesions, neurosarcoidosis, cardiac sarcoid
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Sarcoidosis.resources/image.5.png]]
+![[./_resources/Sarcoidosis.resources/image.5.png]]
 
 Clinical Presentation:
 

@@ -2,7 +2,7 @@
 ---
 * _Salpingotomy is not recommended in a_ **_ruptured ectopic pregnancy_**
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Ectopic_pregnancy.resources/Image 20231112 160241.jpeg]]
+![[./_resources/Ectopic_pregnancy.resources/Image 20231112 160241.jpeg]]
 In a pateint with **ectopic pregnancy**, **β-hCG** >5000U is a contraindication to methotrexate
 
 * _Medical management with_ ==_methotrexate can be initiated in ectopic pregnancies_== _where_

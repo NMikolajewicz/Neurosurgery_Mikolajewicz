@@ -18,9 +18,9 @@ management
 	* 300 mg bolus (first dose)
 	* 150 mg bolus (second dose)
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/ACLS.resources/image.png]]
+![[./_resources/ACLS.resources/image.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/ACLS.resources/image.3.png]]
+![[./_resources/ACLS.resources/image.3.png]]
 
 * * *
 
@@ -44,7 +44,7 @@ Management
 * epinephrine
 	* 2-10 mcg / min infusion
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/ACLS.resources/image.4.png]]
+![[./_resources/ACLS.resources/image.4.png]]
 
 * * *
 
@@ -62,7 +62,7 @@ Management
 
 * 0.1 mg/kg q3-5 min
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/ACLS.resources/image.1.png]]
+![[./_resources/ACLS.resources/image.1.png]]
 
 * * *
 
@@ -70,4 +70,4 @@ Cardiac arrest in prenant patient
 
 * * *
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/ACLS.resources/image.2.png]]
+![[./_resources/ACLS.resources/image.2.png]]
