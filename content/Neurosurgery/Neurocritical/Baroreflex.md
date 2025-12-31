@@ -79,11 +79,6 @@ tags:
 > - "Main neurotransmitter at NTS synapse?" → **glutamate**.
 >  
 
-> [!note] Supplement
-> 
-> - **Baroreflex failure** (central/peripheral) classically causes **marked BP/HR lability**; in ICU, think **brainstem lesion/edema** if concurrent cranial nerve/respiratory findings. ⚠️ Uncertain / institution-specific
->  
-
 ### Visuals
 
 ![[Pasted image 20251215032335.png]]  
