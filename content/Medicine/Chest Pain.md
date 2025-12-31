@@ -1,6 +1,6 @@
 ---
 ---
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Chest_Pain.resources/image.png]]
+![[./_resources/Chest_Pain.resources/image.png]]
 
 ## Life-threatening conditions
 

@@ -191,17 +191,17 @@ Management
 * splenectomy (curative)
 * rituximab
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thrombocytopenia.resources/Image 20240205 121956.jpeg]]
+![[./_resources/Thrombocytopenia.resources/Image 20240205 121956.jpeg]]
 
 |     |     |
 | --- | --- |
 | Schistocytes |     |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thrombocytopenia.resources/image.5.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thrombocytopenia.resources/image.4.png]] |
+| ![[./_resources/Thrombocytopenia.resources/image.5.png]] | ![[./_resources/Thrombocytopenia.resources/image.4.png]] |
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thrombocytopenia.resources/image.png]]
+![[./_resources/Thrombocytopenia.resources/image.png]]
 
 |     |     |
 | --- | --- |
 | Clinical Images |     |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thrombocytopenia.resources/image.1.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thrombocytopenia.resources/image.2.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Thrombocytopenia.resources/image.3.png]] |     |
+| ![[./_resources/Thrombocytopenia.resources/image.1.png]] | ![[./_resources/Thrombocytopenia.resources/image.2.png]] |
+| ![[./_resources/Thrombocytopenia.resources/image.3.png]] |     |

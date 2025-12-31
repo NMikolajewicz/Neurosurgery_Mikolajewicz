@@ -16,4 +16,4 @@ STOP-BANG
 Gold standard diagnosis: polysomnography
 First line management: CPAP
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Obstructive_sleep_apnea.resources/Image 20231112 153243.jpeg]]
+![[./_resources/Obstructive_sleep_apnea.resources/Image 20231112 153243.jpeg]]

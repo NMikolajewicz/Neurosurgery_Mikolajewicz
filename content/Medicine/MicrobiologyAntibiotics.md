@@ -6,7 +6,7 @@ tags:
   - antibiotics/cephalosporins
 ---
 see also [[see infections]]
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/MicrobiologyAntibiotics.resources/image.5.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/MicrobiologyAntibiotics.resources/image.6.png]]
+![[./_resources/MicrobiologyAntibiotics.resources/image.5.png]]![[./_resources/MicrobiologyAntibiotics.resources/image.6.png]]
 Gram Stain
 
 * Gram Positives: No outer lipid membrane
@@ -200,7 +200,7 @@ Penicillins
 |     |     |
 | --- | --- |
 | **Beta-Lactam Resources** |     |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/MicrobiologyAntibiotics.resources/image.4.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/MicrobiologyAntibiotics.resources/image.3.png]] |
+| ![[./_resources/MicrobiologyAntibiotics.resources/image.4.png]] | ![[./_resources/MicrobiologyAntibiotics.resources/image.3.png]] |
 
 * * *
 
@@ -423,8 +423,8 @@ Fluoroquinolones
 |     |     |
 | --- | --- |
 | Relevant Resources |     |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/MicrobiologyAntibiotics.resources/image.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/MicrobiologyAntibiotics.resources/image.1.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/MicrobiologyAntibiotics.resources/image.2.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/MicrobiologyAntibiotics.resources/Image 20230826 171321.jpeg]] |
+| ![[./_resources/MicrobiologyAntibiotics.resources/image.png]] | ![[./_resources/MicrobiologyAntibiotics.resources/image.1.png]] |
+| ![[./_resources/MicrobiologyAntibiotics.resources/image.2.png]] | ![[./_resources/MicrobiologyAntibiotics.resources/Image 20230826 171321.jpeg]] |
 
 |     |     |
 | --- | --- |

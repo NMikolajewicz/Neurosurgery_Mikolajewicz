@@ -113,8 +113,8 @@ Potassium-sparing diuretics
 	* conditions with increased aldosterone secretion; e.g., liver cirrhosis with ascites
 	* congestive heart failure
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Diuretics.resources/image.1.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Diuretics.resources/image.2.png]]
+![[./_resources/Diuretics.resources/image.1.png]]![[./_resources/Diuretics.resources/image.2.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Diuretics.resources/image.3.png]]
+![[./_resources/Diuretics.resources/image.3.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Diuretics.resources/image.png]]
+![[./_resources/Diuretics.resources/image.png]]

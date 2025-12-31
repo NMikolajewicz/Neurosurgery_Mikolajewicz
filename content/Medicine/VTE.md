@@ -55,5 +55,5 @@ _Stable_
 |     |     |     |
 | --- | --- | --- |
 | **Additional Resources** |     |     |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/VTE.resources/Image 20230824 075857.jpeg]] | VTE risk<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/VTE.resources/Image 20230824 075936.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/VTE.resources/Image 20230824 080153.jpeg]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/VTE.resources/image.png]] |
-| Wells DVT score<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/VTE.resources/image.1.png]] | Wells PE score<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/VTE.resources/Image 20230824 081147.jpeg]] | PE pharmacological options:<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/VTE.resources/Image 20230824 081703.jpeg]] |
+| ![[./_resources/VTE.resources/Image 20230824 075857.jpeg]] | VTE risk<br>![[./_resources/VTE.resources/Image 20230824 075936.png]] | ![[./_resources/VTE.resources/Image 20230824 080153.jpeg]]![[./_resources/VTE.resources/image.png]] |
+| Wells DVT score<br>![[./_resources/VTE.resources/image.1.png]] | Wells PE score<br>![[./_resources/VTE.resources/Image 20230824 081147.jpeg]] | PE pharmacological options:<br>![[./_resources/VTE.resources/Image 20230824 081703.jpeg]] |

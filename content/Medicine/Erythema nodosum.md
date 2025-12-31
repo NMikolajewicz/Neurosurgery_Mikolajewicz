@@ -1,6 +1,6 @@
 ---
 ---
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Erythema_nodosum.resources/Image 20231212 071744.jpeg]]
+![[./_resources/Erythema_nodosum.resources/Image 20231212 071744.jpeg]]
 Differential: NODOSUMM
 
 * No cause
@@ -17,4 +17,4 @@ Workup
 * Throat culture
 * ASO titre
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Erythema_nodosum.resources/Image 20231212 071813.jpeg]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Erythema_nodosum.resources/Image 20231212 071828.png]]
+![[./_resources/Erythema_nodosum.resources/Image 20231212 071813.jpeg]]![[./_resources/Erythema_nodosum.resources/Image 20231212 071828.png]]

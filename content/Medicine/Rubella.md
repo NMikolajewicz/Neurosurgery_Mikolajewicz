@@ -10,6 +10,6 @@ rubella (german measles)  phases 
 * TORCH infection
 * Rubella effects on pregnancy **before 16 weeks, possibly devastating congenital defects, after 16 weeks should be ok**
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Rubella.resources/Image 20231219 143708.jpeg]]
+![[./_resources/Rubella.resources/Image 20231219 143708.jpeg]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Rubella.resources/Image 20231219 143659.jpeg]]
+![[./_resources/Rubella.resources/Image 20231219 143659.jpeg]]

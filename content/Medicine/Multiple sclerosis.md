@@ -37,4 +37,4 @@ complications
 * spasms - baclofen
 * neuropathic pain - gabapentin
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Multiple_sclerosis.resources/image.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Multiple_sclerosis.resources/image.1.png]]
+![[./_resources/Multiple_sclerosis.resources/image.png]]![[./_resources/Multiple_sclerosis.resources/image.1.png]]

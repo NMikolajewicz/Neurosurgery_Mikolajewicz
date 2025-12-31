@@ -41,7 +41,7 @@ Questions
 4. volume status
 
 Required values to determine etiology: 1) volume status, 2) urine sodium, 3) urine osmolality
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.11.png]]
+![[./_resources/Hyponatremia.resources/image.11.png]]
 Approach
 1\. Compare the serum osmolality to the tonicity (tonicity = EFFECTIVE osmoles only)
 2\. Assess the volume status (physical exam, urine  Na)
@@ -55,20 +55,20 @@ Approach
 	
 		
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.9.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.10.png]]
+![[./_resources/Hyponatremia.resources/image.9.png]]![[./_resources/Hyponatremia.resources/image.10.png]]
 Determining cause of hyponatremia
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.5.png]]
+![[./_resources/Hyponatremia.resources/image.5.png]]
 
 Management of hyponatremia
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.6.png]]
+![[./_resources/Hyponatremia.resources/image.6.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.1.png]]
+![[./_resources/Hyponatremia.resources/image.1.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.7.png]]
+![[./_resources/Hyponatremia.resources/image.7.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.8.png]]
+![[./_resources/Hyponatremia.resources/image.8.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.png]]
+![[./_resources/Hyponatremia.resources/image.png]]
 
 **SIADH (euvolemic hyponatremia)** — Persistent antidiuretic hormone (ADH) release and water retention, not associated with true hypovolemia or reduced effective arterial blood volume. Major causes include CNS disease, malignancy, drugs, and recent surgery.
 
@@ -121,7 +121,7 @@ General Approach
 	An example of hyponatremia when ADH is _not_ acting would be psychogenic polydipsia, or insufficient solute intake.
 	
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.2.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.3.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyponatremia.resources/image.4.png]]
+![[./_resources/Hyponatremia.resources/image.2.png]]![[./_resources/Hyponatremia.resources/image.3.png]]![[./_resources/Hyponatremia.resources/image.4.png]]
 THREE mechanisms that can produce hyponatremia:
 (1) – free water is unable to be excreted by the kidney leading to an elevated water:sodium ratio in the body (this is the case in extreme renal failure).
 (2) – Antidiuretic hormone is turned on, and is the _only_ mechanism that separates salt from water retention. With this on, water is preferentially reabsorbed by kidneys leading to an increased water:sodium ratio in the body.

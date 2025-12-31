@@ -28,6 +28,6 @@ tags:
 * Weight gain
 * [Oliguria](https://www.amboss.com/us/knowledge/Diagnostic_evaluation_of_the_kidney_and_urinary_tract#Z923732bc2a869fb5343909709f174a34) or anuria (e.g. in renal or postrenal AKI, or CHF)
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Volume_status.resources/image.1.png]]
+![[./_resources/Volume_status.resources/image.1.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Volume_status.resources/image.png]]
+![[./_resources/Volume_status.resources/image.png]]

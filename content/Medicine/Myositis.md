@@ -52,4 +52,4 @@ Management
 
 |     |     |
 | --- | --- |
-| heliotrope rash<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Myositis.resources/image.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Myositis.resources/image.2.png]] | gottron's papules<br>![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Myositis.resources/image.1.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Myositis.resources/image.3.png]] |
+| heliotrope rash<br>![[./_resources/Myositis.resources/image.png]]![[./_resources/Myositis.resources/image.2.png]] | gottron's papules<br>![[./_resources/Myositis.resources/image.1.png]]![[./_resources/Myositis.resources/image.3.png]] |

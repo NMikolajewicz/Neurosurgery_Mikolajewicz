@@ -52,10 +52,10 @@ Management
 			* sequesters potassium in GI
 	* ==dialysis (last resort)==
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyperkalemia.resources/image.png]]
+![[./_resources/Hyperkalemia.resources/image.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyperkalemia.resources/image.1.png]]
+![[./_resources/Hyperkalemia.resources/image.1.png]]
 Management of hyperkalemia
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyperkalemia.resources/image.5.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyperkalemia.resources/image.4.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyperkalemia.resources/image.2.png]]
+![[./_resources/Hyperkalemia.resources/image.5.png]]![[./_resources/Hyperkalemia.resources/image.4.png]]![[./_resources/Hyperkalemia.resources/image.2.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Hyperkalemia.resources/image.3.png]]
+![[./_resources/Hyperkalemia.resources/image.3.png]]

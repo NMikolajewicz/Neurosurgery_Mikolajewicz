@@ -1,6 +1,6 @@
 ---
 ---
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Cervical_insufficiency.resources/Image 20231112 152829.jpeg]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Cervical_insufficiency.resources/Image 20231112 152838.jpeg]]
+![[./_resources/Cervical_insufficiency.resources/Image 20231112 152829.jpeg]]![[./_resources/Cervical_insufficiency.resources/Image 20231112 152838.jpeg]]
 **Biochemical changes** in the cervix that lead to cervical insufficiency:
 
 * decreased collagen

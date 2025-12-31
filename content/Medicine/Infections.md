@@ -85,7 +85,7 @@ Management:
 * If DUF
 	* pip-tazo and vancomycin
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.3.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.4.png]]
+![[./_resources/Infections.resources/image.3.png]]![[./_resources/Infections.resources/image.4.png]]
 
 * * *
 
@@ -156,7 +156,7 @@ Vascular and Immunologic phenomena
 
 |     |     |     |
 | --- | --- | --- |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.12.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.11.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.13.png]] |
+| ![[./_resources/Infections.resources/image.12.png]] | ![[./_resources/Infections.resources/image.11.png]] | ![[./_resources/Infections.resources/image.13.png]] |
 
 Prophylaxis
 
@@ -199,7 +199,7 @@ valve replacement indications
 	* abscess
 	* fungus
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.9.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.10.png]]
+![[./_resources/Infections.resources/image.9.png]]![[./_resources/Infections.resources/image.10.png]]
 
 * * *
 
@@ -238,7 +238,7 @@ Management
 
 * ==tobramycin 5 mg/kg IV q24h==
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.8.png]]
+![[./_resources/Infections.resources/image.8.png]]
 
 * * *
 
@@ -274,7 +274,7 @@ see [[HIV note]]
 
 * * *
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/Image 20240204 103000.jpeg]]
+![[./_resources/Infections.resources/Image 20240204 103000.jpeg]]
 
 * * *
 
@@ -337,7 +337,7 @@ Atypical meningitis
 * neurosyphilis
 	* primary chancre, secondary erythema multiform
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.7.png]]
+![[./_resources/Infections.resources/image.7.png]]
 
 * * *
 
@@ -516,7 +516,7 @@ _CAP expanded management_
 
 * _azithromycin 500 mg IV daily_
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/Image 20231110 212535.jpeg]]
+![[./_resources/Infections.resources/image.png]]![[./_resources/Infections.resources/Image 20231110 212535.jpeg]]
 
 * * *
 
@@ -549,7 +549,7 @@ Management
 
 * ==doxycycline 100 mg PO BID x7d==
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.6.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.5.png]]
+![[./_resources/Infections.resources/image.6.png]]![[./_resources/Infections.resources/image.5.png]]
 
 * * *
 
@@ -566,7 +566,7 @@ see [[sepsis note]]
 * * *
 
 Group A strep
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/Image 20240204 102550.jpeg]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/Image 20240204 102747.jpeg]]
+![[./_resources/Infections.resources/Image 20240204 102550.jpeg]]![[./_resources/Infections.resources/Image 20240204 102747.jpeg]]
 
 * * *
 
@@ -603,7 +603,7 @@ Management:
 		* optic neuritis
 
 _hilar lymphadenopathy_
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.14.png]]
+![[./_resources/Infections.resources/image.14.png]]
 
 * * *
 
@@ -649,9 +649,9 @@ Management
 
 * ==ceftriaxone 1g daily==
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.1.png]]
+![[./_resources/Infections.resources/image.1.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Infections.resources/image.2.png]]
+![[./_resources/Infections.resources/image.2.png]]
 
 * * *
 

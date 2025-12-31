@@ -100,4 +100,4 @@ management
 * riluzole
 	* extends life 3 years
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Neuromuscular_disease.resources/Image 20231111 173932.png]]
+![[./_resources/Neuromuscular_disease.resources/Image 20231111 173932.png]]

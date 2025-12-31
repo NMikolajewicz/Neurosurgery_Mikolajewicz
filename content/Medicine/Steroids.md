@@ -5,7 +5,7 @@ tags:
   - glucocorticoid
 ---
 ### Steroid Conversion Charts
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Steroids.resources/IMG_0252.PNG]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Steroids.resources/Corticosteroid-compa.png]]
+![[./_resources/Steroids.resources/IMG_0252.PNG]]![[./_resources/Steroids.resources/Corticosteroid-compa.png]]
 
 ### Counselling about steroid treatment
 **Early common side effects:**
@@ -23,6 +23,6 @@ tags:
 
 **Unpredictable (idiosyncratic) side effects**
 Infection screening in GC users
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Steroids.resources/image.png]]
+![[./_resources/Steroids.resources/image.png]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Steroids.resources/image.1.png]]
+![[./_resources/Steroids.resources/image.1.png]]

@@ -100,7 +100,7 @@ Normocytic anemia
 				* labs: ==bite cells and heinz bodies on smear, G6PD levels==
 				* management: ==supportive, avoid stressors==
 			* sickle cell
-				* see [[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/Sickle Cell Disease]]
+				* see [[Medicine/Sickle Cell Disease]]
 			* PNH
 				* pathophysiology:
 					* deficiency of PIGA gene
@@ -141,7 +141,7 @@ Macrocytic anemia
 
 |     |     |
 | --- | --- |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.1.png]] |
+| ![[./_resources/Anemia.resources/image.png]] | ![[./_resources/Anemia.resources/image.1.png]] |
 
 * * *
 
@@ -199,8 +199,8 @@ Blood Smears
 |     |     |
 | --- | --- |
 |     |     |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.7.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.9.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.6.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.8.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.3.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.4.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.5.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.10.png]] |
-| ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.11.png]] | ![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Anemia.resources/image.12.png]] |
+| ![[./_resources/Anemia.resources/image.7.png]] | ![[./_resources/Anemia.resources/image.9.png]] |
+| ![[./_resources/Anemia.resources/image.6.png]] | ![[./_resources/Anemia.resources/image.8.png]] |
+| ![[./_resources/Anemia.resources/image.3.png]] | ![[./_resources/Anemia.resources/image.4.png]] |
+| ![[./_resources/Anemia.resources/image.5.png]] | ![[./_resources/Anemia.resources/image.10.png]] |
+| ![[./_resources/Anemia.resources/image.11.png]] | ![[./_resources/Anemia.resources/image.12.png]] |

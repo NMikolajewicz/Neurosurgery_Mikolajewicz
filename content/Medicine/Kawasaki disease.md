@@ -10,7 +10,7 @@ _CRASH_ 
 * _Strawberry tongue, cracked red lips_
 * _Hand feet: swelling, erythema_
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Kawasaki_disease.resources/Image 20231205 062517.jpeg]]
+![[./_resources/Kawasaki_disease.resources/Image 20231205 062517.jpeg]]
 Management
 
 * high dose aspirin
@@ -20,4 +20,4 @@ Management
 * IV glucocorticoids
 	* If treatment-refractory
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Kawasaki_disease.resources/Image 20231225 192936.jpeg]]
+![[./_resources/Kawasaki_disease.resources/Image 20231225 192936.jpeg]]

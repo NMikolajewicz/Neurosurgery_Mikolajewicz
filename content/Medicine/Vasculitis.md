@@ -143,6 +143,6 @@ Henoch-schoenlein purpura (IgA vasculitis)
 * management
 	* ==steroids==
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Vasculitis.resources/Image 20240202 153249.jpeg]]
+![[./_resources/Vasculitis.resources/Image 20240202 153249.jpeg]]
 
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Vasculitis.resources/image.png]]
+![[./_resources/Vasculitis.resources/image.png]]

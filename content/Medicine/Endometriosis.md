@@ -1,6 +1,6 @@
 ---
 ---
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Endometriosis.resources/Image 20231112 155611.png]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Endometriosis.resources/Image 20231112 155620.jpeg]]![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Endometriosis.resources/Image 20231112 155629.jpeg]]
+![[./_resources/Endometriosis.resources/Image 20231112 155611.png]]![[./_resources/Endometriosis.resources/Image 20231112 155620.jpeg]]![[./_resources/Endometriosis.resources/Image 20231112 155629.jpeg]]
 
 * In patients with **endometriosis**, the **liver** is the most common extra-pelvic location for endometrial-like tissue deposits
 

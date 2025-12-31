@@ -1,6 +1,6 @@
 ---
 ---
-![[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/_resources/Fetal_growth_restriction.resources/Image 20231112 155029.png]]
+![[./_resources/Fetal_growth_restriction.resources/Image 20231112 155029.png]]
 _risk factor_ for **intrauterine growth restriction** is
 
 * **coagulopathy** in the mother, which leads to uteroplacental vessel thrombosis

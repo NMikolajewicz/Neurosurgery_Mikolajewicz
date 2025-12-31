@@ -9,7 +9,7 @@ tags:
   - psoriatic-arthritis
 
 ---
-see also [[Neurosurgery/00_Neurosurgery_Mikolajewicz/content/Medicine/Arthritis]]
+see also [[Medicine/Arthritis]]
 
 Types of spondyloarthropathies (PAIR)
 
