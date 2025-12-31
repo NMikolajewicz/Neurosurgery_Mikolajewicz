@@ -5,6 +5,25 @@ tags:
   - electrolyte-balance
   - electrolytes/hyponatremia
 ---
+> [!summary] Cerebral Salt Wasting (CSW) 
+> 
+> - **CSW = renal natriuresis** → Na loss + obligate water loss → **hypovolemic hyponatremia**.
+>     
+> - Classically after **SAH** (also other intracranial insults).
+>     
+> - Key bedside clues: **low plasma volume**, **↓daily weights**, **low CVP**, **↑Hct** (volume contraction).
+>     
+> - Labs: **hyponatremia** with **concentrated urine** (both CSW & SIADH can have concentrated urine).
+>     
+> - Differentiate from **SIADH**: **CSW = low CVP + negative fluid balance**; **SIADH = water retention**.
+>     
+> - Tx: **replace volume + salt** with **isotonic or hypertonic IV fluids** (goal **positive salt balance**).
+>     
+> - Course can be prolonged; add **salt tablets** once PO intake resumes.
+>     
+> - Remember **pseudohyponatremia** is a separate, less common mimic.
+>
+
 ### Cerebral Salt Wasting
 * CSW is inappropriate natriuresis (urinary loss of Na)
 	* results in water loss due to excretion of H2O following the osmotic gradient and ultimately a ==loss of intravascular volume.==

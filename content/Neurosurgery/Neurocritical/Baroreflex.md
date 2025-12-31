@@ -1,43 +1,92 @@
-  
-- Baroreflex Basics: Baroreceptors in the carotid sinus and aortic arch sense BP and signal the medulla (NTS). High BP → increased baroreceptor firing → inhibits sympathetic output and activates vagus (→ bradycardia, vasodilation); Low BP → reduced baroreceptor firing → sympathetic activation (→ tachycardia, vasoconstriction) . Acute brain injury can blunt this reflex, causing hemodynamic swings.
+---
+date created: Monday, December 15th 2025, 3:23:24 am
+date modified: Wednesday, December 31st 2025, 1:56:25 pm
+tags:
+  - baroreflex
+  - nucleus-solitarius
+  - CN-IX
+  - CN-X
+  - vagus-nerve
+---
+## Baroreflex Arc & Nucleus Tractus Solitarius (NTS)
 
 
-## Central Integration Site
+> [!summary] Baroreflex Arc & NTS
+> 
+> - **Sensors:** carotid sinus + aortic arch baroreceptors detect **arterial BP stretch**.
+>     
+> - **Afferents:** carotid sinus → **CN IX**; aortic arch → **CN X** → **NTS**.
+>     
+> - **Central relay:** **NTS (dorsomedial medulla)** = obligatory synapse/integration node for baroreflex afferents.
+>     
+> - **Neurotransmitter:** afferents release **glutamate** at the NTS (excitatory).
+>     
+> - **↑BP → ↑firing:** NTS → **↓sympathetic + ↑vagal** → **bradycardia + vasodilation**.
+>     
+> - **↓BP → ↓firing:** disinhibits **sympathetic outflow** → **tachycardia + vasoconstriction**.
+>     
+> - **Modulators:** **5-HT₂A** (facilitates cardiac reflex), **Ang II (AT₁)** alters gain, **Substance P (NK₁)** can inhibit via **GABAergic** mechanisms.
+>     
+> - **Clinical:** acute brain injury/brainstem involvement can **blunt baroreflex** → **BP/HR lability** (consider NTS-region pathology).
+>
+### Core concepts
 
-The nucleus tractus solitarius (NTS) serves as the primary central relay and integration site for baroreceptor afferent input in the baroreflex arc. ==Located in the dorsomedial medulla, the NTS receives visceral sensory information via the glossopharyngeal nerve (from carotid sinus baroreceptors) and vagus nerve (from aortic arch baroreceptors)==. This sensory synapse is obligatory for baroreflex function, making the NTS a critical node in cardiovascular homeostasis.[1][2][3][4]
+- **Baroreceptors** (carotid sinus, aortic arch) sense **BP** and signal the **medulla (NTS)**.
+- **↑BP** → **↑baroreceptor firing** → **↓sympathetic** + **↑vagal** → **bradycardia + vasodilation**.
+- **↓BP** → **↓baroreceptor firing** → **↑sympathetic** → **tachycardia + vasoconstriction**.
+- **Acute brain injury** can **blunt** baroreflex → **hemodynamic swings**.
+- **NTS** is the **obligatory** central synapse/relay for baroreflex afferents → key node for CV homeostasis.
 
-## Neurotransmission and Signal Processing
+### Anatomy
 
-Baroreceptor afferents primarily use glutamate as their excitatory neurotransmitter at the NTS synapse. When arterial pressure increases, elevated baroreceptor firing rates increase glutamatergic input to NTS neurons, which then activate parasympathetic preganglionic neurons and inhibit sympathetic outflow through projections to the caudal ventrolateral medulla and other brainstem regions. This dual response (parasympathetic activation + sympathetic inhibition) maximizes blood pressure reduction.[2][5][6][7]
+#### Peripheral sensors + afferents
+- **Carotid sinus baroreceptors** → **CN IX (glossopharyngeal)** → **NTS**.
+- **Aortic arch baroreceptors** → **CN X (vagus)** → **NTS**.
 
-## Neuromodulation
+#### Central integration site
+- **NTS** = primary central relay/integration for baroreceptor afferent input.
+- ==Located in the dorsomedial medulla, the NTS receives visceral sensory information via the glossopharyngeal nerve (from carotid sinus baroreceptors) and vagus nerve (from aortic arch baroreceptors)==.
 
-The NTS is not merely a passive relay station but actively integrates and modulates baroreceptor signals through multiple receptor systems. Serotonin acting at 5-HT₂A receptors facilitates the cardiac component of the baroreflex. ==Angiotensin II acting at AT₁ receptors in the NTS modulates baroreflex gain== and mediates interactions between different cardiovascular reflexes. ==Substance P (via NK₁ receptors) can inhibit baroreflex responses== through GABAergic mechanisms, with differential effects on aortic versus carotid baroreceptor pathways.[8][9][6][10]
+### Neurotransmission and signal processing
 
-## Beyond Cardiovascular Control
+- Baroreceptor afferents use **glutamate** at the **NTS synapse** (excitatory).
+- **↑arterial pressure** → **↑baroreceptor firing** → **↑glutamatergic input to NTS** →
+    - **activates parasympathetic preganglionic neurons** + **inhibits sympathetic outflow** (via **caudal ventrolateral medulla** + other brainstem regions).
+- This **parasympathetic activation + sympathetic inhibition** maximizes BP reduction.
 
-NTS baroreceptor projections extend beyond cardiovascular regulation, sending ascending pathways to the parabrachial nucleus, periaqueductal gray, hypothalamus, thalamus, and prefrontal cortex. These connections mediate baroreceptor influences on pain perception, consciousness, and cognitive function, explaining the broader physiological effects of blood pressure changes.[7]
+### Neuromodulation (NTS is an active integrator)
 
-Sources
-[1] Baroreceptor inputs to the nucleus tractus solitarius in the cat: postsynaptic actions and the influence of respiration https://pmc.ncbi.nlm.nih.gov/articles/PMC1191669/
-[2] Characterization and Role in the Baroreceptor Reflex Arc https://pubmed.ncbi.nlm.nih.gov/14514026/
-[3] Neuroanatomy, Nucleus Solitarius - StatPearls - NCBI Bookshelf https://www.ncbi.nlm.nih.gov/books/NBK549831/
-[4] Cellular mechanisms of baroreceptor integration at ... - PubMed https://pubmed.ncbi.nlm.nih.gov/11458672/
-[5] Baroreflex Regulation of Blood Pressure, Animation. https://www.youtube.com/watch?v=X3BCFOlk1oQ
-[6] Functional interaction between nucleus tractus solitarius NK 1 ... https://academic.oup.com/cardiovascres/article/65/4/930/445332
-[7] Baroreceptor modulation of the cardiovascular system, pain ... https://pmc.ncbi.nlm.nih.gov/articles/PMC8480547/
-[8] Baroreceptor reflex modulation by angiotensin II at the nucleus tractus solitarii. https://www.ahajournals.org/doi/pdf/10.1161/01.HYP.11.2_Pt_2.I167
-[9] Characterization and Role in the Baroreceptor Reflex Arc https://pmc.ncbi.nlm.nih.gov/articles/PMC11530147/
-[10] AT1 receptors in the nucleus tractus solitarii mediate the interaction between the baroreflex and the cardiac sympathetic afferent reflex in anesthetized rats | American Journal of Physiology-Regulatory, Integrative and Comparative Physiology | American Physiological Society https://journals.physiology.org/doi/full/10.1152/ajpregu.00590.2006
+- **Serotonin (5-HT₂A)** facilitates the **cardiac** component of baroreflex.
+- ==Angiotensin II acting at AT₁ receptors in the NTS modulates baroreflex gain== and reflex–reflex interactions.
+- ==Substance P (NK₁ receptors) can inhibit baroreflex responses== via **GABAergic mechanisms**; effects differ for **aortic vs carotid** pathways.
 
+### Beyond cardiovascular control
 
+- NTS baroreceptor outputs project to **parabrachial nucleus**, **periaqueductal gray**, **hypothalamus**, **thalamus**, **prefrontal cortex**.
+- These pathways link BP state to **pain perception, consciousness, and cognitive function**.
 
-![[Pasted image 20251215032335.png]]
+### Clinical relevance (neurocritical care)
 
+- **Persistent BP/HR lability** after acute brain injury can reflect **baroreflex impairment** (central integration blunted).
+- In unexplained autonomic instability, consider **brainstem involvement** (including NTS-region pathology) in the differential.
 
-![[Pasted image 20251215032448.png]]
+> [!question] High yields
+> 
+> - "Where do baroreceptor afferents synapse centrally?" → **NTS (dorsomedial medulla)**.
+> 
+> - "Afferent nerves?" → **CN IX (carotid sinus)**, **CN X (aortic arch)**.
+> 
+> - "Main neurotransmitter at NTS synapse?" → **glutamate**.
+>  
 
-![[Pasted image 20251215032526.png]]
+> [!note] Supplement
+> 
+> - **Baroreflex failure** (central/peripheral) classically causes **marked BP/HR lability**; in ICU, think **brainstem lesion/edema** if concurrent cranial nerve/respiratory findings. ⚠️ Uncertain / institution-specific
+>  
 
+### Visuals
 
-![[Pasted image 20251215032552.png]]
+![[Pasted image 20251215032335.png]]  
+![[Pasted image 20251215032448.png|500]]  
+![[Pasted image 20251215032526.png|500]]  
+![[Pasted image 20251215032552.png|500]]
