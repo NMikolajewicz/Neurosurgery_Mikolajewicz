@@ -4,7 +4,7 @@ date modified: Wednesday, December 31st 2025, 1:33:26 pm
 tags:
   - central-neurogenic-hyperventilation
   - hyperventilation
-  - brainstem
+  - brainstem-ventilation-patterns
 ---
 > [!summary] Central Neurogenic Hyperventilation 
 > 
@@ -56,6 +56,8 @@ tags:
 > - Expected ABG: **respiratory alkalosis** with **low PaCO₂**.
 >  
 
+![[Pasted image 20251231133829.png|400]]
+![[Pasted image 20251231134006.png|400]]
 ## Workup / Imaging
 
 - **ABG**: confirm **hypocapnia/alkalosis**; track severity/trends.
