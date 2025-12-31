@@ -1,18 +1,29 @@
 ---
 date created: Wednesday, December 31st 2025, 2:51:02 pm
 date modified: Wednesday, December 31st 2025, 2:55:24 pm
+tags:
+  - pupillometery
+  - CN-III
+  - CN-II
+  - neurologic-pupil-index
 ---
-### Core concepts
+> [!summary] Quantitative Pupillometry (Pupillometer) 
+> 
+> - Measures: **baseline/min diameter**, **% constriction**, **latency**, **constriction/dilation velocity**.
+>     
+> - **NPI**: **3–5 brisk**, **<3 sluggish/abnormal**, **0 nonreactive**.
+>     
+> - Confounders: **mydriatics** (invalidate exam) + ocular issues (**globe trauma**, prior iris surgery, **cataract/corneal opacity**, baseline anisocoria).
+>
 
-- **Pupillometer** = bedside tool for **objective, repeatable measurement** of **pupil size + light reflex dynamics** (trendable vs subjective penlight exam).
-- Best utility when exam is noisy: **sedation, intubation, poor ambient conditions**, frequent serial checks (ICU/ED/OR).
-- **Pupil changes are high-stakes neuro signs**: **unilateral/bilateral dilation** and **asymmetric light reaction** are clinical signs of **intracranial hypertension/herniation**.
-- In trauma, **altered mental status + unilateral fixed/dilated pupil + contralateral weakness** strongly suggests **uncal transtentorial herniation** from an **extra-axial hematoma**.
-- Document confounders: **ocular pathology/trauma** and **pharmacologic dilation** can invalidate interpretation; mydriatics **preclude pupillary exam** for a variable period.
 ### Anatomy
 
-- **Parasympathetic (constriction)**: retina → **CN II** → pretectal → **Edinger–Westphal** → **CN III** → ciliary ganglion → **sphincter pupillae**.
-- **Sympathetic (dilation)**: hypothalamus → brainstem → **ciliospinal center (C8–T2)** → sympathetic chain → **superior cervical ganglion** → long ciliary nerves → **dilator pupillae**.
+- **Parasympathetic (constriction)**: 
+	- retina → **CN II** → pretectal → **Edinger–Westphal** → **CN III** → ciliary ganglion → **sphincter pupillae**.
+- **Sympathetic (dilation)**: 
+	- hypothalamus → brainstem → **ciliospinal center (C8–T2)** → sympathetic chain → **superior cervical ganglion** → long ciliary nerves → **dilator pupillae**.
+
+![[Pasted image 20251231151624.png|400]]
 ### What the device measures
 
 - Typical outputs: **baseline diameter**, **minimum diameter**, **% constriction**, **latency**, **constriction velocity**, **dilation velocity**.
