@@ -1,72 +1,100 @@
+---
+date created: Monday, December 15th 2025, 3:43:09 am
+date modified: Wednesday, December 31st 2025, 3:57:37 pm
+tags:
+  - paroxysmal-hyperthermic-autonomic-dysregulation
+  - paroxysmal-sympathetic-hyperactivity
+  - central-fever
+---
+See also [[Central Fever]]
 
-Paroxysmal sympathetic hyperactivity (PSH) is a syndrome of recurrent, sudden “storms” of sympathetic overactivity (often with motor features) that occurs after severe acquired brain injury.  It is frequently under-recognized because its signs overlap with common ICU problems (e.g., infection, withdrawal, seizures, pain).[12][19][20]
+> [!summary] Paroxysmal Sympathetic Hyperactivity (PSH) 
+> 
+> - **PSH** = recurrent **sympathetic “storms”** ± **motor posturing** after severe brain injury; often confused with ICU mimics.
+>     
+> - Episodes: **tachycardia, HTN, tachypnea, fever/hyperthermia, diaphoresis** ± **dystonia/tonic posturing**; typically **stimulus/nociception-triggered**.
+>     
+> - Path: **loss of inhibitory control** → unregulated sympathetic output; catecholamines can **↑ 200–300%** during paroxysms.
+>     
+> - Dx: **clinical + exclude** sepsis, withdrawal, pain, hypoxia/hypercarbia, ↑ICP, seizures; use **PSH-AM** to grade likelihood/severity.
+>     
+> - First-line care: **trigger reduction** (cluster care) + **support** (cooling, hydration/nutrition).
+>     
+> - Abort severe episodes: **morphine 2–8 mg IV** (up to 15) or **fentanyl 25–100 mcg IV** ± **benzodiazepines**; **dexmedetomidine** can be effective.
+>     
+> - Prevent recurrence: **α2-agonists** (dex/clonidine) + **propranolol**; add **gabapentin/baclofen/dantrolene** for pain/spasticity phenotype.
+>     
+> - Why it matters: drives **hyperthermia + metabolic demand**, worsens outcomes, and complicates rehab (agitation, sleep disruption, contractures).
+>
 
-## When to suspect
-PSH typically presents as paroxysmal episodes of tachycardia, hypertension, tachypnea, hyperthermia/fever, diaphoresis, and sometimes dystonia or tonic posturing, often provoked by stimulation or nociception.  It is most often described after severe traumatic brain injury, but it can also occur after other severe brain insults (e.g., stroke or CNS infection), so the clinical pattern matters more than the etiology.[9][11][18][20][12]
+## Paroxysmal Sympathetic Hyperactivity (PSH)
 
-## Diagnosis approach
-PSH is primarily a clinical diagnosis supported by structured assessment and exclusion of mimics (sepsis, medication/alcohol withdrawal, uncontrolled pain, hypoxia/hypercarbia, intracranial hypertension, and epileptic seizures).  The commonly referenced tool is the PSH Assessment Measure (PSH‑AM), which combines a clinical feature severity score with a diagnostic likelihood component to grade the probability of PSH.[19][20][12]
+### When to suspect
 
-## Management basics
-Management is usually multi-modal: reduce triggers (cluster care, limit noxious stimulation), provide supportive care (cooling, hydration/nutrition), and use medications for aborting episodes and preventing recurrence.  Commonly used drug classes include opioids and benzodiazepines for aborting severe episodes, alpha‑2 agonists (e.g., dexmedetomidine/clonidine) to dampen sympathetic outflow, beta‑blockers (commonly propranolol), and agents targeting pain/spasticity such as gabapentin, baclofen, or dantrolene—often in combination based on the dominant phenotype.[5][20][12][19]
+- **Paroxysmal**, rapid-onset episodes; **stimulus-triggered** recurrence.
+- Sympathetic: **tachycardia, systolic HTN, hyperthermia, tachypnea, diaphoresis**.
+- Motor: **symmetric tonic posturing** (**<40%**) ± agitation.
+- Most described after **severe TBI** (often cited up to **~10%**) but also **stroke/CNS infection**; pattern > etiology.
+### Pathophysiology
 
-## Why it matters
-In severe TBI cohorts, PSH has been reported in a minority of patients (commonly cited up to ~10%) and is associated with worse clinical outcomes, reinforcing the value of early recognition and treatment.  Ongoing episodes can drive secondary injury via hyperthermia and increased metabolic demand, and can complicate rehabilitation (sleep disruption, agitation, contractures/spasticity), so prevention and trigger control are as important as abortive therapy.[7][20][5][12]
+- **Loss of inhibitory modulation** from higher centers → unregulated sympathetic output (release phenomenon).
+- Often **diffuse/multifocal injury**; correlates: **posterior limb internal capsule** + **posterior corpus callosum** white matter injury.
+- **Catecholamines ↑ 200–300%** during paroxysms; altered **glutamate/GABA** contribute.
 
-Sources
-[1] Paroxysmal Sympathetic Hyperactivity after Traumatic Brain Injury: Current Understanding and Therapeutic Options https://www.ijccm.org/doi/10.5005/jp-journals-10071-24647
-[2] Insight of autonomic dysfunction in CLN3 disease: a study on episodes resembling paroxysmal sympathetic hyperactivity (PSH) https://ojrd.biomedcentral.com/articles/10.1186/s13023-024-03336-1
-[3] Heart Rate Variability and Cerebral Autoregulation in Patients with Traumatic Brain Injury with Paroxysmal Sympathetic Hyperactivity Syndrome https://link.springer.com/10.1007/s12028-024-02149-1
-[4] Paroxysmal Sympathetic Hyperactivity in Childhood Tuberculous Meningitis: A New Association https://journals.sagepub.com/doi/10.1177/08830738241276234
-[5] Evaluation and Pharmacologic Management of Paroxysmal Sympathetic Hyperactivity in Traumatic Brain Injury https://journals.lww.com/10.1097/HTR.0000000000000960
-[6] Paroxysmal Sympathetic Hyperactivity Syndrome in the Setting of Fat Emboli Syndrome Secondary to Polytrauma https://onlinelibrary.wiley.com/doi/10.1155/2024/9888208
-[7] Paroxysmal sympathetic hyperactivity during neurorehabilitation for severe acquired brain injury: current Scandinavian practice and Delphi consensus recommendations https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2024-084778
-[8] Clinical case report of intractable paroxysmal sympathetic hyperactivity in TANGO2 deficiency disorder https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63633
-[9] Paroxysmal sympathetic hyperactivity syndrome caused by Streptococcus intermedius meningoencephalitis in children: a case report and literature review https://www.frontiersin.org/articles/10.3389/fped.2024.1480514/full
-[10] Takotsubo syndrome linked to paroxysmal sympathetic hyperactivity as a postoperative complication after brain tumor removal: a case report and literature review https://link.springer.com/10.1007/s00381-024-06316-9
-[11] Paroxysmal Sympathetic Hyperactivity After Traumatic Brain Injury: What Is Important to Know? https://pmc.ncbi.nlm.nih.gov/articles/PMC9161703/
-[12] Diagnosis and management of paroxysmal sympathetic hyperactivity: a narrative review of recent literature https://pmc.ncbi.nlm.nih.gov/articles/PMC12046692/
-[13] Understanding paroxysmal sympathetic hyperactivity after traumatic brain injury https://pmc.ncbi.nlm.nih.gov/articles/PMC4253044/
-[14] NETs Lead to Sympathetic Hyperactivity After Traumatic Brain Injury Through the LL37-Hippo/MST1 Pathway https://pmc.ncbi.nlm.nih.gov/articles/PMC8116628/
-[15] Dexmedetomidine attenuates acute paroxysmal sympathetic hyperactivity https://pmc.ncbi.nlm.nih.gov/articles/PMC5620316/
-[16] Identification and Management of Paroxysmal Sympathetic Hyperactivity After Traumatic Brain Injury https://www.frontiersin.org/articles/10.3389/fneur.2020.00081/pdf
-[17] Neuroanatomical basis of paroxysmal sympathetic hyperactivity: A diffusion tensor imaging analysis https://pmc.ncbi.nlm.nih.gov/articles/PMC4397147/
-[18] Case Report: Stroke Chameleon: Acute Large Vessel Occlusion in the Posterior Circulation With Paroxysmal Sympathetic Hyperactivity as the First Manifestation https://pmc.ncbi.nlm.nih.gov/articles/PMC9172617/
-[19] Paroxysmal sympathetic hyperactivity (PSH) https://emcrit.org/ibcc/psh/
-[20] Paroxysmal Sympathetic Hyperactivity | PM&R KnowledgeNow https://now.aapmr.org/cerebrally-mediated-autonomic-dysfunction/
+![[Pasted image 20251231160456.png|700]]
+### Diagnosis
 
-Paroxysmal sympathetic hyperactivity (PSH) is a syndrome of excessive, unregulated sympathetic activity occurring after severe acquired brain injury, characterized by simultaneous paroxysmal increases in sympathetic parameters (heart rate, blood pressure, respiratory rate, temperature, sweating) and motor activity (posturing). It occurs in up to 10% of severe traumatic brain injury patients and is associated with poorer outcomes.[5][11][20]
+- Use **PSH-AM** + exclude mimics: **sepsis**, **withdrawal**, **pain**, **hypoxia/hypercarbia**, **intracranial HTN**, **seizures**.
+- PSH-AM consists of two components: 
+	- (1) the clinical feature scale (CFS), which rates the severity of sympathetic nervous system excitation and motor activity on a 0–3 scale 
+	- (2) the diagnostic likelihood tool (DLT), which assigns a score of 1 when the diagnostic feature is present 
+	- Each of the scores (CFS + DLT) will be combined to determine the likelihood of PSH. 
+		- unlikely: < 8
+		- possible: 8 to 16
+		- probable: > 16
 
-## Pathophysiology
+![[Pasted image 20251231160549.png]]
 
-PSH results from loss of inhibitory modulation from higher cortical and subcortical centers that normally exert negative, modulatory activity on sympathetic centers in the diencephalon, brainstem, and spinal cord. The condition requires relatively diffuse or multifocal cerebral injury, with neuroanatomical correlates including damage to white matter tracts in the posterior limb of the internal capsule and posterior corpus callosum. Without inhibitory modulation, sympathetic activity spirals out of control, analogous to spinal reflexes that become hyperactive when released from higher center suppression. Catecholamine levels rise 200-300% above baseline during paroxysms, and alterations in glutamate and GABA transmission contribute to sympathetic hyperactivity.[17][19][20]
+![[Pasted image 20251231160631.png|400]]
+### Management
 
-## Clinical Features
+#### Nonpharmacologic (always)
 
-Episodes have rapid onset and are often triggered by nociceptive or environmental stimuli. Sympathetic manifestations include tachycardia, systolic hypertension, hyperthermia, tachypnea, and diaphoresis. Motor features include symmetric tonic posturing (in <40% of cases) and agitation. The PSH Assessment Measure (PSH-AM) standardizes diagnosis by quantifying clinical features and episode characteristics.[4][7][11][19][20]
+- **Trigger reduction**: cluster care, limit noxious stimulation.
+- **Support**: cooling, hydration/nutrition; manage sleep/agitation/spasticity burden.
 
-## Diagnosis and Management
+#### Pharmacologic
 
-PSH is diagnosed using the PSH-AM tool, with episodes often misdiagnosed as seizures early in treatment. The three main treatment goals include eliminating predisposing causes, mitigating excessive sympathetic outflow, and providing supportive therapy. For abortive therapy, morphine (2-8 mg IV, occasionally up to 15 mg) is the most effective and preferred agent; fentanyl (25-100 mcg IV) offers faster onset. If morphine is ineffective, alternative diagnoses should be considered. Dexmedetomidine has shown superiority over propofol for treating PSH episodes. An interdisciplinary approach combining pharmacological interventions targeting sympathetic hyperactivity, pain management, and muscle hypertonicity with non-pharmacological strategies is essential.[7][9][15][16][19]
+**Abort episodes**
+- **Morphine 2–8 mg IV** (occasionally up to **15 mg**) = preferred; if ineffective → reconsider diagnosis.
+- **Fentanyl 25–100 mcg IV** (faster onset).
+- **Benzodiazepines** (common adjunct for severe episodes).
+- **Dexmedetomidine** reported superior to **propofol** for episodes.
 
-Sources
-[1] Paroxysmal Sympathetic Hyperactivity after Traumatic Brain Injury: Current Understanding and Therapeutic Options https://www.ijccm.org/doi/10.5005/jp-journals-10071-24647
-[2] Insight of autonomic dysfunction in CLN3 disease: a study on episodes resembling paroxysmal sympathetic hyperactivity (PSH) https://ojrd.biomedcentral.com/articles/10.1186/s13023-024-03336-1
-[3] Heart Rate Variability and Cerebral Autoregulation in Patients with Traumatic Brain Injury with Paroxysmal Sympathetic Hyperactivity Syndrome https://link.springer.com/10.1007/s12028-024-02149-1
-[4] Paroxysmal Sympathetic Hyperactivity in Childhood Tuberculous Meningitis: A New Association https://journals.sagepub.com/doi/10.1177/08830738241276234
-[5] Evaluation and Pharmacologic Management of Paroxysmal Sympathetic Hyperactivity in Traumatic Brain Injury https://journals.lww.com/10.1097/HTR.0000000000000960
-[6] Paroxysmal Sympathetic Hyperactivity Syndrome in the Setting of Fat Emboli Syndrome Secondary to Polytrauma https://onlinelibrary.wiley.com/doi/10.1155/2024/9888208
-[7] Paroxysmal sympathetic hyperactivity during neurorehabilitation for severe acquired brain injury: current Scandinavian practice and Delphi consensus recommendations https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2024-084778
-[8] Clinical case report of intractable paroxysmal sympathetic hyperactivity in TANGO2 deficiency disorder https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.63633
-[9] Paroxysmal sympathetic hyperactivity syndrome caused by Streptococcus intermedius meningoencephalitis in children: a case report and literature review https://www.frontiersin.org/articles/10.3389/fped.2024.1480514/full
-[10] Takotsubo syndrome linked to paroxysmal sympathetic hyperactivity as a postoperative complication after brain tumor removal: a case report and literature review https://link.springer.com/10.1007/s00381-024-06316-9
-[11] Paroxysmal Sympathetic Hyperactivity After Traumatic Brain Injury: What Is Important to Know? https://pmc.ncbi.nlm.nih.gov/articles/PMC9161703/
-[12] Diagnosis and management of paroxysmal sympathetic hyperactivity: a narrative review of recent literature https://pmc.ncbi.nlm.nih.gov/articles/PMC12046692/
-[13] Understanding paroxysmal sympathetic hyperactivity after traumatic brain injury https://pmc.ncbi.nlm.nih.gov/articles/PMC4253044/
-[14] NETs Lead to Sympathetic Hyperactivity After Traumatic Brain Injury Through the LL37-Hippo/MST1 Pathway https://pmc.ncbi.nlm.nih.gov/articles/PMC8116628/
-[15] Dexmedetomidine attenuates acute paroxysmal sympathetic hyperactivity https://pmc.ncbi.nlm.nih.gov/articles/PMC5620316/
-[16] Identification and Management of Paroxysmal Sympathetic Hyperactivity After Traumatic Brain Injury https://www.frontiersin.org/articles/10.3389/fneur.2020.00081/pdf
-[17] Neuroanatomical basis of paroxysmal sympathetic hyperactivity: A diffusion tensor imaging analysis https://pmc.ncbi.nlm.nih.gov/articles/PMC4397147/
-[18] Case Report: Stroke Chameleon: Acute Large Vessel Occlusion in the Posterior Circulation With Paroxysmal Sympathetic Hyperactivity as the First Manifestation https://pmc.ncbi.nlm.nih.gov/articles/PMC9172617/
-[19] Paroxysmal sympathetic hyperactivity (PSH) https://emcrit.org/ibcc/psh/
-[20] Paroxysmal Sympathetic Hyperactivity | PM&R KnowledgeNow https://now.aapmr.org/cerebrally-mediated-autonomic-dysfunction/
+**Prevent recurrence / dampen outflow**
+- **α2-agonists**: **dexmedetomidine/clonidine**.
+- **β-blocker**: **propranolol**.
+- Pain/spasticity phenotype: **gabapentin**, **baclofen**, **dantrolene**.
+
+> [!warning] Pitfalls
+> 
+> - Common mislabels: **sepsis/withdrawal/seizure** → delayed PSH control.
+> 
+> - Don't rely on PRNs alone: needs **trigger control + preventive regimen**.
+>  
+
+> [!summary] Why it matters
+> 
+> - Associated with **worse outcomes**; episodes drive **hyperthermia + metabolic demand** and impede rehab (sleep disruption, agitation, contractures/spasticity).
+>  
+
+> [!note] Supplement
+> 
+> - Sympathetic hyperactivity can occur with **hypothalamic injury** (e.g., with elevated ICP).
+> 
+> - Fever is harmful in many neurocritical conditions → prioritize **normothermia** (antipyretics + cooling).
+> 
+> - Deep sedation/opiates can reduce **sympathetic tone/HTN** when clinically appropriate. 
+>  
+
+---
