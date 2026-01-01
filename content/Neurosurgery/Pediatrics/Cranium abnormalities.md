@@ -6,6 +6,21 @@ tags:
   - microcephaly
   - BESSI
 ---
+> [!summary] Cranial abnormalities in pediatrics — exam box
+> 
+> - **Start**: measure + **trend OFC** (growth chart; crossing percentiles matters) and separate **size vs shape**.
+>     
+> - **Microcephaly**: usually **microencephaly** (often untreatable); **treatable exception = craniosynostosis** (look for abnormal shape/==palpable ridge==).
+>     
+> - **Macrocephaly**: common benign cause = **BESSI/BEH** → rapid early OFC growth then normalizes, **normal development**, **no ICP signs**, often **familial**, imaging shows enlarged anterior CSF spaces ± mildly enlarged ventricles.
+>     
+> - Macrocephaly + **ICP signs** → think **hydrocephalus/mass/subdural/CSF flow disorder** and escalate.
+>     
+> - **Craniosynostosis**: **shape problem** from fused sutures; **multi-suture** = higher **↑ICP** risk; facial/cranial deformity ± papilledema/vision issues.
+>     
+> - **Red flags**: vomiting/lethargy, bulging fontanelle, papilledema, seizures, rapid OFC acceleration, regression, focal deficits, apnea/airway issues → urgent imaging/consult.
+>
+
 ## 1. Microcephaly
 * microencephaly, synostosis
 * most causes untreatable
