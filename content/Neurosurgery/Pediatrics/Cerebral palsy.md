@@ -10,6 +10,27 @@ tags:
   - baclofen
   - functional
 ---
+> [!summary] Cerebral palsy (CP) 
+> 
+> - **Non-progressive motor disorder** from **static injury** to developing brain (cerebrum/cerebellum); **skills not lost once acquired**.
+>     
+> - Phenotypes: ==**spastic**== (mono/hemi/di/quad) most common; **dyskinetic** (==dystonia==/choreoathetosis), **ataxic**, **mixed**.
+>     
+> - Big etiologies: **prematurity/PVL** and **term HIE**; impaired control of posture/movement.
+>     
+> - Tx ladder: **PT/OT + stretching/orthoses/casting → meds** (==baclofen==, tizanidine, diazepam; **dantrolene** refractory—watch liver) → **botox/phenol**.
+>     
+> - **SDR**: best for **ambulatory spastic diplegia** (GMFCS **II–III**), good selective motor control, **PVL pattern**, **minimal dystonia** → durable tone ↓, **gait improves**.
+>     
+> - **ITB pump**: best for **severe generalized spasticity/dystonia** (often GMFCS **IV–V**) when oral meds fail/SDR unsuitable.
+>     
+> - ITB emergencies: **withdrawal = urgent re-establish intrathecal baclofen**; **overdose** → airway support + **empty reservoir** ± **physostigmine**.
+>     
+> - **GMFCS**: I runs/jumps; II walks w/ limits; III walks w/device; IV wheelchair; V dependent mobility.
+>     
+> - Quick consult: define **pattern + distribution**, **GMFCS + goals**, prior response, **contractures/deformity** (ortho/PM&R), and ITB **dose/refill/alarms**.
+>
+
 ### Pathophysiology
 * non-progressive motor disorder due to early postnatal non-progressive (static) injury to developing brain
 	* cerebrum or cerebellum
@@ -47,9 +68,9 @@ tags:
 	- IV power/manual wheelchair
 	- V dependent for mobility
 
-![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2348.PNG|500]]![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2349.PNG|500]]![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2350.PNG|500]]![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2351.PNG|500]]![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2352.PNG|500]]
+![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2348.PNG|300]]![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2349.PNG|300]]![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2350.PNG|300]]![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2351.PNG|300]]![[Neurosurgery/Pediatrics/_resources/Cerebral_palsy.resources/IMG_2352.PNG|300]]
 
-# Quick consult checklist (on call)
+# Quick consult checklist
 - Pattern? (spastic vs dystonic; distribution)
 - GMFCS? Goals? (function vs care/comfort vs pain)
 - Prior treatments tried? Response?
