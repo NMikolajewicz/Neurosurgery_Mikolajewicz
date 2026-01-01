@@ -3,7 +3,24 @@ date created: Wednesday, September 6th 2023, 5:57:26 pm
 date modified: Thursday, January 1st 2026, 1:28:57 pm
 tags: [craniosynostosis, skull-development, suture-closure, cranial-sutures, FGFR, premature-suture-fusion, pediatrics]
 ---
-
+> [!summary] Craniosynostosis 
+> 
+> - **Premature fusion** of ≥1 cranial suture → predictable **head-shape deformity**.
+>     
+> - **Virchow’s law**: growth ↓ **perpendicular** to fused suture, ↑ **parallel** → compensatory bossing.
+>     
+> - **↑ICP risk** highest with **multiple sutures** (can occur in single-suture); watch **dev delay/papilledema/optic atrophy**.
+>     
+> - Key patterns: **sagittal → scaphocephaly**; **unilateral coronal → anterior plagiocephaly + Harlequin**; **metopic → trigonocephaly**; **lambdoid → posterior plagiocephaly + ipsilateral mastoid enlargement**.
+>     
+> - **Syndromic (FGFR)** clues: multi-suture, **proptosis**, midface hypoplasia, **airway** issues, limb anomalies (e.g., **syndactyly**).
+>     
+> - **Dx** often clinical; confirm/plan with **CT 3D** (XR less sensitive; bone scan historical).
+>     
+> - DDx: **positional plagiocephaly** (≈100× more common): open sutures, improves with **repositioning/PT** ± **helmet**.
+>     
+> - Surgery for **cosmesis** or **ICP/eye threat**; typical timing **~4–6 months** (earlier = better cosmesis, later = more extensive).
+>
 ## Definition
 
 Premature (often in utero) fusion of one or more cranial sutures → characteristic **head shape deformity** from altered calvarial growth.
