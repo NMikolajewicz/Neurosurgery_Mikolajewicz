@@ -1,10 +1,32 @@
 ---
+date created: Wednesday, September 6th 2023, 5:12:34 pm
+date modified: Thursday, January 1st 2026, 1:18:16 pm
 tags:
   - posterior-fossa-syndrome
   - chiari-malformation
   - tonsillar-herniation
+  - McRae
 ---
-### Pathophysiology
+> [!summary] Chiari malformations 
+> 
+> - **Hindbrain/cerebellar herniation** through foramen magnum, often from **small posterior fossa** (± LP shunt, craniosynostosis, congenital CVJ anomalies).
+>     
+> - **Chiari I**: **tonsillar descent** (age-adjusted: >6 mm 0–10y, >5 mm 10–30y, >4 mm >30y); often **young adult** with **Valsalva suboccipital/neck headache**.
+>     
+> - Neuro signs: **hyperreflexia**, **nystagmus**, gait ataxia/dysmetria, UE sensory/motor symptoms; ~**30% asymptomatic** (5–10 mm can be incidental; >12 mm usually symptomatic).
+>     
+> - **Workup**: **MRI brain/cervical spine** ± **CINE CSF flow**; look for **syrinx (≈20–70%)** and **hydrocephalus (~9%)**.
+>     
+> - **Chiari II (Arnold–Chiari)**: herniation of **tonsils + vermis + brainstem + 4th ventricle**, usually with **myelomeningocele** + **hydrocephalus**; infant **bulbar/brainstem** signs (apnea/stridor/dysphagia).
+>     
+> - **Operate** if **symptomatic** (lifestyle-limiting tussive headache, progressive deficits/brainstem dysfunction) or **syrinx >2 mm / progressive scoliosis**.
+>     
+> - **Principles**: restore **CSF flow** at CCJ; **treat hydrocephalus first** if present.
+>     
+> - **Procedure**: suboccipital decompression ± **C1 laminectomy** ± **duraplasty/dural splitting**; follow syrinx with MRI q6–12 mo.
+>
+
+## Pathophysiology
 * displacement of cerebellum
 	* ==herniation of hindbrain/cerebellum== through foramen magnum
 * syndrome of multiple etiologies
@@ -18,10 +40,10 @@ four names this abnormality has been called. 
 * caudal **displacement** of cerebellum
 * peglike **elongation** of tonsil
 * cerebellar **ectopia**
-### Associations
-* Chiari II, [[myelomeningocele note]], and folate deficiency
+## Associations
+* Chiari II, [[myelomeningocele]], and folate deficiency
 * Chr 9 and 15 genetics
-### Presentation
+## Presentation
 
 * typically young adult with neck pain and suboccipital headaches
 	* worse with valsalva, cough, etc.
@@ -40,7 +62,7 @@ four names this abnormality has been called. 
 	* apneic spells (with severe compression)
 	* snoring
 * 30% asymptomatic (Chiari I)
-### Workup
+## Workup
 * MRI cervical spine
 	* with or without CINE to evaluate CSF flow
 	* syrinx (20-70% cases)
@@ -49,7 +71,7 @@ four names this abnormality has been called. 
 	* \> 6 mm: 1st decade
 	* \> 5 mm: 2nd to 3rd decade
 	* \> 4 mm: 4th to 8th decade
-### Low-lying tonsils
+## Low-lying tonsils
 * tonsils normaly retract upward with age
 * location must be interpreted in age-dependent context
 	* 0-10 years: <6 mm below foramen magnum
@@ -57,17 +79,17 @@ four names this abnormality has been called. 
 	* \>30 years: <4 mm
 * 30% with 5-10 mm displacement are asymptomatic
 * herniations > 12 mm are symptomatic
-### Pregnancy patients
+## Pregnancy patients
 * treat pregnant patients with chiari same as those without chiari
 * chiari is not c/i for vaginal delivery or epidural anesthesia
 * have neurosuregon on standby for more severe cases
 
-### Chiari Variants
+## Chiari Variants
 
-#### 1. Chiari I
+### 1. Chiari I
 * features
 	* displacement of cerebellar tonsils
-		* \>5 mm below McCrae's basion-opisthion line
+		* ==\>5 mm below McCrae's basion-opisthion line==
 	* no brainstem descent or hydrocephalus
 	* kinks posterior surface of medullar oblongata
 	* +/- syringomyela
@@ -83,7 +105,9 @@ four names this abnormality has been called. 
 	* basilar impression
 	* klippel-feil syndrome
 	* atlantoaxial assimilation
-#### 2. Chiari II
+
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.8.png|300]]
+### 2. Chiari II
 * a.k.a. arnold-chiari
 * ==caudal herniation of cerebellar vermis, brainstem, fourth ventricle in setting of [[myelomeningocele note]]==
 * features
@@ -101,23 +125,23 @@ four names this abnormality has been called. 
 	* vocal cord paralyis / stridor
 	* apneic spells
 * age: first few months of life
-#### 3. Chiari III
+### 3. Chiari III
 * features
 	* encephalocele
 		* foramen magnum / high cervical
 	* ininencephaly?
-#### 4. Chiari IV
+### 4. Chiari IV
 * features
 	* cerebellar hypoplasia / aplasia
 
-![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.png]]
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.png|500]]
 
-### Chiari I vs. Chiari II
+## Chiari I vs. Chiari II
 
-#### **Core concept**
-- **Chiari I:** Inferior ==displacement of **cerebellar tonsils**== through the foramen magnum; brainstem/4th ventricle usually in normal position.
-- **Chiari II (Arnold–Chiari):** ==Herniation of **tonsils + vermis + brainstem + 4th ventricle**== into cervical canal, with characteristic hindbrain malformation and almost always associated **==open spinal dysraphism== (myelomeningocele).**
-#### Comparison
+### **Core concept**
+* **Chiari I:** Inferior ==displacement of **cerebellar tonsils**== through the foramen magnum; brainstem/4th ventricle usually in normal position.
+* **Chiari II (Arnold–Chiari):** ==Herniation of **tonsils + vermis + brainstem + 4th ventricle**== into cervical canal, with characteristic hindbrain malformation and almost always associated **==open spinal dysraphism== (myelomeningocele).**
+### Comparison
 
 | Feature                           | Chiari I                                                                                                                            | Chiari II                                                                                                                         |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -128,18 +152,18 @@ four names this abnormality has been called. 
 | **Tethered cord**                 | Can coexist, but not defining                                                                                                       | ==Frequently present ==with MMC; address as indicated                                                                             |
 | **Imaging: herniated structures** | **==Tonsils==** >5 mm below foramen magnum (age-adjusted thresholds exist); **obex above** FM; 4th ventricle normal position        | **Tonsils + vermis + medulla/pons + 4th ventricle** below FM; **obex below** FM                                                   |
 | **Posterior fossa**               | Crowded/small posterior fossa common; peg-like tonsils                                                                              | **Small posterior fossa** with **cervicomedullary ==kinking==**, elongation/low 4th ventricle                                     |
-| **Brain MRI hallmarks**           | Foramen magnum crowding; **syrinx**; ==basilar invagination/retroflexed odontoid== may coexist                                      | **==Tectal “beaking==,” colpocephaly, callosal dysgenesis, torcular-lambdoid inversion**, interhemispheric anomalies              |
-| **Prenatal clues**                | None typical                                                                                                                        | **“Lemon” and “banana” signs** on fetal US; ventriculomegaly                                                                      |
+| **Brain MRI hallmarks**           | Foramen magnum crowding; **syrinx**; ==basilar invagination/retroflexed odontoid== may coexist                                      | **==Tectal "beaking==," colpocephaly, callosal dysgenesis, torcular-lambdoid inversion**, interhemispheric anomalies              |
+| **Prenatal clues**                | None typical                                                                                                                        | **"Lemon" and "banana" signs** on fetal US; ventriculomegaly                                                                      |
 | **Primary management focus**      | If symptomatic or with syrinx: **posterior fossa decompression** (bone ± duraplasty)                                                | **MMC closure** + **CSF diversion** for hydrocephalus; decompression for refractory brainstem compression                         |
-#### Practical pearls 
-- If you see **MMC**, **tectal beaking**, **low 4th ventricle/brainstem**, or **hydrocephalus** in a neonate → think **Chiari II**
-- If MRI shows **isolated tonsillar descent** with a **syrinx** in a teen/adult with **Valsalva headaches** → think **Chiari I**
-- ==**Obex sign==:** foramen magnum **above**(I) vs **below** (II). Helpful when tonsillar position alone is ambiguous.
-- Don’t confuse ==**Chiari 1.5**: tonsillar **and** brainstem descent without MMC==—clinically behaves more like II in symptoms but lacks the supratentorial anomalies/MMC. If the medulla is down, treat like more complex pathology, not a simple Chiari I.
+### Practical pearls 
+* If you see **MMC**, **tectal beaking**, **low 4th ventricle/brainstem**, or **hydrocephalus** in a neonate → think **Chiari II**
+* If MRI shows **isolated tonsillar descent** with a **syrinx** in a teen/adult with **Valsalva headaches** → think **Chiari I**
+* ==**Obex sign==:** foramen magnum **above**(I) vs **below** (II). Helpful when tonsillar position alone is ambiguous.
+* Don't confuse ==**Chiari 1.5**: tonsillar **and** brainstem descent without MMC==—clinically behaves more like II in symptoms but lacks the supratentorial anomalies/MMC. If the medulla is down, treat like more complex pathology, not a simple Chiari I.
 
-![[Pasted image 20251108171922.png|400 ]]
+![[Pasted image 20251108171922.png|400]]
 ![[Pasted image 20251108172401.png|500]]
-### Management
+## Management
 * surgery indications
 	* syrinx
 		* if < 2 mm, monitor with serial imaging
@@ -174,7 +198,9 @@ four names this abnormality has been called. 
 	* swallow study
 	* vocal cord visualization (ENT)
 	* assess pulmonary function
-### Complications
+
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.2.png|500]]
+## Complications
 * CSF leak
 	* management
 		* head of bed up
@@ -197,25 +223,26 @@ four names this abnormality has been called. 
 * cerebellar slump / ptosis
 	* due to extending craniectomy too far laterally without elevated bone replacement
 	* results in headaches and obstructed CSF flow
-### Figures
+## Figures
 
-|     |     |
-| --- | --- |
-| ![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.1.png]]![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.4.png]] |     |
-| ![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.3.png]] | ![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.5.png]] |
-| ![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.2.png]] |     |
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.1.png|500]]
 
-![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.6.png]]
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.4.png|500]]
 
-Chiari II malformation with myelomeningocele
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.3.png|300]]
+
 ![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.11.png]]
 
-![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.12.png]]
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.12.png|500]]
 
-![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.8.png]]
 
-![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.7.png]]
 
-![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.10.png]]
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.7.png|500]]
 
-![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.9.png]]![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/Image 20231118 172012.jpeg]]![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/Image 20231118 172026.jpeg]]
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.10.png|500]]
+
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/image.9.png|500]]
+
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/Image 20231118 172012.jpeg|500]]
+
+![[Neurosurgery/Pediatrics/_resources/Chiari_malformations.resources/Image 20231118 172026.jpeg|500]]

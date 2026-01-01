@@ -41,14 +41,4 @@ Reference materials, images, and supplementary content.
 
 ---
 
-## eatures
-
-- **Evidence-based content** — Notes include citations to landmark trials and current guidelines
-- **Visual learning** — Embedded images, diagrams, and clinical decision trees
-- **Connected knowledge** — Explore relationships between topics via backlinks and the graph view
-- **Searchable** — Full-text search across all notes
-- **High-yield summaries** — Key concepts highlighted for efficient review
-
----
-
 *This knowledge base is built with [Quartz](https://quartz.jzhao.xyz/) and continuously updated.*
