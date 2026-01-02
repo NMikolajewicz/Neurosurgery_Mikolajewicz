@@ -71,7 +71,6 @@ tags: [neurology, skull-fractures, leptomeningeal-cysts, encephalomalacia, poren
 ## Imaging
 
 ![[Neurosurgery/Pediatrics/_resources/Growing_skull_fracture.resources/IMG_0869.PNG\|200]]
-Porencephalic cyst
 ![[Neurosurgery/Pediatrics/_resources/Growing_skull_fracture.resources/IMG_0870.PNG\|200]]
 ![[Neurosurgery/Pediatrics/_resources/Growing_skull_fracture.resources/IMG_0871.PNG\|200]]
 
