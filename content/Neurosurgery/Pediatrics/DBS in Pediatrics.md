@@ -1,8 +1,28 @@
 ---
 date created: Monday, March 10th 2025, 3:48:01 am
 date modified: Saturday, November 8th 2025, 5:28:49 pm
-tags: [deep-brain-stimulation, refractory-epilepsy, self-injurious-behavior, dystonia, pediatrics, nucleus-accumbens, GPi, STN, dentate-nucleus, anterior-thalamic-nucleus]
+tags:
+  - deep-brain-stimulation
+  - refractory-epilepsy
+  - self-injurious-behavior
+  - dystonia
+  - pediatrics
+  - nucleus-accumbens
+  - GPi
+  - STN
+  - dentate-nucleus
+  - anterior-thalamic-nucleus
+  - functional/deep-brain-stimulation
 ---
+> [!summary] Pediatric DBS 
+> **Indications:** drug-resistant epilepsy (DRE), dystonia, severe self-injurious behavior (SIB; often ASD).  
+> **DRE targets:** **centromedian thalamus (CMN)** and/or **anterior thalamic nucleus (ATN)** → seizure reduction (many “>50% responders,” occasional freedom).  
+> **Dystonia target:** **GPi** (best for primary/isolated; secondary variable; benefit may take weeks–months).  
+> **SIB target:** **nucleus accumbens (NAc)** (highly selected, investigational/early trial data).  
+> **Pre-op essentials:** multidisciplinary selection, optimized meds/therapy, neuropsych/psych + MRI; set goal = **improvement**, not cure.  
+> **Adverse events:** infection, lead migration, hardware malfunction (± hemorrhage/neurologic deficit—rare).  
+> **Post-op pearl:** outcomes depend on **programming + longitudinal follow-up** (parameter optimization, revisions/battery changes).
+
 Deep brain stimulation (DBS) has emerged as a promising therapeutic option for various refractory neurological and neuropsychiatric conditions in pediatric patients.
 
 > [!Target summary]

@@ -3,7 +3,7 @@ date created: Sunday, September 17th 2023, 9:02:26 pm
 date modified: Thursday, January 1st 2026, 2:03:41 pm
 tags: [cyst, dandy-walker, vermis-hypoplasia, posterior-fossa]
 ---
-> [!summary] Dandy–Walker malformation (DWM) — exam essentials
+> [!summary] Dandy–Walker malformation (DWM) 
 > 
 > - **Most common posterior fossa malformation**; often detected **prenatally/infancy**.
 >     
@@ -67,7 +67,6 @@ tags: [cyst, dandy-walker, vermis-hypoplasia, posterior-fossa]
 - In prenatal/neonatal settings: correlate with **fetal/neonatal US** and multidisciplinary counseling (MFM + genetics + neurosurgery).
 
 ---
-
 ## Differential diagnosis (key discriminators)
 
 ### Mega cisterna magna
@@ -76,21 +75,23 @@ tags: [cyst, dandy-walker, vermis-hypoplasia, posterior-fossa]
 - **Normal vermis**
 - **No hydrocephalus**
 
+![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.4.png|200]]
 ### Retrocerebellar arachnoid cyst
 
 - **Anterior displacement** of cerebellum and 4th ventricle
-- Often **no hydrocephalus** (as provided)
+- Often **no hydrocephalus**
 
+![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.5.png|200]]
 ### Blake pouch cyst
 
 - **Normal vermis (not hypoplastic)**
 - **Normal torcular position**
 - **Tetraventricular hydrocephalus**
 
+![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.6.png]] ![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.7.png]] ![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.8.png]]
 ### Epidermoid cyst
 
 - Mimics CSF spaces but typically shows **diffusion restriction** (practical MRI clue)
-
 ### Joubert anomaly
 
 - Can have **vermian hypoplasia** (distinguish by additional brainstem/cerebellar features)
@@ -102,25 +103,15 @@ tags: [cyst, dandy-walker, vermis-hypoplasia, posterior-fossa]
 > Labeling every "large retrocerebellar CSF space" as DWM. **Posterior fossa size** and **torcular/tentorium position** are major separators.
 
 ---
-
 ## Imaging
 
+![[Pasted image 20260102135704.png|500]]
+![[Pasted image 20260102135815.png|500]]
 
-|![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.png|200]]|![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.1.png|200]]|
-|![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.2.png|200]]|![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.3.png|200]]|
-
-### Differential examples
-
-| Mega cisterna magna                                                                          | Arachnoid cyst                                                                               |     |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --- |
-| ![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.4.png\|200]] | ![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.5.png\|200]] |     |
-
-|Blake pouch cyst||
-
-|![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.6.png]] ![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.7.png]] ![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.8.png]]||
+![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.png|200]]![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.1.png|200]]
+![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.2.png|200]]![[Neurosurgery/Pediatrics/_resources/Dandy-Walker_Malformation.resources/image.3.png|200]]
 
 ---
-
 ## Management
 
 - Treat **hydrocephalus/ICP physiology** if present:
