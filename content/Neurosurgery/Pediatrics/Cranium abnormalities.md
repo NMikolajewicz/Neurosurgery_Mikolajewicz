@@ -6,7 +6,7 @@ tags:
   - microcephaly
   - BESSI
 ---
-> [!summary] Cranial abnormalities in pediatrics — exam box
+> [!summary] Cranial abnormalities in pediatrics 
 > 
 > - **Start**: measure + **trend OFC** (growth chart; crossing percentiles matters) and separate **size vs shape**.
 >     
