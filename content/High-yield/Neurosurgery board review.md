@@ -490,14 +490,3 @@ date modified: Sunday, December 21st 2025, 4:48:01 pm
 * Preserve veins >3mm when possible
 * Gentle bipolar technique: irrigate, low power, short bursts
 * Verify cranial nerve function intraoperatively
-
-#### Board Exam Tips
-
-1. Know absolute contraindications cold
-2. Surgical indications > technical details
-3. Complications and management crucial
-4. Conservative management often correct for borderline cases
-5. Know when NOT to operate
-6. Patient safety always trumps aggressive treatment
-
-Good luck on your boards!

@@ -1518,6 +1518,3 @@ Daily screen (all must be present):
 | Glucose | 70-100 mg/dL (fasting) |
 
 * * *
-
-**END OF GUIDE**
-This high-yield study guide covers essential ICU topics for Royal College exam preparation. Review systematically, focus on pathophysiology and evidence-based management, and integrate clinical reasoning with these core concepts.
