@@ -2,14 +2,13 @@
 title: Nick's Neursurgery Notes
 ---
 <!-- quartz:last-updated -->
-_Last updated: 2026-01-05 12:40 EST_
+_Last updated: 2026-01-05 12:47 EST_
 <!-- /quartz:last-updated -->
 
-R
 ## Main Sections
 
 ### [[Neurosurgery/index|Neurosurgery]]
-The core of this knowledge base with **255+ notes** organized by subspecialty:
+Neurosurgical notes organized by subspecialty:
 
 | Subspecialty | Topics |
 |--------------|--------|
@@ -19,6 +18,7 @@ The core of this knowledge base with **255+ notes** organized by subspecialty:
 | **[[Neurosurgery/Oncology/index\|Oncology]]** | Brain tumors, gliomas, pituitary adenomas, resection principles |
 | **[[Neurosurgery/Surgical/index\|Surgical Techniques]]** | Craniectomy, duraplasty, transphenoidal surgery, microvascular decompression |
 | **[[Neurosurgery/Pediatrics/index\|Pediatrics]]** | Chiari malformation, neural tube defects, hydrocephalus, pediatric tumors |
+| **[[Neurosurgery/Peripheral Nerve/index\|Peripheral Nerve]]** | Nerve injury |
 | **[[Neurosurgery/Neurocritical/index\|Neurocritical Care]]** | ICP management, sedation, mechanical ventilation, neuromonitoring |
 | **[[Neurosurgery/Vascular/index\|Vascular]]** | Aneurysms, AVMs, cerebral vasculature, endovascular procedures |
 | **[[Neurosurgery/Functional/index\|Functional]]** | Movement disorders, pain management, epilepsy surgery |
@@ -26,14 +26,14 @@ The core of this knowledge base with **255+ notes** organized by subspecialty:
 | **[[Neurosurgery/Infectious/index\|Infectious]]** | CNS and spinal infections |
 
 ### [[Medicine/index|Medicine]]
-**141 notes** covering general medical topics relevant to neurosurgical practice:
+General medical topics:
 - Electrolyte management (hyperkalemia, hyponatremia, SIADH)
 - Cardiovascular (RAAS, cardiac emergencies)
 - Critical care (ACLS, anesthesia)
 - Endocrine, rheumatologic, and other medical conditions
 
 ### [[High-yield/index|High-Yield Reviews]]
-Board exam preparation and rapid review materials:
+Exam preparation and rapid review materials:
 - [[High-yield/ICU high yield|ICU High Yield]]
 - [[High-yield/Neuro-Oncology Review (SNO 2025)|Neuro-Oncology Review (SNO 2025)]]
 - [[High-yield/Neurosurgery board review|Neurosurgery Board Review]]
