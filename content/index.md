@@ -1,7 +1,10 @@
 ---
 title: Nick's Neursurgery Notes
 ---
-
+R<!-- quartz:last-updated -->
+_Last updated: 2026-01-05 12:16 EST_
+<!-- /quartz:last-updated -->
+R
 ## Main Sections
 
 ### [[Neurosurgery/index|Neurosurgery]]
