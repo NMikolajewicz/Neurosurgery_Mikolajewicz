@@ -2,7 +2,7 @@
 title: Nick's Neursurgery Notes
 ---
 <!-- quartz:last-updated -->
-_Last updated: 2026-01-06 13:02 EST_
+_Last updated: 2026-01-06 13:24 EST_
 <!-- /quartz:last-updated -->
 
 ## Main Sections
