@@ -11,6 +11,3 @@ http://www.neurosurgeryresident.net/
 
 Surgical videos (Hernesniemi):
 https://surgicalneurologyint.com/1001-hernesniemi-videos/
-
-Toronto Neurosurgery Notes:
-![[All-Toronto-Notes.pdf]]
