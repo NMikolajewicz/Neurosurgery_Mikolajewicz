@@ -17,7 +17,7 @@ tags: [stroke, ICH, hemorrhage]
 >     
 > - **ICH score mortality**: **0:0%**, **1:13%**, **2:26%**, **3:72%**, **4:97%**, **5–6: ~100%**.
 >     
-> - **Key management triggers**: treat **HTN** (target ~**140/90**, avoid hypotension); **EVD** for **IVH + obstructive hydrocephalus**.
+> - **Key management**: treat **HTN** (target ~**140/90**, avoid hypotension); **EVD** for **IVH + obstructive hydrocephalus**.
 >     
 > - **Surgical prognosis flags**: **>60 cc + GCS ≤8 → ~91% 30-day mortality**; **>85 cc → no survivors** (one series).
 >
@@ -121,3 +121,8 @@ tags: [stroke, ICH, hemorrhage]
 > 
 > - **ICH score**: **GCS + volume + IVH + infratentorial + age** → 30-day mortality estimate.
 >
+
+### AHA Guidelines 
+high-yield and evidence based
+
+![[2022-Guideline-for-the-Management-of-Patients-With-Spontaneous-ICH-Clinical-Update-Slides.pdf]]
