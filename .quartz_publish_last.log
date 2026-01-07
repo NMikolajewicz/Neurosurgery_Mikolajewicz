@@ -11,3 +11,13 @@ remote: error: GH001: Large files detected. You may want to try Git Large File S
 To github.com:NMikolajewicz/Neurosurgery_Mikolajewicz.git
  ! [remote rejected] v4 -> v4 (pre-receive hook declined)
 error: failed to push some refs to 'github.com:NMikolajewicz/Neurosurgery_Mikolajewicz.git'
+[v4 559c47c] chore: ignore oversized assets (auto)
+ 2 files changed, 16 insertions(+)
+remote: warning: File content/Resources/Cervical Spine anatomy Juniors.pptx is 87.46 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 5de95c33f8d7785ff673c407867afa53e1bf8b12a2a448d448b52c6cf3b2db8d        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File content/Resources/All-Toronto-Notes.pdf is 124.06 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:NMikolajewicz/Neurosurgery_Mikolajewicz.git
+ ! [remote rejected] v4 -> v4 (pre-receive hook declined)
+error: failed to push some refs to 'github.com:NMikolajewicz/Neurosurgery_Mikolajewicz.git'
