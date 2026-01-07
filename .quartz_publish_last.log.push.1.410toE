@@ -1,6 +1,3 @@
-[v4 3daafbd] Quartz sync: Jan 7, 2026, 10:43 AM
- 3 files changed, 1 insertion(+), 47 deletions(-)
- delete mode 100644 .quartz_publish_last.log.push.ph8kZ0
 remote: warning: File content/Resources/Cervical Spine anatomy Juniors.pptx is 87.46 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
 remote: error: Trace: fa735d524d8b94211aa4ad831cee710249471e1fac2cba0abd82b47c312f03e1        
 remote: error: See https://gh.io/lfs for more information.        
