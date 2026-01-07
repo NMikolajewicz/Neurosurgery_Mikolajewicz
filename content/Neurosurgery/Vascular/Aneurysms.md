@@ -127,3 +127,211 @@
 ### Occlusion Grading: Ramymond-Roy Scale
 
 ![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4657.JPG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4653.JPG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4652.JPG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4654.PNG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4656.JPG]]
+
+
+
+# AHA guidelines
+
+TOP 10 TAKE-HOME MESSAGES
+
+1. Improving timely and equitable access to health
+
+care system resources such as comprehensive
+
+stroke centers is important to improve overall
+
+patient outcomes. Management of aneurysmal
+
+subarachnoid hemorrhage (aSAH) in centers with
+
+dedicated neurocritical care units, experience
+
+with higher case volumes, physician expertise in
+
+aneurysm treatment, expert nursing care, and mul-
+
+tidisciplinary teams is associated with lower mor-
+
+tality and increased likelihood of good functional
+
+outcomes. Timely transfer to centers with expertise
+
+in aSAH is recommended.
+
+2. Acute rebleeding after initial aSAH is associated
+
+with increased mortality and poor clinical outcomes.
+
+Prompt evaluation, identification of aneurysmal
+
+source, and treatment of the ruptured aneurysm
+
+are recommended, preferably within 24 hours. The
+
+goal of treatment should be complete obliteration
+
+whenever feasible to reduce the risk of rebleeding
+
+and retreatment.
+
+3. Balancing the goal of securing the ruptured aneu-
+
+rysm with risk of intervention is based on patient and
+
+aneurysm characteristics and should be determined
+
+by specialists with expertise in endovascular and sur-
+
+gical treatments. Use of established grading scales
+
+can assist in prognostication and shared decision-
+
+making with patients, families, and surrogates.
+
+4. Medical complications in multiple organ systems
+
+are associated with worse outcomes after aSAH.
+
+Standard intensive care unit bundles of care
+
+for mechanically ventilated patients and venous
+
+thromboembolism prophylaxis are recommended.
+
+Close hemodynamic monitoring and blood pres-
+
+sure management to minimize blood pressure vari-
+
+ability are beneficial. Goal-directed treatment of
+
+intravascular volume status to maintain euvolemia
+
+and avoid excess morbidity associated with hyper-
+
+volemia is also important in improving overall out-
+
+comes. Routine use of antifibrinolytic therapy did
+
+not improve functional outcomes.
+
+5. For new-onset seizures after aSAH, treatment with
+
+antiseizure medication for 7 days is recommended.
+
+Prophylactic antiseizure medication should not
+
+be routinely used but can be considered in high-
+
+risk patients (with ruptured middle cerebral artery
+
+aneurysm, intraparenchymal hemorrhage, high-
+
+grade aSAH, hydrocephalus, or cortical infarction).
+
+Phenytoin use is associated with excess morbidity
+
+and should be avoided. Monitoring with continuous
+
+electroencephalography can detect nonconvulsive
+
+seizures, especially in patients with depressed con-
+
+sciousness or fluctuating neurological examination.
+
+6. Delayed cerebral ischemia remains a significant
+
+complication and is associated with worse out-
+
+comes after aSAH. Monitoring of clinical dete-
+
+rioration requires trained nurses with expertise to
+
+rapidly detect neurological examination changes.
+
+Diagnostic modalities, including transcranial
+
+Doppler, computed tomography angiography, and
+
+computed tomography perfusion, when performed
+
+by trained expert interpreters, can be useful to detect
+
+cerebral vasospasm and predict delayed cerebral
+
+ischemia. Continuous electroencephalography and
+
+invasive monitoring may also be useful in patients
+
+with high-grade aSAH with limited neurological
+
+examination.
+
+7. Early initiation of enteral nimodipine is beneficial in
+
+preventing delayed cerebral ischemia and improv-
+
+ing functional outcomes after aSAH. Routine use
+
+of statin therapy and intravenous magnesium is not
+
+recommended.
+
+8. Elevating blood pressure and maintaining
+
+euvolemia in patients with symptomatic delayed
+
+cerebral ischemia can be beneficial in reducing
+
+the progression and severity of delayed cerebral
+
+ischemia. However, prophylactic hemodynamic
+
+augmentation and hypervolemia should not be per-
+
+formed to minimize iatrogenic patient risks.
+
+9. Cerebrovascular imaging after treatment and
+
+subsequent imaging monitoring are important in
+
+treatment planning for remnants, recurrence, or
+
+regrowth of the treated aneurysm and to identify
+
+changes in other known aneurysms. Although
+
+the risk of rerupture is low, the use of imaging to
+
+guide treatment decisions that may reduce the
+
+risk of future aSAH among survivors is recom-
+
+mended, especially in patients with residual aneu-
+
+rysm. Imaging monitoring for the development of
+
+de novo aneurysms is also important in younger
+
+patients with multiple aneurysms or with ≥2 first-
+
+degree relatives with aSAH.
+
+10. A multidisciplinary team approach to identify dis-
+
+charge needs and design rehabilitation treatment
+
+is recommended. Among aSAH survivors, physi-
+
+cal, cognitive, behavioral, and quality of life deficits
+
+are common and can persist. Early identification
+
+with validated screening tools can identify deficits,
+
+especially in behavioral and cognitive domains.
+
+Interventions for mood disorders can improve long-
+
+term outcomes, and counseling on the higher risk for
+
+long-term cognitive dysfunction may be beneficial.
