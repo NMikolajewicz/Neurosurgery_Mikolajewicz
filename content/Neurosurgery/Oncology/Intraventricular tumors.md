@@ -18,6 +18,17 @@ tags:
 - Intraventricular [[Neurosurgery/Oncology/Meningioma]]
 - [[Neurosurgery/Oncology/Central neurocytoma]]
 
+
+CENTRAL-MS (mnemonic)
+- choroid plexus tumor, colloid cyst
+- ependymoma
+- neurocytoma
+- teratoma
+- rule. out infection
+- astrocytma (GBM)
+- lymphoma
+- meningioma, metastasis
+- SEGA
 ### Common tumor types by location:  
 - **Lateral ventricle**: Central neurocytoma, subependymoma, ependymoma, choroid plexus papilloma, astrocytoma  
 - **Third ventricle**: Colloid cyst, craniopharyngioma (superior extension), hypothalamic glioma, germinoma  

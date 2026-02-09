@@ -1,6 +1,5 @@
 From github.com:NMikolajewicz/Neurosurgery_Mikolajewicz
- * [new branch]        claude/update-index-navigation-jFPNL -> origin/claude/update-index-navigation-jFPNL
-   4aaf8aa5..299de05d  v4         -> origin/v4
-From github.com:NMikolajewicz/Neurosurgery_Mikolajewicz
- * branch              v4         -> FETCH_HEAD
-Updating 4aaf8aa5..299de05d
+ - [deleted]           (none)     -> origin/dependabot/github_actions/ci-dependencies-837bdb4bc7
+ - [deleted]           (none)     -> origin/dependabot/npm_and_yarn/production-dependencies-e6d274b4ec
+ * [new branch]        dependabot/github_actions/ci-dependencies-1942315e49 -> origin/dependabot/github_actions/ci-dependencies-1942315e49
+ * [new branch]        dependabot/npm_and_yarn/production-dependencies-e554f87d80 -> origin/dependabot/npm_and_yarn/production-dependencies-e554f87d80

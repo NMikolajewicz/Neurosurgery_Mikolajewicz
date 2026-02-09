@@ -8,6 +8,7 @@ tags:
 ---
 ## Resources
 https://radiologyassistant.nl/neuroradiology/brain-ischemia/vascular-territories
+https://www.angiocalc.com/pdf/angiographyatlas.pdf
 
 ![[Neurosurgery/Anatomy/_resources/Arterial_supply.resources/Image 20230922 182605.png|500]]
 
@@ -34,7 +35,7 @@ Branch of CCA
 * (internal) maxillary
 
 ![[Neurosurgery/Anatomy/_resources/Arterial_supply.resources/Image 20230924 082600.png]]
-
+![[IMG_9291.jpeg]]
 * * *
 
 ### Internal carotid artery
@@ -109,7 +110,7 @@ Except for the terminal segment (C7), the odd-numbered segments usually have no 
 
 
 ![[Neurosurgery/Anatomy/_resources/Arterial_supply.resources/Image 20230924 083206.png]]![[Neurosurgery/Anatomy/_resources/Arterial_supply.resources/Image 20230924 083409.png]]![[Neurosurgery/Anatomy/_resources/Arterial_supply.resources/Image 20230924 083451.png]]
-
+![[IMG_9292.jpeg]]
 * * *
 
 ### Anterior choroidal artery
@@ -227,7 +228,7 @@ AICA - hemi-facial spasm. Involves CNVII
 PICA - glossopharyngeal neuralgia
 
 ![[Neurosurgery/Anatomy/_resources/Arterial_supply.resources/Image 20230924 122455.png]]![[Neurosurgery/Anatomy/_resources/Arterial_supply.resources/Image 20230924 123552.jpeg]]![[Neurosurgery/Anatomy/_resources/Arterial_supply.resources/Image 20230924 123657.png]]
-
+![[IMG_9290.jpeg]]
 * * *
 
 ### Internal capsule supply
