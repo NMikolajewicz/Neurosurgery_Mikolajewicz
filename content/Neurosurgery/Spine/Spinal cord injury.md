@@ -17,7 +17,7 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 >     
 > - Start **DVT prophylaxis** ASAP; ICU monitoring for high cervical/complete injuries.
 >     
-> - **MPSS**: benefit signal only if **≤8 h**; weigh against complications
+> - **MPSS (steroids)**: benefit signal only if **≤8 h**; weigh against complications
 >
 
 ## Key sources
@@ -174,7 +174,9 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 |**Brown-Séquard**|Penetrating trauma|**Ipsilateral motor + dorsal column loss**; **contralateral pain/temp loss**|
 |**Anterior cord**|Rare isolated in traumatic; more vascular|Motor loss + pain/temp loss; dorsal column spared|
 |**Posterior cord**|Rare isolated in traumatic; more vascular|Dorsal column loss; motor + pain/temp preserved|
+
 ![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.5.png|700]]
+
 ![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.6.png|700]]
 
 ## Prognosis 
