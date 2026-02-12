@@ -229,11 +229,11 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 - 2002 AANS/CNS: MPSS as an option if started within 8h
 - 2017 AO Spine: offer 24h infusion within 8h as option.
 
-> [!warning]
-> 
-> - If asked: present as **shared decision / institutional practice variability** + **timing constraint (≤8 h)** + **24 h infusion** when used.
->  
-
+| Source                                             | Bottom line                            | High-yield details                                                                                                                                            |
+| -------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AANS/CNS (Hurlbert et al, Neurosurgery 2013)**   | **Do NOT give MPSS routinely**         | **Level I:** MPSS **not recommended**; **not FDA-approved** for SCI; **no Class I/II evidence of benefit**; evidence of **harmful side effects incl. death**. |
+| **AO Spine/AACNS (Fehlings et al, 2017 MPSS CPG)** | **MPSS = optional ONLY if very early** | **Suggest** (weak) **24h high-dose MPSS within 8h** as a **treatment option**; **do not offer** if **>8h**; **do not offer 48h infusion**.                    |
+| **AO Spine/Praxis 2024 CPG focus issue**           | **No new steroid recommendation**      | 2024 focus covers **timing of decompression**, **hemodynamic management**, **intra-op SCI** (not MPSS).                                                       |
 ### Surgery
 
 - Goals: **realign**, **stabilize**, **decompress**; typically ==reduction + decompression + instrumented fusion==.
