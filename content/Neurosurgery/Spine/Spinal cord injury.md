@@ -205,7 +205,7 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 - Immobilize cranio-spinal axis (==rigid board + collar==); maintain precautions until stability confirmed/restored.
 ### ICU priorities
 
-- ICU care recommended (esp. complete cervical): continuous ==**cardiac/hemodynamic/respiratory**== monitoring.
+- ICU care recommended (esp. complete cervical): continuous ==cardiac/hemodynamic/respiratory== monitoring.
 ### Hemodynamics guidelines
 
 - **Older AANS/CNS (2013)**: avoid **SBP <90 mmHg**; maintain **MAP 85–90 mmHg for 7 days**; maintain **SpO₂ ≥90%**; start **DVT prophylaxis ASAP**.
@@ -243,7 +243,7 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 
 - Goals: **realign**, **stabilize**, **decompress**; typically ==reduction + decompression + instrumented fusion==.
 - Evidence direction: earlier decompression associated with better AIS/motor outcomes (prospective nonrandomized data); very early (≤8 h) signals benefit in some cohorts.
-- ==**≤24 h decompression recommended**== (AO Spine/Praxis update).
+- ==≤24 h decompression recommended== (AO Spine/Praxis update).
 
 ---
 
@@ -258,8 +258,8 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 ![[Pasted image 20260212135455.png|300]]
 ### Cardiovascular / Autonomic
 
-- ==**Orthostatic hypotension**==: ~**60%** symptomatic; compression stockings/abdominal binder; hydration/salt/**fludrocortisone**; **midodrine/ephedrine/droxidopa**.
-- ==**Autonomic dysreflexia**== (urgent)
+- ==Orthostatic hypotension==: ~**60%** symptomatic; compression stockings/abdominal binder; hydration/salt/**fludrocortisone**; **midodrine/ephedrine/droxidopa**.
+- ==Autonomic dysreflexia== (urgent)
     - Typically **≥T6**; trigger below lesion (bladder distension, bowel impaction, pressure sore) → ==dangerous HTN==
     - Immediate: **sit upright**, remove trigger, antihypertensives if refractory
     - Prevention: bowel/bladder program + pressure sore prevention
