@@ -224,6 +224,9 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 ### Steroids (MPSS) — controversial
 
 - NASCIS II: primary analysis negative; ==**≤8 h subgroup**: **+5 ASIA motor points at 6 mo** vs placebo==.
+    - 30 mg/kg IV bolus over 15 min
+    - 45 min later: 5.4 mg/kg/hour infusion × 23 hours
+- **Do not extend beyond 23–24h** (insufficient evidence for benefit; 48h associated with more complications).
 - 2012 Cochrane review (as cited): **~+4 ASIA motor points** long-term with **24 h high-dose MPSS** vs placebo/no treatment.
 - **AANS/CNS 2013**: recommend **against MPSS** (harm signal considered more consistent than benefit).
 - 2002 AANS/CNS: MPSS as an option if started within 8h
@@ -250,6 +253,7 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 - **Charcot (neuropathic) spinal arthropathy**: often **10–15 years** post-injury; deformity ± paradoxical pain ± neuro decline; manage conservative vs fusion.
 - **==Spasticity==**: **65–78%** in chronic SCI (>1 year); treat PT; meds (**diazepam, baclofen, clonidine**); intrathecal baclofen; botulinum; tendon release.
 
+![[Pasted image 20260212135455.png|300]]
 ### Cardiovascular / Autonomic
 
 - ==**Orthostatic hypotension**==: ~**60%** symptomatic; compression stockings/abdominal binder; hydration/salt/**fludrocortisone**; **midodrine/ephedrine/droxidopa**.
@@ -302,7 +306,9 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 - **MAP augmentation** reframed to **range** (**75–80 to 90–95 mmHg**) for **3–7 days** (suggested).
 - Added focus on **intra-operative SCI**: definition/risk, IONM use in high-risk cases, and suggested care pathway/checklist approach.
 
-	
+## Ongoing trials
+
+![[Pasted image 20260212135554.png|500]]
 
 
 
