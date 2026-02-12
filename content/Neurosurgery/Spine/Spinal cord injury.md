@@ -88,8 +88,9 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
     - <span style="background:rgba(240, 200, 0, 0.2)">Glial scar</span>: inhibitory ECM (notably CSPGs, tenascin, NG2) but also contains protective components (limits spread of injury).
     - Myelin inhibitors: Nogo-A, OMgp, MAG → RHOA/ROCK → growth cone collapse.
 
----
+![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.1.png|700]]
 
+![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.2.png|700]]
 ## Clinical Manifestations & Pearls
 
 - Fracture level ≠ neuro level
@@ -106,6 +107,8 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 - Spinal shock = transient flaccid paralysis + loss of motor/sensory/autonomic/reflex function at/below injury
 	- confounds early neuro exam
 	- 4-phase progression from areflexia → return of DTRs/hyperreflexia.
+	- ==Bulbocavernosus reflex==; absent in spinal shock, present in neurogenic shock
+		- For testing of the BCR, it is required to squeeze the glans penis in men and most commonly touching the clitoris (or labium minus) in women to stimulate the reflex while checking for a reflex contraction of the external anal sphincter.
 - Neurogenic shock = distributive shock from loss of sympathetic tone
     - Features: hypotension + bradycardia + wide pulse pressure + warm extremities
     - Clinically relevant above T6
@@ -129,7 +132,6 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 - **MRI**: best for cord/ligaments/discs/roots
     - **STIR (T2)**: detects ligament/disc edema/disruption
     - Identifies **transection**, **edema**, **hemorrhage**
-
 ### Reduction timing (cervical facet dislocation context)
 
 - MRI before closed reduction helps detect disc herniation (risk of neuro deterioration; evidence debated) but can **delay decompression**.
@@ -160,6 +162,8 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 > - **Sacral sparing** (perineal sensation/voluntary anal contraction) = "incomplete lesion" anchor concept for AIS.
 >  
 
+![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.4.png|700]]
+
 ## Classic SCI Syndromes (pattern recognition)
 
 - **Complete vs incomplete** = clinically complete but subclinical connectivity persists (e.g., electrophysiology).
@@ -170,33 +174,40 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 |**Brown-Séquard**|Penetrating trauma|**Ipsilateral motor + dorsal column loss**; **contralateral pain/temp loss**|
 |**Anterior cord**|Rare isolated in traumatic; more vascular|Motor loss + pain/temp loss; dorsal column spared|
 |**Posterior cord**|Rare isolated in traumatic; more vascular|Dorsal column loss; motor + pain/temp preserved|
+![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.5.png|700]]
+![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.6.png|700]]
 
 ## Prognosis 
 
-- Neuro recovery: mostly within **first 6 months**, can continue up to **5 years**.
-- Worse prognosis with: **more severe initial injury**, **higher level**, **older age**, **multisystem trauma**, **high-energy mechanism**.
-- **Ambulation**: **AIS A → <5% chance of walking at 1 year** (regardless of level).
-- Prediction tools mentioned (know existence)
-    - **van Middendorp** rule: ambulation prediction using acute exam features
-    - **Wilson** model: age + exam + MRI to predict functional independence
+- <span style="background:rgba(240, 200, 0, 0.2)">Neuro recovery</span>: mostly <6 months, up to 5 years.
+- Worse prognosis: 
+	- more severe initial injury
+	- higher level
+	- older age
+	- multisystem trauma
+	- high-energy mechanism.
+- <span style="background:rgba(240, 200, 0, 0.2)">Ambulation</span>: AIS A = <5% chance of walking at 1 year (regardless of level).
+- Prediction tools:
+    - van Middendorp rule: ambulation prediction using acute exam features
+	    - Predictors (5 total): Age (<65 vs ≥65) + L3 motor (quadriceps) + S1 motor (gastrocsoleus) + L3 light touch + S1 light touch
+	    - Performance: excellent discrimination (AUC ~0.96) in derivation + temporal validation
+	    - Source: https://pubmed.ncbi.nlm.nih.gov/21377202/
+    - Wilson model: age + exam + MRI to predict functional independence
 
 ---
 
 ## Acute Management (prehospital → ICU → OR)
 
-## Prehospital / ED
+### Prehospital / ED
 
-- **Immobilize cranio-spinal axis** (rigid board + collar); maintain precautions until stability confirmed/restored.
-- Expedite transfers; **specialized SCI center** recommended.
+- Immobilize cranio-spinal axis (==rigid board + collar==); maintain precautions until stability confirmed/restored.
+### ICU priorities
 
-## ICU priorities
+- ICU care recommended (esp. complete cervical): continuous ==**cardiac/hemodynamic/respiratory**== monitoring.
+### Hemodynamics guidelines
 
-- ICU care recommended (esp. complete cervical): continuous **cardiac/hemodynamic/respiratory** monitoring.
-
-### Hemodynamics (exam targets + guideline update)
-
-- **Older AANS/CNS (2013)** in source: avoid **SBP <90 mmHg**; maintain **MAP 85–90 mmHg for 7 days**; maintain **SpO₂ ≥90%**; start **DVT prophylaxis ASAP**.
-- **AO Spine/Praxis update (2024 focus issue)**
+- **Older AANS/CNS (2013)**: avoid **SBP <90 mmHg**; maintain **MAP 85–90 mmHg for 7 days**; maintain **SpO₂ ≥90%**; start **DVT prophylaxis ASAP**.
+- **AO Spine/Praxis update (2024)**
     - **Early decompression ≤24 h: "recommended"** treatment option.
     - **MAP target range: 75–80 to 90–95 mmHg for 3–7 days: "suggested"** treatment option.
 
@@ -205,150 +216,93 @@ tags: [ISNCSCI, ASIA, posterior-cord-syndrome, SCI, conus-medullaris-syndrome, c
 |**Decompression timing**|≤24 h previously "suggested" (low-quality evidence context)|**≤24 h "recommended"**|
 |**MAP augmentation**|**85–90 for 7 days** (AANS/CNS 2013 as cited)|**75–80 to 90–95 for 3–7 days "suggested"**|
 
-> [!exam]
+> [!Hemodynamic guidelines]
 > 
 > - Know **both**: classic **MAP 85–90 x 7d** (historical) and newer **range-based MAP 75–80 to 90–95 x 3–7d** (AO Spine/Praxis).
 >  
 
-### Steroids (MPSS) — controversy framework
+### Steroids (MPSS) — controversial
 
-- NASCIS II: primary analysis negative; **≤8 h subgroup**: **+5 ASIA motor points at 6 mo** vs placebo.
+- NASCIS II: primary analysis negative; ==**≤8 h subgroup**: **+5 ASIA motor points at 6 mo** vs placebo==.
 - 2012 Cochrane review (as cited): **~+4 ASIA motor points** long-term with **24 h high-dose MPSS** vs placebo/no treatment.
 - **AANS/CNS 2013**: recommend **against MPSS** (harm signal considered more consistent than benefit).
-- Source notes: 2002 AANS/CNS had MPSS as an option if started within 8h; 2017 AO Spine suggestion referenced (offer 24h infusion within 8h as option).
+- 2002 AANS/CNS: MPSS as an option if started within 8h
+- 2017 AO Spine: offer 24h infusion within 8h as option.
 
 > [!warning]
 > 
 > - If asked: present as **shared decision / institutional practice variability** + **timing constraint (≤8 h)** + **24 h infusion** when used.
 >  
 
-### Surgery (goals + timing)
+### Surgery
 
-- Goals: **realign**, **stabilize**, **decompress**; typically reduction + decompression + instrumented fusion.
+- Goals: **realign**, **stabilize**, **decompress**; typically ==reduction + decompression + instrumented fusion==.
 - Evidence direction: earlier decompression associated with better AIS/motor outcomes (prospective nonrandomized data); very early (≤8 h) signals benefit in some cohorts.
-- **Current high-yield**: **≤24 h decompression recommended** (AO Spine/Praxis update).
+- ==**≤24 h decompression recommended**== (AO Spine/Praxis update).
 
 ---
 
-## Complications (numbers + management hooks)
+## Complications 
 
-## Local (spine/cord)
+### Local (spine/cord)
 
-- **Post-traumatic syringomyelia**: ~**3%**; months–years; monitor if asymptomatic; surgery if progressive symptoms (connect cavity to intrathecal space).
+- **Post-traumatic ==syringomyelia==**: ~**3%**; months–years; monitor if asymptomatic; surgery if progressive symptoms (connect cavity to intrathecal space).
 - **Charcot (neuropathic) spinal arthropathy**: often **10–15 years** post-injury; deformity ± paradoxical pain ± neuro decline; manage conservative vs fusion.
-- **Spasticity**: **65–78%** in chronic SCI (>1 year); treat PT; meds (**diazepam, baclofen, clonidine**); intrathecal baclofen; botulinum; tendon release.
+- **==Spasticity==**: **65–78%** in chronic SCI (>1 year); treat PT; meds (**diazepam, baclofen, clonidine**); intrathecal baclofen; botulinum; tendon release.
 
-## Cardiovascular / Autonomic
+### Cardiovascular / Autonomic
 
-- **Orthostatic hypotension**: ~**60%** symptomatic; compression stockings/abdominal binder; hydration/salt/**fludrocortisone**; **midodrine/ephedrine/droxidopa**.
-- **Autonomic dysreflexia** (urgent)
-    - Typically **≥T6**; trigger below lesion (bladder distension, bowel impaction, pressure sore) → dangerous HTN
+- ==**Orthostatic hypotension**==: ~**60%** symptomatic; compression stockings/abdominal binder; hydration/salt/**fludrocortisone**; **midodrine/ephedrine/droxidopa**.
+- ==**Autonomic dysreflexia**== (urgent)
+    - Typically **≥T6**; trigger below lesion (bladder distension, bowel impaction, pressure sore) → ==dangerous HTN==
     - Immediate: **sit upright**, remove trigger, antihypertensives if refractory
     - Prevention: bowel/bladder program + pressure sore prevention
+### Respiratory / Infection
 
-> [!exam]
-> 
-> - **Autonomic dysreflexia = T6 and up** until proven otherwise.
->  
+- ==Respiratory muscle paralysis ==→ recurrent pneumonia/atelectasis/effusions
+- chronic SCI: respiratory complications = leading cause of mortality; high cervical may lead lifelong ventilation.
+- Secondary immunodeficiency ("==immune paralysis=="): ↑ pneumonia/UTI/wound infections; associated with high lesions; no accepted management.
 
-## Respiratory / Infection
+### GU/GI / Sexual
 
-- Respiratory muscle paralysis → recurrent pneumonia/atelectasis/effusions; chronic SCI: respiratory complications = leading cause of mortality; high cervical may lead lifelong ventilation.
-- **Secondary immunodeficiency ("immune paralysis")**: ↑ pneumonia/UTI/wound infections; associated with high lesions; **no accepted management**.
+- **≥L1–L2** injuries ==disrupt detrusor/sphincters== → retention/incontinence/UTIs; 
+	- Management: intermittent catheterization, stoma, botox, anticholinergics/α-blockers.
+- **Bowel dysfunction**: **~39%** report major QOL impact; 
+	- Management: fiber/digital stimulation/disimpaction/suppositories → stimulator/colostomy.
 
-## GU/GI / Sexual
+### Skin / MSK / Pain
 
-- **≥L1–L2** injuries disrupt detrusor/sphincters → retention/incontinence/UTIs; management includes intermittent catheterization, stoma, botox, anticholinergics/α-blockers.
-- **Bowel dysfunction**: **~39%** report major QOL impact; therapies from fiber/digital stimulation/disimpaction/suppositories → stimulator/colostomy.
-
-## Skin / MSK / Pain
-
-- **Pressure sores common sites**: buttocks **31%**, lateral thighs **26%**, sacrum **18%**, feet **7%**, ankles **4%**
+- ==Pressure sores==: buttocks **31%, lateral thighs 26%, sacrum 18%, feet 7%, ankles 4%
     - Prevention: daily skin checks + pressure relief q few hours
     - Treatment: asepsis, debridement, dressings, nutrition
-- **Heterotopic ossification**: **10–53%**; months; pain/redness/low-grade fever/increased spasticity; treat PT, **NSAIDs/bisphosphonates**, radiation, resection.
-- **Neuropathic pain**: up to **40%**; mean onset **1.2 years**; treat antidepressants/anticonvulsants/opioids; options include SCS/DBS/DREZ lesioning; CBT/acupuncture/massage.
+- Heterotopic ossification: 10–53%; months; pain/redness/low-grade fever/increased spasticity; treat PT, NSAIDs/bisphosphonates, radiation, resection.
+- Neuropathic pain: up to 40%; mean onset 1.2 years; treat antidepressants/anticonvulsants/opioids; options include SCS/DBS/DREZ lesioning; CBT/acupuncture/massage.
 
 ---
+## Rehabilitation & Functional Restoration 
 
-## Rehabilitation & Functional Restoration (trial pearls)
-
-- Requires interdisciplinary team; core: strength + cardio + respiratory conditioning + transfers/mobility + stretching to prevent contractures.
-- **WSLT trial**: randomized single-blind **n=146**, 12 weeks WSLT vs similar intensity rehab → **no difference**, both improved locomotion at 6 months.
-- **FES**: used for UE function; cycling/walker systems; can improve fitness metrics; can be implanted for bowel/bladder control (device examples noted).
+- Requires interdisciplinary team:
+	- core: strength + cardio + respiratory conditioning + transfers/mobility + stretching to prevent contractures.
+- **WSLT trial**: 
+	- randomized single-blind **n=146**, 12 weeks WSLT vs similar intensity rehab 
+	- results: **no difference**, both improved locomotion at 6 months.
+- **FES**: used for UE function; cycling/walker systems; can improve fitness metrics; can be implanted for bowel/bladder control
 
 ---
-
-## Emerging / Investigational Therapies (name recognition)
+## Emerging / Investigational Therapies
 
 - **Neuroprotective**: **minocycline**, **riluzole**, **systemic hypothermia (33°C)**.
 - **Neuroregenerative**: **RHOA/ROCK inhibition (VX-210/Cethrin)**, **anti-Nogo-A**, **biomaterial scaffolds**, **cell transplantation** (OECs, Schwann cells, OPCs).
 - **Neuromodulation/robotics**: epidural stimulation; exoskeleton-assisted ambulation.
 
 ---
-
-## AO Spine/Praxis Focus Issue (2024) — "what changed"
+## AO Spine/Praxis (2024): "what changed"
 
 - **Early decompression ≤24 h** strengthened to **recommended** treatment option.
 - **MAP augmentation** reframed to **range** (**75–80 to 90–95 mmHg**) for **3–7 days** (suggested).
 - Added focus on **intra-operative SCI**: definition/risk, IONM use in high-risk cases, and suggested care pathway/checklist approach.
 
-![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.3.png]]
+	
 
-![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.1.png]]
 
-![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.5.png]]
 
-![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.6.png]]
-International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI)
-The ISNCSCI is based on three scores:
-
-1. American Spinal Injury Association (ASIA) motor score
-	- grades muscle ==strength and movement==.
-2. The ASIA sensory score
-	- grades light ==touch and pinprick== feeling.
-
-      3.  The ASIA Impairment Scale grade
-
-- which determines whether the injury is ==complete or incomplete.==
-
-The ASIA Impairment Scale
-assigns the SCI a grade based on its severity.
-Grades range from A to E, with A being the most severe injury and E being the least severe.
-
-	Grade A (no motor, no sensory)
-		==Complete sensory or motor function loss== below the level of injury
-		
-		complete loss of S4-S5
-		
-	Grade B (no motor)
-		Sensation is preserved below the level of injury, but ==motor function is lost==.
-		
-	Grade C (severe weakness)
-		Motor below level of injury preserved
-		
-		\>50% of main muscles < 3 ASIA motor score.
-		
-	Grade D (mild weakness)
-		Motor function below level of injury preserved
-		
-		\>50%  main muscles >= 3 ASIA motor score.
-		
-	Grade E
-		Normal sensation and motor function.
-		
-
-![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.4.png]]
-bulbocavernosus reflex
-For testing of the BCR, it is required to squeeze the glans penis in men and most commonly touching the clitoris (or labium minus) in women to stimulate the reflex while checking for a reflex contraction of the external anal sphincter.
-
-![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.png]]
-
-![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.2.png]]
-
-Steroids in context of spinal trauma:
-
-- steroids if within 8 hours
-- otherwise no steroids
-
-![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/image.7.png]]![[Neurosurgery/Spine/_resources/Spinal_cord_injury.resources/Image 20231225 192340.jpeg]]
