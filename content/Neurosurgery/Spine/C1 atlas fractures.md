@@ -29,7 +29,7 @@ tags:
 
 - **Anterior OR posterior** arch fracture.
 - **Most common** C1 fracture pattern.
-- ==**Plough fracture==:** anterior arch fracture from odontoid being driven forward into the C1 ring.
+- ==Plough fracture==: anterior arch fracture from odontoid being driven forward into the C1 ring.
 - **Stable injury.**
 #### **Management**
 - **Management:** hard collar
@@ -41,7 +41,7 @@ tags:
 ### **Type II — Jefferson Burst Fracture**
 
 - **Bilateral fractures** of anterior AND posterior arches.
-- Classic mechanism: ==**axial load** ==(e.g., diving injury).
+- Classic mechanism: ==axial load==(e.g., diving injury).
 - **Key determinant:** transverse ligament integrity (see Dickman classification).
 
 #### **Management**
@@ -76,7 +76,7 @@ tags:
 ### **Type I — Intrasubstance Tear**
 
 - Complete fiber disruption without bony involvement.
-- ==**Highly unstable.**==
+- ==Highly unstable==
 - **Management:** C1–C2 fusion (primary).
 
 ### **Type II — Bony Avulsion**

@@ -23,15 +23,15 @@ tags:
 
 ### **Type I — Stable Hangman Fracture**
 - **~65% incidence**
-- Mechanism: ==**hyperextension + axial load**==
-- ==**<3 mm translation**==, **minimal/no angulation**
+- Mechanism: ==hyperextension + axial load==
+- ==<3 mm translation==, **minimal/no angulation**
 - Stable on flexion–extension films
 - **Management:** rigid collar x **6 weeks**
 ---
 ### **Type II — Unstable Hangman Fracture**
 - **~28% incidence**
 - Instability due to **C2–3 disc disruption**
-- ==**>3 mm translation**== and **significant angulation**
+- ==>3 mm translation== and **significant angulation**
 - **Management:** rigid immobilization x **12 weeks**
     - Fusion if alignment not maintained ("failure of nonoperative care")
 ---
@@ -39,7 +39,7 @@ tags:
 
 > [!note] Frequently overlooked but clinically important
 
-- ==Flexion–distraction mechanism==, **minimal translation but severe ==angulation** (>11%)==
+- ==Flexion–distraction mechanism==, minimal translation but severe ==angulation (>11%)==
 - High risk of failure with traction
 - **Management:** ==posterior C2–3 fusion== recommended
 ---
@@ -62,9 +62,9 @@ tags:
 ![[Neurosurgery/Spine/_resources/C2ring_of_axis_fractures.resources/Image 20241109 182830.jpeg|500]]
 
 ---
-## **4. Supplementary Clinical Pearls**
+## **4. Clinical Pearls**
 
-> [!tip] **Key Exam + Board Review Points**  
+> [!tip] **Key Points**  
 > • Hangman = **bilateral pars interarticularis fracture of C2**.  
 > • **Mechanism:** hyperextension + axial load (MVC, diving injury).  
 > • **Type I:** stable → collar.  

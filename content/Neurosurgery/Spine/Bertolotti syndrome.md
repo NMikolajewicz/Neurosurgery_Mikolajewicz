@@ -46,7 +46,7 @@ tags:
 - Anomalous joint between L5 TP and sacrum/ilium
 - **IIa:** Unilateral
 - **IIb:** Bilateral
-- ==**Common source of symptoms==.**
+- ==Common source of symptoms==.
 #### **Type III – Complete Bony Fusion**
 - **IIIa:** Unilateral
 - **IIIb:** Bilateral
@@ -72,7 +72,7 @@ tags:
 - Associated with ==Type II ==
 #### **2) Altered Biomechanics**
 
-- Transitional anatomy reduces motion at L5–S1 → ==compensatory **hypermobility at L4–L5**==
+- Transitional anatomy reduces motion at L5–S1 → ==compensatory hypermobility at L4–L5==
 - Increased shear forces → early degeneration of the L4–L5 disc and facets
 - Potential for ==adjacent segment disease== pattern
 - associated with ==Type III==

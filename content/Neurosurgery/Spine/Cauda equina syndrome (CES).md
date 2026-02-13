@@ -5,13 +5,13 @@ date modified: Thursday, November 13th 2025, 8:14:14 pm
 > [!summary] **Cauda Equina Syndrome Review**  
 > • CES = **compression of L2–S5 roots**, most often from a **large extruded L4–5 or L5–S1 disc**; a true **surgical emergency**.  
 > • Key symptoms: **urinary retention**, saddle anesthesia, bilateral sciatica, bowel/sexual dysfunction, LE weakness.  
-> • **Urinary retention is most predictive**: ==PVR **>200 mL = sensitive**, **>500 mL = highly specific**==.  
+> • **Urinary retention is most predictive**: ==PVR >200 mL = sensitive, >500 mL = highly specific==.  
 > • **Normal PVR does NOT exclude CES**—MRI is mandatory whenever suspicion persists.  
 > • MRI lumbar spine is the **gold standard**; red flags alone are unreliable.  
-> • Best outcomes with ==**decompression within 24 hours**== (benefit up to 48 h).  
+> • Best outcomes with ==decompression within 24 hours== (benefit up to 48 h).  
 > • Etiologies beyond disc herniation include hematoma, abscess, tumor, trauma, post-op compression.
 ## **1. Definition & Etiology**
-- Cluster of symptoms and exam findings due to ==**compression of the cauda equina** (L2–S5 roots)==.
+- Cluster of symptoms and exam findings due to ==compression of the cauda equina (L2–S5 roots)==.
 - **Most common cause:** acutely **extruded lumbar disc** (often large central/ paracentral L4–5 or L5–S1 herniations).
 - Other causes:
     - Severe lumbar stenosis
@@ -42,7 +42,7 @@ date modified: Thursday, November 13th 2025, 8:14:14 pm
 ### **A. Post-Void Residual (PVR)**
 - **≤200 mL:**
     - Lowers likelihood _but does not exclude CES_.
-    - Katzouraki et al.: ==PVR ≤200 mL **+ absence of clinical red flags → 98.7% likelihood of negative MRI**.==
+    - Katzouraki et al.: ==PVR ≤200 mL + absence of clinical red flags → 98.7% likelihood of negative MRI.==
 - **>200 mL:**
     - **Sensitive** for detecting CES.
 - **>500 mL:**
@@ -68,7 +68,7 @@ date modified: Thursday, November 13th 2025, 8:14:14 pm
 > 
 > - Emergent **lumbar decompression** (usually laminectomy + diskectomy).
 > 
-> - Best neurological outcomes occur when decompression is performed ==**within 24 hours** of symptom onset (some data extend benefit to ≤48 hours)==.
+> - Best neurological outcomes occur when decompression is performed ==within 24 hours of symptom onset (some data extend benefit to ≤48 hours)==.
 > 
 > - Address underlying cause (infection → antibiotics + drainage, hematoma evacuation, tumor resection/stabilization).
 > 

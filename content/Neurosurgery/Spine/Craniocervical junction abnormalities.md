@@ -3,24 +3,8 @@ date created: Wednesday, September 6th 2023, 4:55:39 pm
 date modified: Monday, December 22nd 2025, 7:24:49 pm
 tags: [craniocervical-junction]
 ---
----
-
-title: Craniocervical Junction Abnormalities  
-tags:
-
-- spine
-- ccj
-- craniovertebral
-- instability
-- basilar-invagination
-- atlantoaxial  
-    aliases:
-    
-- CVJ abnormalities
-- Craniovertebral junction abnormalities
-
----
 ## Core concept
+
 Craniocervical junction (CCJ) pathology often converges on two problems:
 1. **Foramen magnum / posterior fossa crowding** (ventral brainstem/upper cord compression)
 2. **Instability** (dynamic compression, myelopathy risk)
@@ -50,13 +34,13 @@ Craniocervical junction (CCJ) pathology often converges on two problems:
     - **Cupular** occipital shape
     - Often associated with **occipitalization of atlas**
 
-### Management (as provided)
+### Management 
 
 - **Preoperative halo traction** (5–25 lbs) × 2–5 days
     - reduces cervical instability
 - **Surgical decompression** at foramen magnum ± **C2–C3 laminectomy** with **cervico-occipital fusion**
 
-> [!note] Targeted supplementation: common radiographic "screeners"  
+> [!note] Common radiographic "screeners"  
 > Often quantified with skull base lines/angles (choose per institutional preference):
 > 
 > - **Chamberlain / McGregor** lines (dens migration)
@@ -93,10 +77,10 @@ Craniocervical junction (CCJ) pathology often converges on two problems:
 
 ---
 ## 3) Occipitalization of atlas
+
 - **Assimilation of atlas** (C1 fused to occiput)
 
-> [!note] Targeted supplementation  
-> Occipitalization can reduce the "buffer" motion at O–C1 and shift stress to C1–2 → watch for coexisting **atlantoaxial instability** or basilar invagination patterns.
+> [!note] Occipitalization can reduce the "buffer" motion at O–C1 and shift stress to C1–2 → watch for coexisting **atlantoaxial instability** or basilar invagination patterns.
 
 ---
 

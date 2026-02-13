@@ -15,7 +15,7 @@ tags:
 > • Classified by **Anderson–D’Alonzo**: Type I (tip avulsion), **Type II (base; highest non-union risk)**, Type III (into C2 body).  
 > • **Grauer** further refines Type II: IIA (nondisplaced → collar), **IIB (AS→PI line → anterior screw)**, **IIC (reverse obliquity/comminuted → posterior fusion)**.  
 > • **Surgery indications:** >5 mm displacement, age >50, non-union, TAL disruption, or inability to maintain reduction.  
-> • ==**Anterior odontoid screw** only for Type IIB== with good bone and reducibility; contraindicated in non-union, Type IIC, TAL injury, poor trajectory.  
+> • ==Anterior odontoid screw only for Type IIB== with good bone and reducibility; contraindicated in non-union, Type IIC, TAL injury, poor trajectory.  
 > • **Posterior C1–C2 fusion** preferred in elderly, comminution, IIC fractures, and TAL rupture—highest stability and fusion rates.  
 > • CT defines fracture orientation; MRI assesses **TAL integrity**.
 ---
@@ -36,7 +36,7 @@ tags:
 > [!note] Focuses on fracture line orientation and reducibility to guide fixation.
 
 - **Type IIA:** Minimally or nondisplaced; no comminution → ==good candidate== for external immobilization.
-- **Type IIB:** Displaced with fracture line **from anterosuperior → posteroinferior** → ==ideal for **anterior odontoid screw**==.
+- **Type IIB:** Displaced with fracture line **from anterosuperior → posteroinferior** → ==ideal for anterior odontoid screw==.
 - **Type IIC:** **Reverse obliquity** or comminuted (anteroinferior → posterosuperior) → ==poor screw purchase== → often needs posterior C1–C2 fusion.
 
 ![[Pasted image 20251113180752.png|300]]
@@ -95,12 +95,12 @@ tags:
 > [!tip] Goal: **internal fixation without fusion**, preserving C1–C2 rotation.
 
 ##### **Indications**
-- Type ==**IIB** fracture pattern ==(favorable obliquity)
+- Type ==IIB fracture pattern ==(favorable obliquity)
 - Adequate bone quality
 - Reducible fracture (sagittal alignment correctable intraoperatively)
 ##### **Contraindications**
 - **Non-union**
-- ==**Grauer Type IIC**== (reverse obliquity/comminution)
+- ==Grauer Type IIC== (reverse obliquity/comminution)
 - **TAL disruption** (requires fusion)
 - Inability to maintain adequate reduction
 - Severe osteoporosis

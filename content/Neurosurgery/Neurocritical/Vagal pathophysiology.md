@@ -163,7 +163,7 @@ tags:
 
 ## See also (Obsidian links)
 
-- [[Neurosurgery/Spine/Spinal cord injury]] — neurogenic shock physiology, MAP targets, reflex bradycardia triggers
+- [[Spinal cord injury (traumatic)]] — neurogenic shock physiology, MAP targets, reflex bradycardia triggers
 - [[Neurosurgery/Neurocritical/Intracranial pressure]] — Cushing physiology and emergency ICP management
 - [[Neurosurgery/Vascular/Subarachnoid hemorrhage]] — dysautonomia, NSM, NPE
 - [[Posterior Fossa Surgery]] / [[Transsphenoidal Surgery]] — trigeminocardiac reflex readiness
