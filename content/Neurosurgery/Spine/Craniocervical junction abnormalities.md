@@ -3,6 +3,23 @@ date created: Wednesday, September 6th 2023, 4:55:39 pm
 date modified: Monday, December 22nd 2025, 7:24:49 pm
 tags: [craniocervical-junction]
 ---
+> [!summary] Craniocervical junction (CCJ) pathology 
+> 
+> - Two buckets: **foramen magnum/posterior fossa crowding** (ventral brainstem/upper cord compression) vs **instability** (dynamic compression → myelopathy).
+>     
+> - Red flags: progressive myelopathy, lower CN symptoms, drop attacks/syncope, severe cervico‑occipital pain, **flex/extension‑provoked** symptoms.
+>     
+> - Basilar **invagination** = congenital dens ascent into _normal_ FM; **impression** = acquired skull‑base softening (Paget/RA/osteomalacia/HPT); **platybasia/convexobasia** = flat/“cupped” skull base.
+>     
+> - Screeners: **Chamberlain/McGregor**, **McRae**, **Wackenheim clivus line** → help judge **reducible vs irreducible** (traction response).
+>     
+> - **AAI**: ADI > **3 mm**; causes RA/Down/MPS; neutral MRI can miss → get **dynamic flex/ext X‑rays** (± kinematic MRI).
+>     
+> - **Os odontoideum/dens hypoplasia** + **occipitalization/Klippel‑Feil** often behave as **instability** (adjacent hypermobility).
+>     
+> - Management: reducible → **halo traction** → **FM decompression ± C2–3 laminectomy** + **occipito‑cervical fusion**; myelopathy/high‑risk instability → **posterior C1–2 or occipito‑cervical fusion** ± decompression.
+>
+
 ## Core concept
 
 Craniocervical junction (CCJ) pathology often converges on two problems:

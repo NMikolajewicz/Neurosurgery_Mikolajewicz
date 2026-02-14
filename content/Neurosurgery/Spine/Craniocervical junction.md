@@ -8,6 +8,26 @@ tags: [craniocervical-junction, anatomy]
 - [[Neurosurgery/Spine/Craniocervical junction abnormalities]]
 - [Offiah et al 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5265194/)
 ---
+
+> [!summary] Craniocervical junction ligaments 
+> 
+> - **CCJ concept**: **ring (occiput–C1)** houses neuraxis; **pillar (dens–C2)** provides pivot; ligaments bind ring↔pillar.
+>     
+> - **Transverse atlantal ligament (TAL)**: **strongest/primary stabilizer**; maintains **dens–C1** relationship → failure ⇒ **atlantoaxial instability** + risk **ventral cord/medullary compression**.
+>     
+> - **Alar ligaments**: paired **V-shaped** dens→skull base; **primary rotational restraint** → disruption ⇒ **rotatory instability/torticollis**.
+>     
+> - **Cruciform ligament** = **TAL + vertical limbs** (clivus↔C2); vertical part contributes **minimal** stability.
+>     
+> - **Tectorial membrane**: cranial extension of **PLL**, posterior to cruciform; blends with **dura cranially** (surgical plane can feel “stuck”).
+>     
+> - **AOAM** limits **atlanto-occipital extension**; **POAM** continues to posterior atlantoaxial membrane → **ligamentum flavum**.
+>     
+> - **Nuchal ligament** limits **hyperflexion**; **apical ligament** (dens tip→basion) often **absent (~20%)** and adds **minimal** stability.
+>     
+> - **Pearl**: if you only remember two stabilizers → **TAL (anterior restraint)** + **alar ligaments (rotation)**.
+>
+
 ## Overview
 - The **craniocervical junction (CCJ)** is the **transition zone between cranium and spine**
 - **Embryology**: mesodermal origin
@@ -165,7 +185,6 @@ tags: [craniocervical-junction, anatomy]
 
 ---
 
-## Targeted clinical supplementation (keep handy)
 
 > [!note] Imaging heuristics (practical)
 > 
