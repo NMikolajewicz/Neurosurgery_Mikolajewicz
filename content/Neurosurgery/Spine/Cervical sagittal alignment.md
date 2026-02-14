@@ -7,6 +7,21 @@ tags:
   - OPLL
   - degenerative-cervical-myelopathy
 ---
+> [!summary] Cervical sagittal alignment (CSM/DCM ± OPLL) 
+> 
+> - **Sagittal reserve:** C2–7 Cobb (lordosis vs kyphosis); ==preop kyphosis (≤0–10°)== → ↑ myelopathy severity + ↑ postop malalignment risk
+>     
+> - **Global balance:** ==C2–7 SVA ≥30–42 mm== (abnl >40 mm) → worse mJOA/disability, higher compensation demand
+>     
+> - **T1 slope:** high **T1S** = higher **lordosis requirement**; high T1S + limited lordosis reserve → postop sagittal problems
+>     
+> - **Dynamics/instability:** spondylolisthesis, high flex ROM, ==gap ROM >30°== → ↑ malalignment risk
+>     
+> - **OPLL “drift” feasibility:** **K-line** (+) → posterior cord drift likely; ==K-line (−)== / flex K-line (−) + high occupation ratio → poor drift
+>     
+> - **Approach selection:** CSM **without kyphosis** → ADF vs laminoplasty vs PDF similar; **severe kyphosis** or **K-line (−) OPLL** → favor **ADF ± PDF** (avoid posterior-only)
+>
+
 Cervical sagittal alignment influences **myelopathy severity, functional outcomes, and risk of postoperative malalignment**—especially in **CSM/DCM** and **OPLL**.
 
 > [!tip] Practical takeaway  
