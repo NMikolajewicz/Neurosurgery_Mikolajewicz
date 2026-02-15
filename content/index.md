@@ -2,7 +2,7 @@
 title: Nick's Neurosurgery Notes
 ---
 <!-- quartz:last-updated -->
-_Last updated: 2026-02-14 15:40 EST_
+_Last updated: 2026-02-15 13:18 EST_
 <!-- /quartz:last-updated -->
 
 Welcome to this comprehensive neurosurgery knowledge base. Use the navigation below to explore clinical topics, exam prep materials, and reference resources.

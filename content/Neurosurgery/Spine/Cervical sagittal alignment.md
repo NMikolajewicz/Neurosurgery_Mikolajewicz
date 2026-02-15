@@ -192,7 +192,7 @@ In patients with CSM/OPLL/DCM, the risk factors for postoperative misalignment:
 
 ---
 
-## Synthesis: a quick planning scaffold (CSM/DCM ± OPLL)
+## Synthesis: a planning scaffold (CSM/DCM ± OPLL)
 
 > [!summary] Preop checklist (fast mental model)
 > 
@@ -207,7 +207,7 @@ In patients with CSM/OPLL/DCM, the risk factors for postoperative misalignment:
 > - **OPLL drift feasibility**: **K-line ±** (and **flex K-line ±**) + occupation ratio
 >  
 
-> [!summary] Approach gist (from the provided points)
+> [!summary] Approach 
 > 
 > - **CSM without kyphosis** → ADF vs laminoplasty vs PDF: **no major overall difference**
 > 

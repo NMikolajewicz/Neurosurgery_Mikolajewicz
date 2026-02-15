@@ -1,30 +1,25 @@
 ---
 date created: Saturday, February 14th 2026, 11:17:50 am
-date modified: Saturday, February 14th 2026, 11:18:30 am
-tags:
-  - Imaging/CT
-  - Imaging/MRI
-  - c-spine-injury
-  - aspen-collar
-  - canadian-c-spine-rule
+date modified: Sunday, February 15th 2026, 1:12:46 pm
+tags: [Imaging/CT, Imaging/MRI, c-spine-injury, aspen-collar, canadian-c-spine-rule]
 ---
 See also [[Canadian C-Spine Rule]]
 
 > [!summary] CT-only collar clearance (obtunded adult blunt trauma)
 > 
 > - Use **high-quality CT** (≤3 mm slices, **multiplanar reconstructions/64-slice**) as the screening study.
->     
+> 
 > - **EAST 2015 (GRADE SR):** _conditional_ recommendation to **remove collar after negative high‑quality CT alone**; **0% unstable injuries** reported after neg CT.
->     
-> - **WTA 2019:** with normal high‑res CT, **NPV for unstable injury “approaches 100%”** → discontinue spine motion restriction.
->     
+> 
+> - **WTA 2019:** with normal high‑res CT, **NPV for unstable injury "approaches 100%"** → discontinue spine motion restriction.
+> 
 > - **Meta-analyses:** Panczykowski 2011 **Se/Sp >99.9%, NPV 100%** (unstable); Raza 2013 **NPV ~99.7%** (clinically significant).
->     
+> 
 > - **Prospective data (Como 2011):** safe collar removal after neg CT when **gross motor movement all extremities**; **no routine MRI** needed.
->     
+> 
 > - **MRI yield after normal CT:** mostly minor ligament/disk findings; **unstable injury essentially excluded** (Hogan 2005).
->     
-> - **Do NOT “CT-only clear”** if **focal neuro deficit**, **abnormal CT**, or **inadequate CT quality** → **MRI/spine consult** (Inaba/WTA 2016 false-negatives tied to focal deficits).
+> 
+> - **Do NOT "CT-only clear"** if **focal neuro deficit**, **abnormal CT**, or **inadequate CT quality** → **MRI/spine consult** (Inaba/WTA 2016 false-negatives tied to focal deficits).
 >
 
 ## Evidence supporting CT-only collar clearance in the obtunded adult
@@ -104,7 +99,7 @@ See also [[Canadian C-Spine Rule]]
 
 ---
 
-## Exceptions where MRI is  recommended 
+## Exceptions where MRI is recommended 
 
 Most CT-only clearance pathways still advise MRI (or spine consult) when:
 
