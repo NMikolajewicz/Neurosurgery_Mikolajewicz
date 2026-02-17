@@ -5,7 +5,29 @@ tags:
   - degenerative-cervical-myelopathy
   - cervical
   - DCM
+  - mJOA
 ---
+> [!exam] Degenerative Cervical Myelopathy (DCM/CSM)
+> 
+> - Degenerative cervical canal narrowing (disc/osteophytes, ligament hypertrophy, alignment changes ± OPLL) → progressive **cord dysfunction**.
+>     
+> - Typical: **>55y**; **imaging compression ≠ symptoms** (asymptomatic compression is common).
+>     
+> - Early: **gait imbalance/stiffness** ± LE weakness; “**numb-clumsy hands**” can occur; neck pain may be minimal.
+>     
+> - Exam: **UMN signs** (hyperreflexia, Hoffmann, Babinski), spastic gait; mixed **LMN UE + UMN LE** can mimic ALS.
+>     
+> - Severity: **mJOA 0–17** (mild **≥15**, moderate **12–14**, severe **<12**).
+>     
+> - Imaging: **MRI = test of choice**; add **CT/CT-myelogram** for bony/OPLL detail; assess alignment ± flex/extension films.
+>     
+> - Stenosis: **AP canal ≤10 mm** strongly associated; **<14 mm** ↑risk; **>16 mm** CSM rare; Pavlov/Torg <0.8 = poor PPV.
+>     
+> - Poor prognosis MRI: **multilevel T2 hyperintensity**, **T1↓ + T2↑**, “**snake/owl eyes**”, **cord atrophy <45 mm²**.
+>     
+> - Tx: mild—observe/rehab; **progressive or moderate–severe → decompression** (laminectomy w/o fusion → late kyphosis risk).
+>
+
 ## Definition
 
 - **DCM** = progressive **spinal cord dysfunction** due to **degenerative** cervical spine pathology (disc degeneration/osteophytes, ligamentous hypertrophy, alignment changes, ± OPLL)
@@ -35,7 +57,6 @@ tags:
 | **Key imaging test**             | **MRI** for canal + intrinsic cord changes and alternative diagnoses                                                                         |
 | **Poor prognostic MRI patterns** | Multilevel T2 hyperintensity; "snake/owl eyes"; cord atrophy <45 mm²; T2+T1 hypointensity at one level                                       |
 | **Tx                             | Mild cases may be observed vs surgery; **more severe → decompression**, benefits maintained at **5 & 15 years** (per cited guideline levels) |
-
 ## Normative cervical canal widths and stenosis metrics
 
 - **Normative cervical canal widths** (reference link):
@@ -66,9 +87,9 @@ tags:
     - Early difficulty running may occur
 ### Symptoms/signs
 
-![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094652.png|500]]
+![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094652.png|300]]
 
-![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094741.png|500]]
+![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094741.png|300]]
 
 ### Myelopathy vs radiculopathy
 
@@ -78,7 +99,6 @@ tags:
 - **Myelopathy clues**
     - UMN signs (often LE-predominant): spasticity; gait scissoring/poor leg control
     - Cord sensory patterns possible (including Brown-Séquard pattern)
-
 ### Frequency snapshot (one CSM series; n=37)
 
 - Pure myelopathy **59%**, myelopathy + radiculopathy **41%**
@@ -87,7 +107,6 @@ tags:
 - Hoffmann **13%**
 
 ---
-
 ## Clinical syndromes of CSM 
 
 - 1. **Transverse lesion syndrome**: corticospinal + spinothalamic + posterior columns ± segmental anterior horn involvement
@@ -97,7 +116,6 @@ tags:
 - 5. **Brachialgia + cord syndrome**: radicular UE pain + LMN weakness + long-tract involvement
 
 ---
-
 ## mJOA (modified Japanese Orthopaedic Association)
 
 - Evaluates **UE motor**, **LE motor**, **sensory**, **sphincter** function (total **0–17**, normal 17)
@@ -110,19 +128,16 @@ tags:
 > 
 > - **Severe**: **<12**
 >  
-
 ### mJOA components 
 
-|Domain|Scoring structure (high-yield)|
-|---|---|
-|UE motor|0–4 (worst → normal)|
-|LE motor|0–4 (worst → normal)|
-|Sensory|UE/LE/trunk each scored (worst → normal)|
-|Sphincter|0–3 (worst → normal)|
-|Total|**0–17**|
-
----
-
+| Domain    | Scoring structure (high-yield)           |
+| --------- | ---------------------------------------- |
+| UE motor  | 0–4 (worst → normal)                     |
+| LE motor  | 0–4 (worst → normal)                     |
+| Sensory   | UE/LE/trunk each scored (worst → normal) |
+| Sphincter | 0–3 (worst → normal)                     |
+| Total     | **0–17**                                 |
+![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 095316.jpeg|700]]
 ## Pathophysiology
 
 ![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094436.jpeg|500]]
@@ -149,7 +164,6 @@ tags:
 
 - Used as **surrogate** stenosis measures; evaluate alignment and dynamic instability
 - Flexion/extension can show abnormalities that static CT/MRI can miss
-
 ### MRI 
 
 - Defines canal + shows intrinsic cord abnormalities (edema/atrophy/etc) and helps rule out alternatives (tumor/Chiari/etc)
@@ -166,18 +180,22 @@ tags:
 > - **Cord atrophy**: transverse area **<45 mm²**
 >  
 
+> [!note] Owl's eye sign
+> 
+> - bilaterally symmetric circular to ovoid foci of high T2-weighted signals in the anterior horn cells of the spinal cord
+> 
+> - Common pattern in ASA infarct, myelopathy
+
+![[Pasted image 20260215132956.png|200]]![[Pasted image 20260215133250.png|200]]
 ### CT / CT-myelogram
 
 - CT: narrow canal/bony anatomy; limited soft tissue evaluation
 - CT-myelogram: excellent bony detail + can show cord atrophy; invasive (LP) + radiation
-
 ### Electrodiagnostics / monitoring
 
 - **EMG**: not routine in CSM; poor sensitivity for cervical radiculopathy; not reliable for predicting surgical outcome; useful to exclude neuropathy/ALS when suspicious
 - **SEPs**: limited; normal pre-op SEP or early post-op normalization associated with better outcome; consider if it will change decisions
-
 ---
-
 ## Differential diagnosis and diagnostic pitfalls
 
 - ~**12%** of presumed spondylotic cervical myelopathy cases later found to be another process (includes **ALS**, **MS**, etc.)
@@ -189,7 +207,6 @@ tags:
 >  
 
 ---
-
 ## Management
 
 ### Natural history
@@ -197,11 +214,9 @@ tags:
 - Symptoms are **variable and unpredictable**
 - Stenosis without myelopathy + radiculopathy/electrodiagnostic abnormalities → **risk of progression to myelopathy** (Class I)
 - Longstanding severe stenosis can yield irreversible deficit (necrosis) (Class III)
-
 ### Nonoperative
 
 - Options described: prolonged **rigid cervical collar**, anti-inflammatories, **low-risk activities** or bed rest (guideline level noted)
-
 ### Operative (headline)
 
 - **More severe myelopathy** → surgical decompression; benefits maintained at **5 and 15 years** in cited evidence levels
@@ -219,19 +234,15 @@ tags:
 - Congenital stenosis where anterior osteophyte removal still won't yield **~12 mm AP canal diameter**
 - Disease over **≥3 levels** (sometimes 4 can be anterior)
 - Primary posterior pathology (e.g., ligamentum flavum infolding)
-
 ### Posterior approach: late kyphosis details (high yield)
 
 - Quoted kyphosis incidence after laminectomy without fusion: **14–47%**
 - Example series: **31%** developed kyphosis; **16%** of those required stabilization
 - Kyphosis does **not necessarily** correlate with neurologic deterioration when deterioration occurs
-
 ### Intra-op monitoring
 
 - Routine intra-op EP monitoring should **not** be used as a trigger to alter surgical plan or administer steroids (Level D/Class III)
-
 ---
-
 ## Prognosis
 
 - Functional prognosis is driven by:
@@ -240,8 +251,7 @@ tags:
 - **OS/PFS:** not applicable (non-oncologic disease)
 
 ---
-
-## Detailed comparison of subtypes (markdown table)
+## Detailed comparison of subtypes 
 
 |Aspect|**CSM / Osteophytic DCM**|**OPLL-associated myelopathy**|**Congenital / developmental cervical stenosis**|**Acute myelopathy from cervical disc herniation**|
 |---|---|---|---|---|
@@ -253,35 +263,7 @@ tags:
 |**Treatment**|Mild: nonop vs surgery; more severe: decompression with durable benefit at 5 & 15 yrs; approach selection individualized|Technical considerations: severe OPLL → higher risk during intubation positioning; consider awake nasotracheal; anterior approach often favored; avoid distraction until decompressed|Posterior-first common when anterior decompression won't achieve ~12 mm AP diameter|Often urgent decompression if significant deficit/progression (supplement); treat associated instability as needed|
 |**Prognosis**|Variable; MRI poor-outcome patterns: multilevel T2 signal, snake eyes, T1 hypointensity+T2, cord atrophy <45 mm²|Higher complication profile when dura adherent; dural tear/CSF leak risk in aggressive anterior removal strategies (e.g., anterior approach in OPLL; corpectomy CSF leak risk range noted)|Depends on baseline deficit and MRI markers; posterior decompression can halt progression (supplement)|Highly variable; depends on severity, timing, and intramedullary signal change (supplement)|
 
----
 
-If you want, I can also generate an **Obsidian "one-screen algorithm"** (mJOA-based decision + anterior/posterior approach triggers) that matches Royal College exam style, using only the thresholds already present in your source.
 
-Normative cervical canal widths
 
-- <https://pubs.rsna.org/doi/abs/10.1148/radiol.13120370?journalCode=radiology#:~:text=Sagittal%20spinal%20canal%20diameter%20C1,mm%20and%20men%2C%2015.4%20mm>.
 
-### mJOA
-
-- modified Japanese Orthopaedic Association
-- Evaluates upper and lower limb sensory and motor functions
-- Interpretation
-	- mild if the mJOA score is 15 or larger
-	- moderate if the mJOA score ranges from 12 to 14
-	- severe if the mJOA score is less than 12
-
-![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 095316.jpeg]]
-
-### Symptoms/Signs
-
-![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094652.png]]
-
-![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094741.png]]
-
-### Pathophysiology
-
-![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094436.jpeg]]
-
-### Imaging Findings
-
-![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 094947.png]]![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 095007.png]]![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 095123.png]]

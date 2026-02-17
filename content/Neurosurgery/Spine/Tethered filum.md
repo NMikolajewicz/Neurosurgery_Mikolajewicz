@@ -29,6 +29,21 @@ tags:
 * urinary incontinence, impotence
 * scoliosis/kyphosis
 
+| [[Tethered cord syndrome]]: common presenting features (percentages from reported series) |       % |
+| ----------------------------------------------------------------------------------------- | ------: |
+| Any cutaneous finding                                                                     | **54%** |
+| Hypertrichosis                                                                            | **22%** |
+| Subcutaneous lipoma (no intraspinal extension)                                            | **15%** |
+| Misc. cutaneous (hemangiomatous discoloration, dermal sinus, multiple)                    | **17%** |
+| Gait difficulty with LE weakness                                                          | **93%** |
+| Visible muscle atrophy / short limb / ankle deformity                                     | **63%** |
+| Sensory deficit                                                                           | **70%** |
+| Bladder dysfunction                                                                       | **40%** |
+| Bladder dysfunction as only deficit                                                       |  **4%** |
+| Pain (back/leg/foot arches)                                                               | **37%** |
+| Scoliosis or kyphosis                                                                     | **29%** |
+| Posterior spina bifida (lumbar/sacral)                                                    | **98%** |
+
 ### Workup
 
 * MRI
