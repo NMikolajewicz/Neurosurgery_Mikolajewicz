@@ -62,6 +62,7 @@ tags:
 | **O: Oncologic**  | Histology, radiosensitivity, systemic options    | cEBRT vs SBRT vs systemic therapy          |
 | **M: Mechanical** | Instability (SINS), deformity, fracture          | Stabilization/augmentation ± decompression |
 | **S: Systemic**   | Performance status, comorbidity, life expectancy | Surgical candidacy vs palliation           |
+
 ![[Neurosurgery/Spine/_resources/NOMS_framework.resources/IMG_0832.PNG|700]]
 
 ## Diagnosis & Workup
@@ -101,6 +102,7 @@ tags:
 |                1c | Cord abutment without cord compression              | RT vs surgery depends on histology/stability  |
 |                 2 | Cord compression with residual CSF visible          | Often needs decompression for durable control |
 |                 3 | Cord compression with no CSF around cord            | Urgent decompression if surgical candidate    |
+
 ![[Neurosurgery/Spine/_resources/NOMS_framework.resources/IMG_2192.PNG|212]]![[Pasted image 20260217160336.png|300]]
 ### SINS Grading (mechanical)
 
@@ -147,42 +149,46 @@ tags:
 
 ### Osteolytic vs osteoblastic
 
-Osteoblastic
-- Prostate cancer (most common, 62-90% osteoblastic lesions
-- Small cell lung cancer
+> [!NOTE]- Bone response summary
+> ![[Pasted image 20260218133426.png|300]]]]
+
+<u>Osteoblastic</u>
+- ==Prostate== cancer (most common, 62-90% osteoblastic lesions
+- ==Small cell lung cancer== (SCLC)
 - Carcinoid tumors
 - Hodgkin lymphoma
 - Medulloblastoma
 - Breast cancer (15-20% have osteoblastic or mixed lesions)
 
-Osteolytic
-- Non-small cell lung cancer (40% develop bone metastases)
-- Renal cell carcinoma (20-35% develop bone metastases)
+<u>Osteolytic</u>
+- ==Non-small cell lung cancer== (NSCLC; 40% develop bone metastases)
+- ==Renal cell carcinoma== (20-35% develop bone metastases)
 - Thyroid cancer (mostly osteolytic with reactive bone formation)
-- Multiple myeloma
+- ==Multiple myeloma==
 - Melanoma
 - Non-Hodgkin lymphoma
 - Breast cancer (predominantly osteolytic in 56-85% of cases)
 
-Mixed Lesions
-- Breast cancer (most commonly demonstrates mixed
+<u>Mixed Lesions</u>
+- Breast cancer (most commonly demonstrates mixed)
 - Lung carcinoma (15% mixed)
 - Prostate cancer (15-24% mixed)
 - Gastrointestinal cancers
 - Squamous cell carcinomas
+
 ### Radiosensitivity
 
 > [!NOTE]- Radiosensitivity summary
 > ![[Neurosurgery/Spine/_resources/NOMS_framework.resources/IMG_2194.PNG|500]]
 
-Radiosensitive Tumors
-- Hematological malignancies (lymphoma, multiple myeloma)
+<u>Radiosensitive Tumors</u>
+- ==Hematological malignancies== (lymphoma, multiple myeloma)
 - Breast cancer
 - Prostate cancer
 - Small cell lung cancer
 
-Radioresistant Tumors
-- Renal cell carcinoma
+<u>Radioresistant Tumors</u>
+- ==Renal cell carcinoma==
 - Thyroid cancer
 - Non-small cell lung cancer
 - Melanoma

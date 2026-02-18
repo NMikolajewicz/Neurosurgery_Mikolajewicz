@@ -40,7 +40,7 @@ tags:
 
 > [!exam] Epidemiology estimates
 > 
-> - **Incidence**:** ~4–8 /100,000/year** range (likely underestimates).
+> - **Incidence**: ~4–8 /100,000/year range (likely underestimates).
 > 
 > - **Prevalence** **~60 /100,000** (conservative)
 >  
@@ -56,7 +56,7 @@ tags:
 | **Severity tool**                | **mJOA (0–17)**; valid/reliable but non-specific                                                                                             |
 | **Key imaging test**             | **MRI** for canal + intrinsic cord changes and alternative diagnoses                                                                         |
 | **Poor prognostic MRI patterns** | Multilevel T2 hyperintensity; "snake/owl eyes"; cord atrophy <45 mm²; T2+T1 hypointensity at one level                                       |
-| **Tx                             | Mild cases may be observed vs surgery; **more severe → decompression**, benefits maintained at **5 & 15 years** (per cited guideline levels) |
+| Tx                               | Mild cases may be observed vs surgery; **more severe → decompression**, benefits maintained at **5 & 15 years** (per cited guideline levels) |
 ## Normative cervical canal widths and stenosis metrics
 
 - **Normative cervical canal widths** (reference link):
@@ -137,6 +137,7 @@ tags:
 | Sensory   | UE/LE/trunk each scored (worst → normal) |
 | Sphincter | 0–3 (worst → normal)                     |
 | Total     | **0–17**                                 |
+
 ![[Neurosurgery/Spine/_resources/Degenerative_cervical_myelopathy.resources/Image 20231009 095316.jpeg|700]]
 ## Pathophysiology
 
@@ -217,24 +218,24 @@ tags:
 ### Nonoperative
 
 - Options described: prolonged **rigid cervical collar**, anti-inflammatories, **low-risk activities** or bed rest (guideline level noted)
-### Operative (headline)
+### Operative
 
-- **More severe myelopathy** → surgical decompression; benefits maintained at **5 and 15 years** in cited evidence levels
+- **More severe myelopathy** → surgical decompression; benefits maintained at **5 and 15 years** 
 - mJOA nuance: **mJOA >12** can still have meaningful impairment and may improve substantially with surgery; deterioration from this point may be ominous
 
-> [!tip] Approach selection (Greenberg summary + guideline statement)
+> [!tip] Approach selection (guideline statement)
 > 
 > - Evidence insufficient to prefer ACDF vs corpectomy/fusion vs laminectomy ± fusion vs laminoplasty for **short-term success** (Level D/Class III)
 > 
 > - Laminectomy **without fusion** → higher incidence of late kyphotic deformity (**14–47%**)
 >  
 
-### Posterior approach: when it's typically first-line (Greenberg)
+### Posterior approach: when it's typically first-line
 
 - Congenital stenosis where anterior osteophyte removal still won't yield **~12 mm AP canal diameter**
 - Disease over **≥3 levels** (sometimes 4 can be anterior)
 - Primary posterior pathology (e.g., ligamentum flavum infolding)
-### Posterior approach: late kyphosis details (high yield)
+### Posterior approach: late kyphosis details 
 
 - Quoted kyphosis incidence after laminectomy without fusion: **14–47%**
 - Example series: **31%** developed kyphosis; **16%** of those required stabilization
@@ -246,7 +247,7 @@ tags:
 ## Prognosis
 
 - Functional prognosis is driven by:
-    - Baseline severity (mJOA), symptom duration (supplement), and MRI markers
+    - Baseline severity (mJOA), symptom duration, and MRI markers
     - MRI poor prognostic patterns: multilevel T2 signal, snake eyes, cord atrophy <45 mm², T1 hypointensity + T2 hyperintensity
 - **OS/PFS:** not applicable (non-oncologic disease)
 

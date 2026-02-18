@@ -126,6 +126,7 @@ See also [[Lipomyelomeningodysplasia]]
 | Maternal serum screening | **↑ AFP**                                        | Screening for open NTD           |
 | Amniocentesis            | **↑ AFP**, **↑ AChE**                            | Confirmation/support of open NTD |
 | Fetal ultrasound         | **Lemon sign** (bifrontal narrowing/indentation) | Key antenatal imaging clue       |
+
 ![[Neurosurgery/Spine/_resources/Myelomeningocele.resources/image.1.png|300]]![[Neurosurgery/Spine/_resources/Myelomeningocele.resources/image.2.png|300]]
 ### Postnatal (pre-op and surveillance)
 
@@ -171,9 +172,9 @@ See also [[Lipomyelomeningodysplasia]]
 
 > [!checklist] Delivery-room → OR checklist (MMC)
 > 
-> - **Best next step:** **cover lesion** with sterile, non-adherent dressing (moist) + position to avoid pressure (VERIFY dressing protocol)
+> - **Best next step:** **cover lesion** with sterile, non-adherent dressing (moist) + position to avoid pressure
 > 
-> - **Tx:** start **prophylactic antibiotics** (**nafcillin + gentamicin** per notes)
+> - **Tx:** start **prophylactic antibiotics** (**nafcillin + gentamicin**)
 > 
 > - **Dx:** baseline neuro exam + document motor/sensory level
 > 

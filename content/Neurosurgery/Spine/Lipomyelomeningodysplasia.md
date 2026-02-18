@@ -110,6 +110,7 @@ tags: [spinal-cord, lipomyelomeningodysplasia, spinal-dysraphism]
 |**[[MRI]]**|Defines **lipoma**, **placode**, **low conus**, associated anomalies; best pre-op planning|Needs appropriate sequences (include fat-sat)|
 |**Myelogram/CT myelogram**|Demonstrates **low conus** when MRI not feasible|Filum "diameter" can vary with contrast concentration; inferior soft-tissue detail|
 |**Ultrasound** (neonate)|Screening for dysraphism/mass when seen at birth (before posterior element ossification)|Limited beyond early infancy|
+
 ![[Neurosurgery/Spine/_resources/Lipomyelomeningodysplasia.resources/image.png|500]]
 ## Management
 
@@ -163,25 +164,23 @@ D -- No --> F[Consider syringomyelia until proven otherwise\n→ MRI spine/brain
 A --> G[If signs of brainstem compression\n→ consider symptomatic Chiari II\n→ posterior fossa decompression]
 ```
 
-^algo-mm-deterioration
 
 ## Pitfalls & Red Flags
 
 > [!warning]
 > 
-> - **Pitfall:** treating the **subcutaneous fat pad cosmetically** without addressing intradural tethering → does **not** prevent decline; can compromise definitive surgery.
+> - **Pitfall:** 
+> 	- treating the **subcutaneous fat pad cosmetically** without addressing intradural tethering → does **not** prevent decline; can compromise definitive surgery.
+> 	- skipping baseline **urodynamic/urologic documentation** → post-op change cannot be interpreted.
+> 	- in [[Myelomeningocele]] patients, calling it "tethered cord" without confirming **shunt function/ICP**.
 > 
-> - **Pitfall:** skipping baseline **urodynamic/urologic documentation** → post-op change cannot be interpreted.
+> - **Red flag:** 
+> 	- new/worsening **bladder dysfunction** (especially recurrent UTIs or new retention/incontinence pattern).
+> 	- progressive **gait deterioration**, new LE weakness/atrophy, or new sacral sensory loss.
+> 	- progressive **scoliosis** (benefit of untethering is greatest when curvature is **mild**).
 > 
-> - **Pitfall:** in [[Myelomeningocele]] patients, calling it "tethered cord" without confirming **shunt function/ICP**.
-> 
-> - **Red flag:** new/worsening **bladder dysfunction** (especially recurrent UTIs or new retention/incontinence pattern).
-> 
-> - **Red flag:** progressive **gait deterioration**, new LE weakness/atrophy, or new sacral sensory loss.
-> 
-> - **Red flag:** progressive **scoliosis** (benefit of untethering is greatest when curvature is **mild**).
-> 
-> - **Complication:** **CSF leak** (reported ~**15%** in tethered cord/MM context).
+> - **Complication:** 
+> 	- **CSF leak** (reported ~**15%** in tethered cord/MM context).
 >  
 
 ## Self-test 
