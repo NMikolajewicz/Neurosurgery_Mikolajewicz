@@ -3,7 +3,6 @@ date created: Monday, September 11th 2023, 8:28:02 pm
 date modified: Monday, December 22nd 2025, 6:09:00 pm
 tags: [craniocervical-junction, anatomy]
 ---
----
 ## See also
 - [[Neurosurgery/Spine/Craniocervical junction abnormalities]]
 - [Offiah et al 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5265194/)
