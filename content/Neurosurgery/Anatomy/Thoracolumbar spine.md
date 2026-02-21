@@ -115,50 +115,60 @@ tags:
 
 A CT study focusing on **T8–L1** (sagittal-plane facet angle relative to a posterior body reference line) found mean angles around **165° (T8–T9)** trending down toward **~161° (T12–L1)**, again emphasizing subtle but real junctional changes. 
 
-### Pedicle/screw anatomy and operative-relevant measurements
+### Pedicle/screw measurements
 
 **How to interpret numbers
-- “Pedicle width” may mean (definitions vary by study):
-	- outer cortical diameter vs inner cancellous diameter vs isthmus width—**definitions vary by study**. 
-- “Chord length” approximates the maximal in-bone path from posterior entry toward anterior body cortex along the pedicle axis; it informs screw length selection and breach risk. citeturn16view0turn18view0
+- “==Pedicle width==” (definitions vary by study):
+	- outer cortical diameter 
+	- inner cancellous diameter
+	- isthmus width
+- “==Chord length==” 
+	- approximates the maximal in-bone path from posterior entry toward anterior body cortex along the pedicle axis; 
+	- it informs ==screw length selection and breach risk==. 
 
-**Operative-relevant measurement table (typical values; note population + method variability)**  
-Thoracic values below are CT morphometry (T1–T12) from one large dataset; lumbar chord/angle examples are CT-based (L1–L5) from a large dataset, while lumbar pedicle widths are pooled meta-analysis values. citeturn16view0turn18view0turn15view0
+#### **Measurement table**
 
-| Level | Pedicle width (mm) | Medial pedicle angle (deg, transverse plane) | Chord length / screw path (mm) | Practical instrumentation note |
-|---|---:|---:|---:|---|
-| T1 | 9.27 ± 1.01 | 35.4 ± 2.21 | 30.30 ± 2.11 | Upper thoracic: large medial angulation; shorter chord length. |
-| T2 | 7.5 ± 1.13 | 26.21 ± 4.12 | 32.30 ± 3.24 |  |
-| T3 | 6.0 ± 1.23 | 20.01 ± 2.22 | 33.21 ± 2.64 |  |
-| T4 | 4.5 ± 0.93 | 19.06 ± 3.12 | 36.5 ± 2.26 | **Classic narrow pedicle level** (many <5 mm). |
-| T5 | 5.0 ± 1.12 | 16.0 ± 2.12 | 37.83 ± 3.24 | Narrow pedicles remain common. |
-| T6 | 5.5 ± 0.74 | 14.38 ± 2.24 | 39.84 ± 3.58 |  |
-| T7 | 6.0 ± 1.16 | 11.82 ± 2.38 | 40.07 ± 4.03 |  |
-| T8 | 6.32 ± 1.56 | 12.29 ± 2.11 | 40.64 ± 3.29 |  |
-| T9 | 6.28 ± 1.32 | 11.21 ± 2.33 | 39.54 ± 2.88 |  |
-| T10 | 6.54 ± 1.12 | 8.7 ± 2.38 | 40.11 ± 3.45 |  |
-| T11 | 7.84 ± 1.33 | −2.3 ± 7.34 | 36.21 ± 4.08 | Angle may shift outward in some patients. |
-| T12 | 8.31 ± 1.83 | −9.8 ± 2.39 | 34.24 ± 3.33 | Transitional anatomy; confirm trajectory carefully. |
-| L1 | ~7.51 (pooled mean) | 12.68 ± 2.54 (range 7.6–17.1) | ~49.18 (trend value) | CT series suggests L1 may fit smaller screws vs lower lumbar. |
-| L2 | ~8.23 (pooled mean) | (increases vs L1) | (increases toward L3) |  |
-| L3 | ~9.71 (pooled mean) | (increases vs L2) | 50.92 ± 2.86 (45.2–56.6) | Peak chord length in one large CT dataset. |
-| L4 | ~11.52 (pooled mean) | (increases vs L3) | (decreases vs L3) |  |
-| L5 | ~14.58 (pooled mean) | 28.23 ± 3.87 (20.5–36.0) | 47.63 (decreases vs L3) | Marked medial angulation; trajectory constraints (iliac crest). |
+| Level |   Pedicle width (mm) | Medial pedicle angle <br>(degrees;<br>transverse plane) | Chord length / screw path (mm) | Practical instrumentation note                                  |
+| ----- | -------------------: | ------------------------------------------------------: | -----------------------------: | --------------------------------------------------------------- |
+| T1    |          9.27 ± 1.01 |                                             35.4 ± 2.21 |                   30.30 ± 2.11 | Upper thoracic: large medial angulation; shorter chord length.  |
+| T2    |           7.5 ± 1.13 |                                            26.21 ± 4.12 |                   32.30 ± 3.24 |                                                                 |
+| T3    |           6.0 ± 1.23 |                                            20.01 ± 2.22 |                   33.21 ± 2.64 |                                                                 |
+| T4    |       ==4.5 ± 0.93== |                                            19.06 ± 3.12 |                    36.5 ± 2.26 | **Classic narrow pedicle level** (many <5 mm).                  |
+| T5    |           5.0 ± 1.12 |                                             16.0 ± 2.12 |                   37.83 ± 3.24 | Narrow pedicles remain common.                                  |
+| T6    |           5.5 ± 0.74 |                                            14.38 ± 2.24 |                   39.84 ± 3.58 |                                                                 |
+| T7    |           6.0 ± 1.16 |                                            11.82 ± 2.38 |                   40.07 ± 4.03 |                                                                 |
+| T8    |          6.32 ± 1.56 |                                            12.29 ± 2.11 |                   40.64 ± 3.29 |                                                                 |
+| T9    |          6.28 ± 1.32 |                                            11.21 ± 2.33 |                   39.54 ± 2.88 |                                                                 |
+| T10   |          6.54 ± 1.12 |                                              8.7 ± 2.38 |                   40.11 ± 3.45 |                                                                 |
+| T11   |          7.84 ± 1.33 |                                             −2.3 ± 7.34 |                   36.21 ± 4.08 | Angle may shift outward in some patients.                       |
+| T12   |          8.31 ± 1.83 |                                         ==−9.8 ± 2.39== |                   34.24 ± 3.33 | Transitional anatomy; confirm trajectory carefully.             |
+| L1    |  ~7.51 (pooled mean) |                       12.68 ± 2.54 <br>(range 7.6–17.1) |                         ~49.18 | CT series suggests L1 may fit smaller screws vs lower lumbar.   |
+| L2    |  ~8.23 (pooled mean) |                                       (increases vs L1) |          (increases toward L3) |                                                                 |
+| L3    |  ~9.71 (pooled mean) |                                       (increases vs L2) |   50.92 ± 2.86 <br>(45.2–56.6) | Peak chord length in one large CT dataset.                      |
+| L4    | ~11.52 (pooled mean) |                                       (increases vs L3) |              (decreases vs L3) |                                                                 |
+| L5    | ~14.58 (pooled mean) |                                28.23 ± 3.87 (20.5–36.0) |        47.63 (decreases vs L3) | Marked medial angulation; trajectory constraints (iliac crest). |
 
-**What examiners often want you to say (explicitly)**
-- In one thoracic CT dataset, **T4: ~76%** and **T5: ~62%** of pedicles were <5 mm (not accepting a 4.0 mm screw with 1.0 mm “clearance” assumption). citeturn16view0  
-- The same dataset suggests (as a practical guide) **25–30 mm** screws often fit from **T1–T6 and T11–T12**, whereas **30–35 mm** screws may fit from **T7–T10**—but this is not a substitute for CT plan. citeturn16view0  
-- Lumbar CT morphometry can show wide population variability; one large CT series found L1 transverse pedicle diameter mean ~5.8 mm (range ~3.7–7.8) and L5 mean ~13.6 mm (range ~10.7–16.6), illustrating why “one screw size fits all” is an unsafe assumption. citeturn18view0  
-- For MIS lumbar pedicle screw fixation, a CT-guided study recommends limiting screw projection on lateral view to about **≤85%** of vertebral body length at **L1**, **≤80%** at **L2–L4**, and **≤75%** at **L5** to balance purchase and anterior breach risk. citeturn22view0
+#### Pedicle angle
 
-## Ligaments discs and the posterior tension band
+![[Pasted image 20260221131820.png]]
 
-This section is high-yield because examiners commonly turn an imaging finding (“thickened yellow ligament,” “posterior disc herniation,” “stenosis”) into a structure-based surgical question.
+#### Screw starting points
+
+Safe placement of segmental pedicle screws is essential. 
+The starting point must never be medial to the midpoint of the superior facet.
+
+![[Pasted image 20260221132005.png|375]]![[Pasted image 20260221132131.png|200]]
+
+![[Pasted image 20260221131946.png|500]]
+## Ligamentous structures
 
 ### Intervertebral discs (thoracic/lumbar)
-- The intervertebral disc includes **annulus fibrosus**, **nucleus pulposus**, and **cartilaginous endplates**. citeturn20search6  
-- Discs comprise roughly **~25%** of vertebral column length and support (are supported by) the longitudinal ligaments. citeturn21search6turn21search12  
-- Surgical anatomy cue: posterolateral herniation patterns are influenced by posterior longitudinal ligament geometry (thin/variable constraints), frequently invoked when discussing cauda equina compression patterns. citeturn23view0
+- The intervertebral disc: 
+	- annulus fibrosus
+	- nucleus pulposus
+	- cartilaginous endplates. 
+- Discs are ==~25% of vertebral column length== and support (are supported by) the longitudinal ligaments. 
+- Surgical anatomy cue: Posterolateral herniation patterns are influenced by PLL geometry (thin/variable constraints)
 
 ### Anterior longitudinal ligament
 - The **anterior longitudinal ligament (ALL)** spans from the cranial base region to the sacrum in standard descriptions and helps resist **hyperextension** while contributing to anterior stability. citeturn21search11turn21search12  
