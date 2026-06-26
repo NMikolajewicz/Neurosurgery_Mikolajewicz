@@ -42,7 +42,7 @@ tags: [stroke, ICH, hemorrhage]
 - **Cavernous angioma**
     - neurovascular disorder
     - dilated leaky capillaries following dysfunctional endothelium
-- [[Moyamoya disease]]
+- [[Moyamoya disease & syndrome]]
     - rare condition
     - vascular constriction within arteries at the circle of willis
     - results in abnormal vessel formation compensating for blockage of normal blood flow

@@ -1,5 +1,7 @@
 ---
 ---
+![[Pasted image 20260531174509.png|700]]
+
 # Cervical
 
 ## C1 (atlas) lateral mass

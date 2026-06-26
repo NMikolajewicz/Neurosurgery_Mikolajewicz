@@ -275,7 +275,7 @@ see also [[Neurosurgery/Vascular/Cavernous malformation]]
 > [!summary] **Overview**  
 > Progressive ==steno-occlusive arteriopathy of the terminal ICA== with compensatory basal collaterals ("puff of smoke"). Children present with ischemia; adults with hemorrhage.
 
-see also [[Neurosurgery/Vascular/Moyamoya disease]]
+see also [[Moyamoya disease & syndrome]]
 ### **Etiology**
 
 - Idiopathic; familial clusters (autosomal dominant, 17q25)

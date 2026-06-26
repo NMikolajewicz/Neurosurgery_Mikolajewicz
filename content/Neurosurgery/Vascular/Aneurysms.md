@@ -1,7 +1,8 @@
 ---
 ---
-### General notes
+### General 
 
+* anuerysm; origin from greek for "dilation"
 * Never clip a basilar aneurysm - asking for trouble!
 * Cavernous sinus aneurysms, lowest rupture rates
 * growth of aneurysm at follow up associated with increased rupture risk
@@ -10,10 +11,13 @@
 ### Epidemiology
 
 * 3-5% aneurysm prevalence in general population
+* median age of rupture: 52 years
 * women 2:1
 * incidence of SAH: 14/100,000
 * most aneurysms don't rupture
 
+### Pathogenesis
+- 
 ### Ruptured aneurysms (SAH)
 
 * overall mortality: 32%
@@ -53,11 +57,11 @@
 * <https://radiopaedia.org/articles/infundibulum-artery?lang=us>
 * most common location: origin of PCOM from supraclinoid ICA
 
-![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4575.PNG]]
+![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4575.PNG|500]]
 
 ### Location
 
-![[Neurosurgery/Vascular/_resources/Aneurysms.resources/image.png]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/Image 20231110 125311.jpeg]]
+![[Neurosurgery/Vascular/_resources/Aneurysms.resources/image.png|500]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/Image 20231110 125311.jpeg|500]]
 
 ### PHASES aneurysm risk score
 
@@ -73,14 +77,14 @@
 * Japanese study (Tominari et al 2015)
 	* similar to PHAGE score, but also includes daughter sac![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_2229.HEIC]]
 		
-* ![[Neurosurgery/Vascular/_resources/Aneurysms.resources/image.2.png]]
+* ![[Neurosurgery/Vascular/_resources/Aneurysms.resources/image.2.png|500]]
 
 ### ELAPSS Score
 
 * predicting aneurysm growth
 * Predictors: earlier SAH, location, age, population, size, shape of aneurysm
 
-![[Neurosurgery/Vascular/_resources/Aneurysms.resources/image.1.png]]
+![[Neurosurgery/Vascular/_resources/Aneurysms.resources/image.1.png|500]]
 
 ### 
 
@@ -122,11 +126,11 @@
 
 ### Follow up algorithm
 
-![[Neurosurgery/Vascular/_resources/Aneurysms.resources/Image 20250306 084645.png]]
+![[Neurosurgery/Vascular/_resources/Aneurysms.resources/Image 20250306 084645.png|500]]
 
 ### Occlusion Grading: Ramymond-Roy Scale
 
-![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4657.JPG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4653.JPG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4652.JPG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4654.PNG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4656.JPG]]
+![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4657.JPG|500]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4653.JPG|500]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4652.JPG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4654.PNG]]![[Neurosurgery/Vascular/_resources/Aneurysms.resources/IMG_4656.JPG]]
 
 
 

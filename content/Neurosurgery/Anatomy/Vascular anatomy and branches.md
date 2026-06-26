@@ -68,7 +68,7 @@ The posterior circulation is composed of the **Vertebral Arteries (VAs)** and th
 3. ### Posterior Inferior Cerebellar Artery (PICA)
 	
 	* **Origin**: Typically from the intradural VA.
-	* **Segments** (ALPS-C mnemonic):
+	* **Segments** **(ALPS-C mnemonic):**
 		* **Anterior Medullary**: From origin to inferior olivary prominence, related to hypoglossal nerve.
 		* **Lateral Medullary**: Around inferior olive to CN IX, X, XI origins.
 		* **Posterior Medullary (Tonsillomedullary)**: Loops below cerebellar tonsil (caudal loop).

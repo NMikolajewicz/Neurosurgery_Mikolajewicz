@@ -234,12 +234,12 @@ additional subgroups have been recognized based on [DNA-methylation profiling](h
 
 ## Imaging
 
-|     |     |
-| --- | --- |
-| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.png]] | Medulloblastoma with drop metastasis<br>![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.1.png]] |
-| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.2.png]]<br>axial T2 | ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.3.png]]<br>sagital T1 |
-| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.4.png]]<br>axial T1 | ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.5.png]]<br>CT axial non-contrast |
-| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.6.png]]<br>axial T2 | ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.7.png]]<br>axial T1 |
-| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.8.png]]<br>axial DWI |     |
+|                                                                                          |                                                                                                                     |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.png]]                | Medulloblastoma with drop metastasis<br>![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.1.png]] |
+| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.2.png]]<br>axial T2  | ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.3.png]]<br>sagital T1                           |
+| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.4.png]]<br>axial T1  | ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.5.png]]<br>CT axial non-contrast                |
+| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.6.png]]<br>axial T2  | ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.7.png]]<br>axial T1                             |
+| ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.8.png]]<br>axial DWI |                                                                                                                     |
 
 ![[Neurosurgery/Oncology/_resources/Medulloblastoma.resources/image.10.png]]
